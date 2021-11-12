@@ -1,0 +1,2862 @@
+GameID,Linreg Prediction,GB Prediction,RF Prediction,NN Predictions,Result,Stacked Prediction
+2014-12-22 00:00:00 Clippers @ San Antonio,1,0,1,0,0,1.0
+2016-03-16 00:00:00 New York @ Golden State,1,0,1,0,0,1.0
+2018-11-06 00:00:00 Atlanta @ Charlotte,0,0,0,0,1,0.0
+2019-02-02 00:00:00 Chicago @ Charlotte,0,0,0,0,0,0.0
+2019-02-05 00:00:00 Detroit @ New York,1,1,1,1,1,1.0
+2018-01-22 00:00:00 Phoenix @ Milwaukee,1,1,1,0,1,1.0
+2019-10-29 00:00:00 Dallas @ Denver,1,1,1,1,1,1.0
+2016-11-11 00:00:00 Indiana @ Philadelphia,0,0,0,0,0,0.0
+2015-03-20 00:00:00 New Orleans @ Golden State,1,1,0,0,0,0.0
+2015-12-12 00:00:00 Boston @ Charlotte,1,1,1,0,1,1.0
+2012-02-29 00:00:00 Minnesota @ Lakers,1,0,0,0,0,0.0
+2012-11-23 00:00:00 New York @ Houston,0,0,0,0,0,0.0
+2021-04-24 00:00:00 San Antonio @ New Orleans,1,1,1,1,1,1.0
+2019-11-27 00:00:00 Orlando @ Cleveland,1,0,0,1,1,0.0
+2018-12-19 00:00:00 Memphis @ Portland Trail,0,0,0,0,0,0.0
+2020-01-29 00:00:00 Detroit @ Brooklyn,1,1,1,1,0,1.0
+2021-03-29 00:00:00 Memphis @ Houston,1,1,1,1,1,1.0
+2014-11-16 00:00:00 Houston @ Oklahoma City,1,1,1,1,0,1.0
+2014-03-27 00:00:00 Portland Trail @ Atlanta,0,0,0,0,1,0.0
+2018-04-09 00:00:00 Oklahoma City @ Miami,0,0,0,0,1,0.0
+2017-11-24 00:00:00 Charlotte @ Cleveland,1,0,0,1,1,0.0
+2018-11-15 00:00:00 Atlanta @ Denver,0,0,0,0,0,0.0
+2021-01-04 00:00:00 Cleveland @ Orlando,1,1,1,1,0,1.0
+2013-01-09 00:00:00 Orlando @ Denver,1,1,1,1,1,1.0
+2013-03-31 00:00:00 Cleveland @ New Orleans,1,1,1,0,0,1.0
+2017-03-04 00:00:00 Cleveland @ Miami,1,1,1,1,0,1.0
+2014-02-21 00:00:00 Clippers @ Memphis,1,1,0,0,0,0.0
+2014-01-29 00:00:00 Washington @ Clippers,1,0,0,0,1,0.0
+2016-12-05 00:00:00 Washington @ Brooklyn,0,0,0,0,0,0.0
+2015-12-23 00:00:00 Memphis @ Washington,0,0,0,0,0,0.0
+2017-01-06 00:00:00 Miami @ Lakers,0,0,0,0,0,0.0
+2015-11-29 00:00:00 Boston @ Orlando,0,0,0,0,0,0.0
+2015-01-17 00:00:00 Washington @ Brooklyn,0,1,0,0,1,0.0
+2021-01-25 00:00:00 Philadelphia @ Detroit,0,0,1,0,0,1.0
+2014-12-07 00:00:00 New Orleans @ Lakers,0,1,1,0,1,1.0
+2012-01-08 00:00:00 Cleveland @ Portland Trail,0,0,1,0,0,1.0
+2014-12-09 00:00:00 Sacramento @ Lakers,1,1,1,1,1,1.0
+2013-12-23 00:00:00 Indiana @ Brooklyn,1,1,1,1,1,1.0
+2012-01-30 00:00:00 Orlando @ Philadelphia,0,0,1,0,1,1.0
+2021-05-08 00:00:00 Brooklyn @ Denver,0,0,0,0,1,0.0
+2018-11-26 00:00:00 Milwaukee @ Charlotte,0,0,0,0,0,0.0
+2018-01-05 00:00:00 Atlanta @ Portland Trail,1,1,1,1,0,1.0
+2012-01-23 00:00:00 New Jersey @ Chicago,0,0,1,0,0,1.0
+2016-12-13 00:00:00 Minnesota @ Chicago,0,0,0,0,1,0.0
+2012-04-09 00:00:00 Washington @ Charlotte,1,1,1,1,1,1.0
+2018-01-14 00:00:00 Portland Trail @ Minnesota,1,0,1,0,0,1.0
+2015-11-15 00:00:00 Utah @ Atlanta,1,1,1,1,1,1.0
+2014-04-14 00:00:00 Boston @ Philadelphia,1,1,1,1,0,1.0
+2013-02-20 00:00:00 Miami @ Atlanta,0,0,0,0,1,0.0
+2016-12-06 00:00:00 Orlando @ Washington,1,1,1,1,1,1.0
+2013-03-06 00:00:00 Philadelphia @ Atlanta,1,1,0,0,0,0.0
+2019-11-10 00:00:00 Brooklyn @ Phoenix,0,0,0,0,0,0.0
+2021-02-05 00:00:00 Washington @ Miami,1,1,1,1,0,1.0
+2018-04-07 00:00:00 New Orleans @ Golden State,1,1,1,0,1,1.0
+2018-10-22 00:00:00 Chicago @ Dallas,0,0,0,0,0,0.0
+2013-02-01 00:00:00 Washington @ Memphis,0,0,0,0,0,0.0
+2018-01-10 00:00:00 Atlanta @ Denver,0,0,0,0,1,0.0
+2012-01-06 00:00:00 Detroit @ Philadelphia,0,0,0,0,0,0.0
+2014-03-24 00:00:00 Portland Trail @ Miami,1,0,1,0,1,1.0
+2012-03-12 00:00:00 Milwaukee @ New Jersey,1,1,1,1,1,1.0
+2017-04-12 00:00:00 Philadelphia @ New York,0,1,1,0,1,1.0
+2016-12-28 00:00:00 New York @ Atlanta,1,1,1,1,1,1.0
+2021-01-06 00:00:00 Utah @ New York,0,0,0,0,0,0.0
+2015-03-18 00:00:00 Orlando @ Dallas,1,1,1,1,1,1.0
+2021-02-14 00:00:00 Milwaukee @ Oklahoma City,1,1,1,1,0,1.0
+2019-02-23 00:00:00 Boston @ Chicago,1,1,1,1,0,1.0
+2013-03-13 00:00:00 Milwaukee @ Washington,0,1,1,0,0,1.0
+2021-03-29 00:00:00 Cleveland @ Utah,0,0,0,0,0,0.0
+2012-04-19 00:00:00 Clippers @ Phoenix,1,1,1,1,0,1.0
+2021-02-23 00:00:00 Atlanta @ Cleveland,0,0,0,0,0,0.0
+2014-04-10 00:00:00 San Antonio @ Dallas,1,1,1,1,1,1.0
+2015-01-03 00:00:00 Philadelphia @ Clippers,1,1,0,0,0,0.0
+2012-02-14 00:00:00 Sacramento @ Chicago,0,0,0,0,1,0.0
+2020-12-28 00:00:00 Portland Trail @ Lakers,1,1,1,1,1,1.0
+2014-04-14 00:00:00 Lakers @ Utah,1,1,1,0,1,1.0
+2015-12-02 00:00:00 Indiana @ Clippers,1,1,1,1,1,1.0
+2014-12-12 00:00:00 Cleveland @ New Orleans,0,0,0,0,0,0.0
+2020-12-25 00:00:00 Clippers @ Denver,1,1,1,1,1,1.0
+2013-03-15 00:00:00 New Orleans @ Washington,1,1,1,0,0,1.0
+2016-03-22 00:00:00 Charlotte @ Brooklyn,0,0,0,0,0,0.0
+2013-03-11 00:00:00 New York @ Golden State,1,1,1,0,0,1.0
+2016-11-02 00:00:00 Toronto @ Washington,1,1,1,1,1,1.0
+2015-01-10 00:00:00 San Antonio @ Minnesota,1,1,1,0,1,1.0
+2016-01-03 00:00:00 Phoenix @ Lakers,0,1,0,0,0,0.0
+2013-11-05 00:00:00 Houston @ Portland Trail,1,1,1,1,1,1.0
+2018-12-03 00:00:00 Houston @ Minnesota,0,0,0,0,0,0.0
+2013-01-28 00:00:00 Indiana @ Denver,0,0,0,0,1,0.0
+2016-03-09 00:00:00 Memphis @ Boston,1,1,1,1,0,1.0
+2012-01-17 00:00:00 San Antonio @ Miami,0,0,0,0,0,0.0
+2017-11-16 00:00:00 Houston @ Phoenix,1,1,1,1,1,1.0
+2014-12-02 00:00:00 Indiana @ Phoenix,1,0,0,1,0,0.0
+2013-02-10 00:00:00 Oklahoma City @ Phoenix,0,1,0,0,1,0.0
+2015-12-26 00:00:00 Cleveland @ Portland Trail,0,0,0,0,0,0.0
+2017-11-07 00:00:00 Chicago @ Toronto,1,0,1,1,1,1.0
+2019-02-06 00:00:00 Phoenix @ Utah,1,1,0,0,0,0.0
+2021-02-07 00:00:00 Washington @ Charlotte,0,0,0,0,0,0.0
+2020-03-07 00:00:00 Atlanta @ Memphis,0,0,0,0,0,0.0
+2021-04-14 00:00:00 Indiana @ Houston,1,1,1,1,1,1.0
+2015-03-10 00:00:00 Detroit @ Lakers,0,1,1,0,0,1.0
+2020-12-29 00:00:00 Minnesota @ Clippers,1,1,1,1,0,1.0
+2016-03-22 00:00:00 Miami @ New Orleans,0,0,0,0,1,0.0
+2017-04-07 00:00:00 San Antonio @ Dallas,1,1,1,1,1,1.0
+2019-11-27 00:00:00 Atlanta @ Milwaukee,0,0,0,0,1,0.0
+2015-11-06 00:00:00 Denver @ Golden State,0,1,1,0,1,1.0
+2014-12-19 00:00:00 Chicago @ Memphis,1,1,1,1,1,1.0
+2021-03-16 00:00:00 Utah @ Boston,0,0,0,0,1,0.0
+2016-12-04 00:00:00 New Orleans @ Oklahoma City,0,0,0,0,0,0.0
+2019-02-13 00:00:00 Miami @ Dallas,1,1,1,0,1,1.0
+2021-05-08 00:00:00 San Antonio @ Portland Trail,1,1,1,1,0,1.0
+2021-01-01 00:00:00 Boston @ Detroit,0,0,0,0,0,0.0
+2015-04-15 00:00:00 San Antonio @ New Orleans,0,0,0,0,0,0.0
+2014-02-22 00:00:00 New York @ Atlanta,0,0,0,0,0,0.0
+2011-12-30 00:00:00 Toronto @ Dallas,1,1,1,1,0,1.0
+2018-03-06 00:00:00 Brooklyn @ Golden State,1,1,1,1,1,1.0
+2016-01-16 00:00:00 Portland Trail @ Philadelphia,1,1,1,1,0,1.0
+2013-12-23 00:00:00 Dallas @ Houston,0,0,0,0,1,0.0
+2020-01-05 00:00:00 Memphis @ Phoenix,1,1,1,1,1,1.0
+2017-03-20 00:00:00 Philadelphia @ Orlando,1,1,1,1,1,1.0
+2014-03-05 00:00:00 Memphis @ Brooklyn,1,1,1,1,0,1.0
+2019-04-07 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,0,0.0
+2012-04-25 00:00:00 Charlotte @ Orlando,1,1,0,0,1,0.0
+2012-02-18 00:00:00 New Jersey @ Chicago,1,1,1,0,1,1.0
+2021-04-30 00:00:00 Atlanta @ Philadelphia,0,0,0,0,0,0.0
+2020-03-10 00:00:00 Minnesota @ Houston,1,1,1,1,1,1.0
+2019-12-06 00:00:00 Indiana @ Detroit,0,0,0,0,0,0.0
+2015-03-19 00:00:00 Minnesota @ New York,1,1,1,0,1,1.0
+2020-12-23 00:00:00 Milwaukee @ Boston,0,0,0,0,0,0.0
+2017-12-23 00:00:00 Orlando @ Washington,1,1,1,1,0,1.0
+2013-04-03 00:00:00 Detroit @ Boston,0,0,0,0,1,0.0
+2013-11-21 00:00:00 Chicago @ Denver,0,0,0,0,0,0.0
+2020-01-30 00:00:00 Utah @ Denver,0,0,0,0,0,0.0
+2014-11-15 00:00:00 Minnesota @ Dallas,0,0,0,0,0,0.0
+2021-01-26 00:00:00 Washington @ Houston,0,1,1,0,0,1.0
+2018-02-02 00:00:00 Lakers @ Brooklyn,0,0,1,0,1,1.0
+2014-12-14 00:00:00 Lakers @ Minnesota,0,1,1,0,1,1.0
+2021-03-02 00:00:00 Phoenix @ Lakers,0,1,1,0,1,1.0
+2013-03-17 00:00:00 New York @ Clippers,1,1,1,1,1,1.0
+2016-01-15 00:00:00 Portland Trail @ Brooklyn,1,0,1,0,1,1.0
+2019-11-25 00:00:00 Charlotte @ Miami,0,0,0,0,0,0.0
+2017-02-04 00:00:00 New Orleans @ Washington,0,0,0,0,0,0.0
+2012-02-19 00:00:00 Utah @ Houston,0,0,0,0,0,0.0
+2012-12-23 00:00:00 Utah @ Orlando,1,0,1,0,1,1.0
+2018-03-03 00:00:00 Detroit @ Miami,1,1,1,0,0,1.0
+2019-11-11 00:00:00 Memphis @ San Antonio,0,1,0,0,1,0.0
+2013-12-08 00:00:00 Boston @ New York,1,1,1,1,1,1.0
+2013-04-10 00:00:00 Miami @ Washington,1,1,1,1,1,1.0
+2019-02-08 00:00:00 Golden State @ Phoenix,0,0,0,0,0,0.0
+2015-02-28 00:00:00 Brooklyn @ Dallas,1,1,1,0,1,1.0
+2018-02-03 00:00:00 Philadelphia @ Indiana,0,0,0,0,0,0.0
+2013-01-05 00:00:00 Houston @ Cleveland,1,1,1,0,1,1.0
+2013-11-18 00:00:00 Philadelphia @ Dallas,0,0,0,0,1,0.0
+2018-11-19 00:00:00 San Antonio @ New Orleans,0,0,0,0,0,0.0
+2013-01-18 00:00:00 Houston @ Indiana,0,0,0,0,0,0.0
+2019-01-04 00:00:00 Clippers @ Phoenix,1,1,1,1,1,1.0
+2021-02-21 00:00:00 Minnesota @ New York,0,0,0,0,0,0.0
+2012-03-16 00:00:00 Toronto @ Memphis,1,1,1,0,1,1.0
+2021-03-30 00:00:00 Orlando @ Clippers,0,0,0,0,1,0.0
+2012-04-16 00:00:00 Philadelphia @ Orlando,0,0,0,0,0,0.0
+2017-03-06 00:00:00 Miami @ Cleveland,1,1,1,0,1,1.0
+2017-02-03 00:00:00 Minnesota @ Detroit,0,0,0,0,0,0.0
+2015-03-09 00:00:00 Boston @ Miami,1,1,1,1,1,1.0
+2017-01-23 00:00:00 Washington @ Charlotte,0,0,0,0,1,0.0
+2013-11-27 00:00:00 Philadelphia @ Orlando,0,0,0,0,0,0.0
+2016-02-04 00:00:00 New York @ Detroit,0,0,0,0,0,0.0
+2017-11-20 00:00:00 Utah @ Philadelphia,1,0,1,0,0,1.0
+2012-11-06 00:00:00 Orlando @ Chicago,1,1,1,1,1,1.0
+2016-12-02 00:00:00 Houston @ Denver,1,1,1,1,1,1.0
+2016-11-21 00:00:00 Miami @ Philadelphia,0,0,0,0,0,0.0
+2013-01-18 00:00:00 Toronto @ Philadelphia,1,1,0,1,0,0.0
+2019-11-27 00:00:00 Lakers @ New Orleans,0,0,1,0,0,1.0
+2019-03-06 00:00:00 Dallas @ Washington,0,0,0,0,0,0.0
+2012-12-19 00:00:00 Brooklyn @ New York,0,0,0,0,0,0.0
+2012-02-06 00:00:00 Clippers @ Orlando,0,1,0,0,1,0.0
+2014-10-29 00:00:00 Lakers @ Phoenix,0,0,0,0,0,0.0
+2021-01-22 00:00:00 New York @ Sacramento,1,1,1,1,0,1.0
+2013-02-19 00:00:00 Toronto @ Washington,1,1,1,0,1,1.0
+2017-12-23 00:00:00 New Orleans @ Miami,1,1,0,0,1,0.0
+2015-11-16 00:00:00 Indiana @ Chicago,1,1,1,1,1,1.0
+2020-02-25 00:00:00 Charlotte @ Indiana,1,1,1,0,0,1.0
+2011-12-26 00:00:00 Oklahoma City @ Minnesota,1,1,1,0,0,1.0
+2016-03-11 00:00:00 New Orleans @ Memphis,0,0,0,0,0,0.0
+2017-01-16 00:00:00 Cleveland @ Golden State,0,0,0,0,0,0.0
+2015-11-18 00:00:00 Portland Trail @ Houston,1,1,1,1,1,1.0
+2015-03-10 00:00:00 Cleveland @ Dallas,0,0,0,0,1,0.0
+2021-01-20 00:00:00 Miami @ Toronto,1,1,0,0,1,0.0
+2019-12-20 00:00:00 Orlando @ Portland Trail,0,0,0,0,0,0.0
+2014-12-12 00:00:00 Charlotte @ Memphis,0,0,0,0,1,0.0
+2014-12-16 00:00:00 Miami @ Brooklyn,1,1,1,1,1,1.0
+2015-11-28 00:00:00 Denver @ Dallas,1,1,1,1,0,1.0
+2020-01-31 00:00:00 Toronto @ Detroit,1,1,1,1,1,1.0
+2017-10-23 00:00:00 Toronto @ San Antonio,0,0,0,0,0,0.0
+2015-01-23 00:00:00 Indiana @ Miami,1,1,1,1,1,1.0
+2013-02-24 00:00:00 Philadelphia @ New York,1,1,0,0,1,0.0
+2014-11-07 00:00:00 Chicago @ Philadelphia,1,1,1,1,0,1.0
+2012-03-19 00:00:00 Minnesota @ Golden State,1,1,1,1,1,1.0
+2013-11-25 00:00:00 Boston @ Charlotte,1,1,1,1,1,1.0
+2014-12-02 00:00:00 Dallas @ Chicago,1,1,1,1,1,1.0
+2017-01-13 00:00:00 Cleveland @ Sacramento,0,0,0,0,1,0.0
+2017-10-20 00:00:00 Cleveland @ Milwaukee,1,1,1,1,1,1.0
+2016-12-09 00:00:00 Indiana @ Dallas,0,0,1,0,0,1.0
+2015-11-21 00:00:00 New York @ Houston,1,1,1,1,1,1.0
+2013-11-29 00:00:00 San Antonio @ Orlando,1,1,1,0,1,1.0
+2015-12-20 00:00:00 Sacramento @ Toronto,0,0,0,0,1,0.0
+2016-03-19 00:00:00 New York @ Washington,1,1,1,0,0,1.0
+2013-01-22 00:00:00 Boston @ Cleveland,0,0,0,0,0,0.0
+2018-11-30 00:00:00 Orlando @ Phoenix,1,1,1,1,1,1.0
+2017-11-25 00:00:00 Portland Trail @ Washington,1,1,1,1,1,1.0
+2020-01-18 00:00:00 Detroit @ Atlanta,1,1,1,1,1,1.0
+2017-11-17 00:00:00 Portland Trail @ Sacramento,1,1,0,1,0,0.0
+2017-11-27 00:00:00 Portland Trail @ New York,0,0,1,0,1,1.0
+2018-03-09 00:00:00 Chicago @ Detroit,0,0,0,0,0,0.0
+2014-11-10 00:00:00 Utah @ Indiana,0,1,1,0,0,1.0
+2015-03-15 00:00:00 Portland Trail @ Toronto,1,1,1,0,1,1.0
+2014-12-30 00:00:00 Toronto @ Portland Trail,1,1,1,0,0,1.0
+2016-01-08 00:00:00 New York @ San Antonio,0,1,1,0,1,1.0
+2020-02-12 00:00:00 Sacramento @ Dallas,1,1,1,0,0,1.0
+2018-10-30 00:00:00 Detroit @ Boston,1,1,1,1,1,1.0
+2019-02-26 00:00:00 Oklahoma City @ Denver,0,0,0,0,0,0.0
+2016-01-28 00:00:00 Milwaukee @ Memphis,1,0,0,0,0,0.0
+2012-12-26 00:00:00 Brooklyn @ Milwaukee,1,1,1,1,0,1.0
+2017-12-28 00:00:00 Detroit @ Orlando,0,0,0,0,0,0.0
+2016-03-09 00:00:00 Utah @ Golden State,1,0,1,0,0,1.0
+2021-02-10 00:00:00 Clippers @ Minnesota,1,1,1,1,0,1.0
+2014-02-05 00:00:00 Minnesota @ Oklahoma City,1,1,1,1,1,1.0
+2013-11-29 00:00:00 Milwaukee @ Charlotte,1,1,0,1,0,0.0
+2019-11-17 00:00:00 Washington @ Orlando,1,1,0,0,1,0.0
+2013-02-26 00:00:00 Sacramento @ Miami,0,0,0,0,1,0.0
+2016-12-23 00:00:00 Atlanta @ Denver,1,1,1,1,1,1.0
+2017-12-18 00:00:00 Utah @ Houston,0,0,1,0,0,1.0
+2015-11-14 00:00:00 Brooklyn @ Golden State,0,0,0,0,1,0.0
+2020-02-04 00:00:00 San Antonio @ Lakers,1,0,1,0,0,1.0
+2017-02-01 00:00:00 Clippers @ Phoenix,1,1,1,0,1,1.0
+2018-01-07 00:00:00 San Antonio @ Portland Trail,1,1,1,0,1,1.0
+2020-01-17 00:00:00 Portland Trail @ Dallas,0,0,1,0,0,1.0
+2016-01-20 00:00:00 Utah @ New York,0,0,0,0,0,0.0
+2017-02-23 00:00:00 Clippers @ Golden State,0,0,0,0,1,0.0
+2019-04-01 00:00:00 Orlando @ Toronto,1,0,1,0,0,1.0
+2012-03-09 00:00:00 Utah @ Philadelphia,0,0,0,0,0,0.0
+2013-12-14 00:00:00 Portland Trail @ Philadelphia,1,1,1,1,1,1.0
+2013-04-06 00:00:00 Atlanta @ San Antonio,1,1,0,0,1,0.0
+2016-11-16 00:00:00 Phoenix @ Denver,1,1,1,1,0,1.0
+2014-11-30 00:00:00 Memphis @ Sacramento,0,1,0,0,1,0.0
+2021-02-24 00:00:00 Golden State @ Indiana,1,1,1,0,1,1.0
+2013-04-06 00:00:00 Charlotte @ Brooklyn,1,1,0,0,1,0.0
+2016-01-08 00:00:00 Cleveland @ Minnesota,1,1,1,0,1,1.0
+2016-11-21 00:00:00 Houston @ Detroit,0,0,0,0,1,0.0
+2014-11-14 00:00:00 Charlotte @ Phoenix,1,0,0,1,1,0.0
+2017-03-06 00:00:00 Boston @ Clippers,1,1,1,0,0,1.0
+2017-02-03 00:00:00 Memphis @ Oklahoma City,0,0,0,0,0,0.0
+2013-11-02 00:00:00 Chicago @ Philadelphia,0,0,0,0,0,0.0
+2013-10-30 00:00:00 Milwaukee @ New York,1,0,0,1,1,0.0
+2016-12-12 00:00:00 Portland Trail @ Clippers,0,0,1,0,1,1.0
+2012-01-19 00:00:00 New Orleans @ Houston,1,0,0,1,1,0.0
+2014-10-29 00:00:00 Oklahoma City @ Portland Trail,0,0,0,0,0,0.0
+2017-11-01 00:00:00 Orlando @ Memphis,1,1,1,1,1,1.0
+2012-12-29 00:00:00 Phoenix @ Minnesota,0,0,0,0,1,0.0
+2016-01-13 00:00:00 Minnesota @ Houston,1,1,1,1,1,1.0
+2019-02-02 00:00:00 Dallas @ Cleveland,1,1,1,1,1,1.0
+2014-11-15 00:00:00 Charlotte @ Golden State,0,0,0,0,0,0.0
+2019-12-20 00:00:00 New York @ Miami,0,0,0,0,0,0.0
+2017-02-25 00:00:00 Brooklyn @ Golden State,0,1,1,0,1,1.0
+2018-02-07 00:00:00 Utah @ Memphis,0,0,0,0,0,0.0
+2015-01-14 00:00:00 New Orleans @ Detroit,1,1,1,1,1,1.0
+2014-02-07 00:00:00 Oklahoma City @ Orlando,0,1,0,0,0,0.0
+2018-03-23 00:00:00 Boston @ Portland Trail,1,1,1,1,1,1.0
+2012-02-22 00:00:00 Denver @ Clippers,1,1,1,1,1,1.0
+2014-04-16 00:00:00 Houston @ New Orleans,1,1,1,1,0,1.0
+2019-04-03 00:00:00 Chicago @ Washington,1,1,0,0,1,0.0
+2021-04-27 00:00:00 Portland Trail @ Indiana,0,0,0,0,1,0.0
+2019-03-16 00:00:00 Memphis @ Washington,0,0,0,0,0,0.0
+2019-11-12 00:00:00 Cleveland @ Philadelphia,1,1,1,1,1,1.0
+2016-11-04 00:00:00 Miami @ Toronto,1,1,1,1,0,1.0
+2016-10-29 00:00:00 Brooklyn @ Milwaukee,1,1,1,1,1,1.0
+2017-03-07 00:00:00 Portland Trail @ Oklahoma City,0,0,0,0,1,0.0
+2013-01-02 00:00:00 Philadelphia @ Phoenix,1,1,1,1,0,1.0
+2014-11-10 00:00:00 Atlanta @ New York,1,1,1,1,1,1.0
+2016-10-25 00:00:00 New York @ Cleveland,0,0,0,0,0,0.0
+2014-02-24 00:00:00 Golden State @ Detroit,1,1,1,1,1,1.0
+2016-01-06 00:00:00 Dallas @ New Orleans,1,1,1,1,1,1.0
+2017-11-08 00:00:00 Lakers @ Boston,0,0,0,0,0,0.0
+2014-01-04 00:00:00 Philadelphia @ Portland Trail,1,0,0,0,1,0.0
+2020-01-18 00:00:00 Toronto @ Minnesota,1,1,1,1,1,1.0
+2018-01-06 00:00:00 Chicago @ Indiana,0,0,0,0,0,0.0
+2017-03-26 00:00:00 Brooklyn @ Atlanta,1,1,1,0,1,1.0
+2015-01-09 00:00:00 Memphis @ New Orleans,0,0,0,0,0,0.0
+2013-04-12 00:00:00 Chicago @ Toronto,1,1,1,0,0,1.0
+2012-12-28 00:00:00 Philadelphia @ Golden State,1,0,1,1,0,1.0
+2012-11-07 00:00:00 Washington @ Boston,1,1,1,1,1,1.0
+2020-01-23 00:00:00 Dallas @ Portland Trail,1,1,1,0,1,1.0
+2015-02-11 00:00:00 Lakers @ Portland Trail,1,0,0,0,0,0.0
+2019-03-14 00:00:00 Minnesota @ Utah,0,0,0,0,0,0.0
+2019-10-30 00:00:00 Houston @ Washington,0,1,1,0,0,1.0
+2019-01-22 00:00:00 Portland Trail @ Oklahoma City,0,0,0,0,0,0.0
+2019-12-02 00:00:00 New York @ Milwaukee,0,0,0,0,0,0.0
+2021-03-14 00:00:00 Portland Trail @ Minnesota,1,1,1,1,0,1.0
+2018-03-05 00:00:00 Phoenix @ Miami,1,1,1,1,0,1.0
+2016-11-22 00:00:00 New Orleans @ Atlanta,1,0,0,1,1,0.0
+2019-02-22 00:00:00 Clippers @ Memphis,0,1,0,0,1,0.0
+2019-11-24 00:00:00 Sacramento @ Washington,1,1,1,0,1,1.0
+2014-04-16 00:00:00 Clippers @ Portland Trail,1,1,1,0,0,1.0
+2013-11-14 00:00:00 Oklahoma City @ Golden State,0,0,0,0,1,0.0
+2014-03-08 00:00:00 Utah @ Philadelphia,0,0,1,0,1,1.0
+2019-04-07 00:00:00 Clippers @ Golden State,1,1,1,1,0,1.0
+2018-04-03 00:00:00 Lakers @ Utah,1,1,1,0,1,1.0
+2020-12-28 00:00:00 Utah @ Oklahoma City,1,1,1,0,0,1.0
+2018-12-16 00:00:00 Sacramento @ Dallas,1,1,1,0,1,1.0
+2014-12-21 00:00:00 New Orleans @ Oklahoma City,1,1,1,0,1,1.0
+2012-03-28 00:00:00 Detroit @ Cleveland,0,0,1,0,1,1.0
+2012-03-07 00:00:00 Houston @ Toronto,0,0,1,0,0,1.0
+2019-02-22 00:00:00 New Orleans @ Indiana,0,0,0,0,0,0.0
+2018-10-20 00:00:00 Brooklyn @ Indiana,0,0,0,0,0,0.0
+2017-12-11 00:00:00 Charlotte @ Oklahoma City,1,0,0,0,1,0.0
+2016-02-01 00:00:00 Toronto @ Denver,1,1,0,0,0,0.0
+2018-12-23 00:00:00 Charlotte @ Boston,0,0,0,0,0,0.0
+2016-12-19 00:00:00 Dallas @ Denver,0,0,0,0,0,0.0
+2014-12-12 00:00:00 Miami @ Utah,1,1,1,1,1,1.0
+2016-04-03 00:00:00 Memphis @ Orlando,1,1,1,0,0,1.0
+2012-12-18 00:00:00 Charlotte @ Lakers,0,1,0,0,1,0.0
+2015-01-23 00:00:00 Chicago @ Dallas,1,1,1,1,1,1.0
+2014-02-03 00:00:00 Cleveland @ Dallas,0,0,0,0,0,0.0
+2021-03-03 00:00:00 Indiana @ Cleveland,0,0,0,0,0,0.0
+2017-03-03 00:00:00 Boston @ Lakers,0,0,0,0,1,0.0
+2013-12-02 00:00:00 Atlanta @ San Antonio,1,1,1,1,1,1.0
+2013-02-13 00:00:00 Houston @ Clippers,1,1,1,1,1,1.0
+2018-01-15 00:00:00 Milwaukee @ Washington,1,1,0,0,1,0.0
+2017-03-11 00:00:00 Utah @ Oklahoma City,1,1,1,0,0,1.0
+2012-02-19 00:00:00 Dallas @ New York,0,1,1,0,0,1.0
+2013-11-29 00:00:00 New York @ Denver,1,1,1,1,1,1.0
+2012-03-28 00:00:00 Phoenix @ Clippers,1,0,1,0,0,1.0
+2016-01-29 00:00:00 Cleveland @ Detroit,0,0,0,0,1,0.0
+2016-02-20 00:00:00 Washington @ Miami,0,0,0,0,0,0.0
+2018-01-30 00:00:00 Minnesota @ Toronto,0,0,0,0,1,0.0
+2012-01-20 00:00:00 Indiana @ Golden State,1,1,1,1,1,1.0
+2015-03-04 00:00:00 Denver @ Minnesota,1,1,1,1,1,1.0
+2019-03-20 00:00:00 Washington @ Chicago,0,0,0,0,0,0.0
+2016-12-10 00:00:00 Brooklyn @ San Antonio,1,1,1,1,0,1.0
+2012-01-20 00:00:00 Denver @ Washington,1,1,1,1,0,1.0
+2016-02-19 00:00:00 Houston @ Phoenix,0,0,0,0,1,0.0
+2019-11-20 00:00:00 Cleveland @ Miami,0,0,0,0,0,0.0
+2016-11-23 00:00:00 Memphis @ Philadelphia,0,0,0,0,0,0.0
+2012-03-30 00:00:00 New York @ Atlanta,1,1,1,0,0,1.0
+2014-04-14 00:00:00 Oklahoma City @ New Orleans,0,0,0,0,0,0.0
+2019-11-22 00:00:00 Boston @ Denver,1,1,1,1,1,1.0
+2016-12-28 00:00:00 Clippers @ New Orleans,1,1,1,1,0,1.0
+2021-02-19 00:00:00 Chicago @ Philadelphia,1,1,0,1,0,0.0
+2014-10-31 00:00:00 Cleveland @ Chicago,1,1,1,1,1,1.0
+2013-03-27 00:00:00 Phoenix @ Utah,1,1,1,0,0,1.0
+2012-04-17 00:00:00 Indiana @ Philadelphia,1,1,1,0,1,1.0
+2019-01-21 00:00:00 Chicago @ Cleveland,1,1,1,0,1,1.0
+2011-12-30 00:00:00 Cleveland @ Indiana,1,1,1,1,1,1.0
+2016-01-18 00:00:00 Houston @ Clippers,1,1,1,1,0,1.0
+2016-03-26 00:00:00 Charlotte @ Milwaukee,0,0,0,0,1,0.0
+2015-12-08 00:00:00 Oklahoma City @ Memphis,1,1,1,1,1,1.0
+2015-01-01 00:00:00 Sacramento @ Minnesota,1,1,1,0,0,1.0
+2014-01-19 00:00:00 Lakers @ Toronto,1,1,1,0,1,1.0
+2013-01-29 00:00:00 Golden State @ Cleveland,1,1,1,1,1,1.0
+2014-03-29 00:00:00 New Orleans @ San Antonio,1,1,1,1,0,1.0
+2014-03-01 00:00:00 Indiana @ Boston,0,1,0,0,0,0.0
+2012-02-04 00:00:00 Golden State @ Sacramento,1,0,0,1,0,0.0
+2019-12-16 00:00:00 San Antonio @ Houston,1,0,1,0,1,1.0
+2017-04-10 00:00:00 Utah @ Golden State,0,1,0,0,1,0.0
+2013-01-06 00:00:00 Washington @ Miami,0,0,0,0,0,0.0
+2012-12-26 00:00:00 Philadelphia @ Memphis,1,1,1,1,1,1.0
+2021-05-04 00:00:00 Sacramento @ Oklahoma City,1,1,1,1,0,1.0
+2017-03-12 00:00:00 Portland Trail @ Phoenix,0,0,0,0,1,0.0
+2013-11-19 00:00:00 New York @ Detroit,1,1,1,1,0,1.0
+2016-12-28 00:00:00 Charlotte @ Orlando,1,1,1,1,1,1.0
+2019-03-16 00:00:00 Phoenix @ New Orleans,0,0,0,0,1,0.0
+2013-12-23 00:00:00 Golden State @ Denver,1,1,0,0,1,0.0
+2012-03-05 00:00:00 Dallas @ Oklahoma City,0,0,0,0,1,0.0
+2015-11-16 00:00:00 Boston @ Houston,1,1,1,1,1,1.0
+2021-01-22 00:00:00 Boston @ Philadelphia,0,0,0,0,0,0.0
+2015-11-07 00:00:00 Memphis @ Utah,0,1,1,0,0,1.0
+2021-03-23 00:00:00 Phoenix @ Miami,1,1,1,1,1,1.0
+2014-04-14 00:00:00 San Antonio @ Houston,1,1,1,1,0,1.0
+2019-02-13 00:00:00 Detroit @ Boston,0,0,0,0,0,0.0
+2012-12-28 00:00:00 Atlanta @ Cleveland,1,1,1,1,1,1.0
+2012-04-18 00:00:00 Philadelphia @ Cleveland,1,1,1,0,1,1.0
+2019-12-16 00:00:00 Chicago @ Oklahoma City,1,0,0,0,1,0.0
+2012-01-11 00:00:00 Orlando @ Portland Trail,0,1,1,0,1,1.0
+2013-03-22 00:00:00 Utah @ San Antonio,0,0,0,0,1,0.0
+2017-11-01 00:00:00 Milwaukee @ Charlotte,1,1,1,1,0,1.0
+2015-11-04 00:00:00 Toronto @ Oklahoma City,1,1,1,1,1,1.0
+2017-02-06 00:00:00 San Antonio @ Memphis,1,1,1,1,0,1.0
+2018-10-29 00:00:00 New Orleans @ Denver,1,1,1,1,1,1.0
+2016-12-16 00:00:00 Detroit @ Washington,0,0,0,0,0,0.0
+2017-03-05 00:00:00 Orlando @ Washington,1,1,1,1,1,1.0
+2017-12-14 00:00:00 Dallas @ Golden State,0,0,0,0,0,0.0
+2014-01-24 00:00:00 New Orleans @ Detroit,1,1,1,1,1,1.0
+2015-03-30 00:00:00 Milwaukee @ Atlanta,1,1,0,0,0,0.0
+2016-01-23 00:00:00 Indiana @ Sacramento,1,1,1,1,0,1.0
+2013-01-07 00:00:00 Oklahoma City @ Washington,0,1,0,0,0,0.0
+2012-01-14 00:00:00 Portland Trail @ Houston,0,0,0,0,0,0.0
+2017-12-27 00:00:00 Brooklyn @ New Orleans,1,1,1,1,0,1.0
+2012-04-08 00:00:00 Toronto @ Oklahoma City,1,0,0,0,0,0.0
+2021-04-18 00:00:00 New Orleans @ New York,0,0,0,0,0,0.0
+2020-12-31 00:00:00 New York @ Toronto,1,1,1,1,0,1.0
+2015-12-05 00:00:00 Cleveland @ Miami,1,1,1,1,0,1.0
+2014-12-10 00:00:00 Washington @ Orlando,0,1,1,0,0,1.0
+2019-12-22 00:00:00 Clippers @ Oklahoma City,0,0,0,0,0,0.0
+2019-11-09 00:00:00 Houston @ Chicago,1,1,1,1,1,1.0
+2019-01-13 00:00:00 Toronto @ Washington,0,0,0,0,0,0.0
+2016-12-12 00:00:00 Lakers @ Sacramento,0,1,1,0,0,1.0
+2020-02-22 00:00:00 Phoenix @ Chicago,0,1,0,0,1,0.0
+2015-11-23 00:00:00 Philadelphia @ Minnesota,1,1,1,1,1,1.0
+2018-02-10 00:00:00 Milwaukee @ Orlando,0,0,0,0,1,0.0
+2011-12-27 00:00:00 Minnesota @ Milwaukee,1,0,0,1,1,0.0
+2017-02-09 00:00:00 Boston @ Portland Trail,1,1,1,1,1,1.0
+2014-11-07 00:00:00 New York @ Brooklyn,0,0,0,0,0,0.0
+2016-03-19 00:00:00 Brooklyn @ Detroit,0,0,0,0,0,0.0
+2021-01-18 00:00:00 Golden State @ Lakers,0,1,1,0,1,1.0
+2018-03-28 00:00:00 Brooklyn @ Orlando,0,0,0,0,1,0.0
+2017-01-23 00:00:00 New York @ Indiana,0,0,0,0,1,0.0
+2021-01-17 00:00:00 Utah @ Denver,1,1,1,1,1,1.0
+2014-02-12 00:00:00 Sacramento @ New York,1,1,1,1,1,1.0
+2018-03-27 00:00:00 Denver @ Toronto,0,0,0,0,1,0.0
+2019-12-14 00:00:00 Brooklyn @ Toronto,0,0,0,0,0,0.0
+2015-11-11 00:00:00 Golden State @ Memphis,1,1,1,1,1,1.0
+2015-01-23 00:00:00 Oklahoma City @ Atlanta,0,0,0,0,0,0.0
+2018-03-25 00:00:00 Miami @ Indiana,1,1,0,0,0,0.0
+2013-04-17 00:00:00 Philadelphia @ Indiana,0,0,0,0,1,0.0
+2015-12-28 00:00:00 Philadelphia @ Utah,1,0,0,0,1,0.0
+2015-01-03 00:00:00 Memphis @ Denver,1,1,1,0,0,1.0
+2012-04-11 00:00:00 Minnesota @ Denver,1,1,1,1,1,1.0
+2015-03-11 00:00:00 Orlando @ Milwaukee,1,1,1,0,1,1.0
+2013-03-27 00:00:00 Miami @ Chicago,0,0,1,0,0,1.0
+2014-11-07 00:00:00 Memphis @ Oklahoma City,0,0,0,0,0,0.0
+2017-03-20 00:00:00 Washington @ Boston,1,1,0,0,0,0.0
+2014-12-23 00:00:00 Philadelphia @ Miami,1,1,1,1,1,1.0
+2013-11-12 00:00:00 Detroit @ Golden State,0,0,0,0,0,0.0
+2018-01-13 00:00:00 Denver @ San Antonio,0,0,0,0,0,0.0
+2020-02-25 00:00:00 Detroit @ Denver,1,1,1,1,0,1.0
+2017-02-04 00:00:00 Milwaukee @ Phoenix,1,1,1,0,1,1.0
+2019-10-27 00:00:00 Charlotte @ Lakers,0,0,0,0,0,0.0
+2016-03-20 00:00:00 Portland Trail @ Dallas,0,0,0,0,0,0.0
+2017-02-08 00:00:00 San Antonio @ Philadelphia,0,0,0,0,0,0.0
+2017-10-19 00:00:00 Chicago @ Toronto,0,0,0,0,0,0.0
+2018-02-26 00:00:00 Memphis @ Boston,1,1,1,1,1,1.0
+2013-01-23 00:00:00 Denver @ Houston,0,0,0,0,1,0.0
+2014-11-01 00:00:00 Phoenix @ Utah,0,0,0,0,0,0.0
+2013-01-11 00:00:00 Minnesota @ New Orleans,1,1,1,1,0,1.0
+2016-02-23 00:00:00 Houston @ Utah,0,1,1,0,1,1.0
+2014-11-24 00:00:00 Portland Trail @ Philadelphia,1,1,1,1,0,1.0
+2014-03-30 00:00:00 Phoenix @ Lakers,0,0,0,0,0,0.0
+2019-03-19 00:00:00 Houston @ Atlanta,0,0,0,0,1,0.0
+2018-01-09 00:00:00 Portland Trail @ Oklahoma City,1,1,1,1,1,1.0
+2019-12-08 00:00:00 Toronto @ Philadelphia,0,0,0,0,0,0.0
+2015-04-04 00:00:00 Boston @ Toronto,0,0,1,0,1,1.0
+2018-01-05 00:00:00 Phoenix @ San Antonio,1,1,0,0,0,0.0
+2016-12-25 00:00:00 Boston @ New York,1,1,0,0,1,0.0
+2014-12-12 00:00:00 Indiana @ Toronto,1,0,0,0,0,0.0
+2013-12-06 00:00:00 Orlando @ New York,1,1,1,1,0,1.0
+2012-01-06 00:00:00 New York @ Washington,1,1,1,1,1,1.0
+2016-03-13 00:00:00 Utah @ Sacramento,1,0,0,1,1,0.0
+2015-03-04 00:00:00 Charlotte @ Brooklyn,1,1,1,1,1,1.0
+2015-01-16 00:00:00 Detroit @ Indiana,1,1,1,1,1,1.0
+2021-01-23 00:00:00 Houston @ Dallas,1,1,1,1,1,1.0
+2014-03-04 00:00:00 Golden State @ Indiana,0,0,0,0,1,0.0
+2019-11-27 00:00:00 Utah @ Indiana,0,0,0,0,0,0.0
+2013-04-15 00:00:00 Washington @ Brooklyn,0,0,1,0,0,1.0
+2012-12-21 00:00:00 Indiana @ Cleveland,1,1,1,0,1,1.0
+2014-11-07 00:00:00 Minnesota @ Orlando,1,1,1,0,0,1.0
+2017-12-23 00:00:00 Oklahoma City @ Utah,0,0,0,0,1,0.0
+2019-03-15 00:00:00 Chicago @ Clippers,1,0,0,0,1,0.0
+2012-12-21 00:00:00 Atlanta @ Philadelphia,1,1,1,1,0,1.0
+2012-11-11 00:00:00 Atlanta @ Clippers,1,1,1,1,0,1.0
+2020-02-23 00:00:00 Indiana @ Toronto,0,0,0,0,0,0.0
+2017-02-23 00:00:00 Denver @ Sacramento,0,0,0,0,0,0.0
+2012-01-30 00:00:00 Oklahoma City @ Clippers,0,0,0,0,0,0.0
+2015-02-22 00:00:00 Charlotte @ Dallas,1,1,0,1,0,0.0
+2021-02-22 00:00:00 Chicago @ Houston,1,1,1,1,1,1.0
+2015-01-29 00:00:00 Denver @ Memphis,0,0,0,0,0,0.0
+2018-11-03 00:00:00 Cleveland @ Charlotte,0,0,0,0,0,0.0
+2021-05-09 00:00:00 Dallas @ Cleveland,1,1,1,1,1,1.0
+2012-03-02 00:00:00 Memphis @ Toronto,0,0,0,0,0,0.0
+2012-02-28 00:00:00 Washington @ Milwaukee,0,0,1,0,1,1.0
+2015-12-29 00:00:00 Detroit @ New York,0,0,0,0,0,0.0
+2019-04-05 00:00:00 Miami @ Minnesota,0,0,0,0,0,0.0
+2012-02-08 00:00:00 Milwaukee @ Toronto,0,1,1,0,1,1.0
+2015-03-19 00:00:00 Utah @ Lakers,0,0,0,0,1,0.0
+2019-04-09 00:00:00 Portland Trail @ Lakers,0,0,0,0,0,0.0
+2020-01-08 00:00:00 Chicago @ New Orleans,1,1,1,0,0,1.0
+2018-10-17 00:00:00 Cleveland @ Toronto,0,0,0,0,1,0.0
+2019-01-21 00:00:00 Oklahoma City @ New York,0,1,1,0,1,1.0
+2017-01-11 00:00:00 Memphis @ Oklahoma City,0,0,0,0,0,0.0
+2016-11-08 00:00:00 Phoenix @ Portland Trail,1,1,1,1,1,1.0
+2021-05-16 00:00:00 Indiana @ Toronto,0,0,0,0,1,0.0
+2016-03-02 00:00:00 New Orleans @ Houston,1,1,0,0,1,0.0
+2021-05-10 00:00:00 Houston @ Portland Trail,1,1,1,1,1,1.0
+2012-02-10 00:00:00 Portland Trail @ New Orleans,0,0,0,0,1,0.0
+2013-01-31 00:00:00 Memphis @ Oklahoma City,1,1,0,1,0,0.0
+2020-02-09 00:00:00 Chicago @ Philadelphia,1,0,0,0,1,0.0
+2017-01-02 00:00:00 Orlando @ New York,1,1,1,1,1,1.0
+2012-02-01 00:00:00 Oklahoma City @ Dallas,0,0,1,0,1,1.0
+2019-01-30 00:00:00 Indiana @ Washington,0,0,1,0,0,1.0
+2019-01-08 00:00:00 Minnesota @ Oklahoma City,0,0,0,0,1,0.0
+2015-01-09 00:00:00 Philadelphia @ Brooklyn,1,1,1,0,1,1.0
+2018-11-21 00:00:00 Phoenix @ Chicago,0,0,0,0,0,0.0
+2013-03-24 00:00:00 Portland Trail @ Oklahoma City,0,0,0,0,0,0.0
+2015-03-04 00:00:00 Portland Trail @ Clippers,0,0,0,0,1,0.0
+2012-03-16 00:00:00 Minnesota @ Lakers,1,1,0,0,1,0.0
+2015-03-02 00:00:00 Toronto @ Philadelphia,0,1,0,0,1,0.0
+2015-02-06 00:00:00 Denver @ Detroit,1,1,1,0,0,1.0
+2018-03-27 00:00:00 Cleveland @ Miami,0,0,0,0,0,0.0
+2017-01-18 00:00:00 Milwaukee @ Houston,0,0,0,0,0,0.0
+2019-02-14 00:00:00 Charlotte @ Orlando,1,1,1,0,0,1.0
+2018-11-12 00:00:00 Dallas @ Chicago,0,1,0,0,1,0.0
+2019-11-22 00:00:00 Sacramento @ Brooklyn,0,0,0,0,0,0.0
+2014-12-29 00:00:00 Washington @ Houston,1,1,1,1,1,1.0
+2020-01-04 00:00:00 Oklahoma City @ Cleveland,0,0,1,0,1,1.0
+2014-01-18 00:00:00 Portland Trail @ Dallas,1,1,0,0,1,0.0
+2015-01-23 00:00:00 Sacramento @ Golden State,0,0,1,0,0,1.0
+2017-12-09 00:00:00 Lakers @ Charlotte,0,0,0,0,1,0.0
+2021-04-19 00:00:00 San Antonio @ Indiana,1,1,1,0,1,1.0
+2021-01-16 00:00:00 Orlando @ Brooklyn,0,0,0,0,1,0.0
+2018-12-09 00:00:00 New Orleans @ Detroit,0,0,0,0,1,0.0
+2012-11-03 00:00:00 Sacramento @ Indiana,0,0,0,0,0,0.0
+2015-03-13 00:00:00 Minnesota @ Oklahoma City,0,0,0,0,0,0.0
+2018-01-21 00:00:00 Indiana @ San Antonio,1,0,0,0,1,0.0
+2018-11-07 00:00:00 Detroit @ Orlando,1,1,1,1,1,1.0
+2016-01-18 00:00:00 New Orleans @ Memphis,1,0,0,0,1,0.0
+2019-02-02 00:00:00 Milwaukee @ Washington,0,0,0,0,1,0.0
+2015-11-17 00:00:00 Atlanta @ Brooklyn,1,1,1,1,0,1.0
+2021-01-29 00:00:00 Milwaukee @ New Orleans,0,0,0,0,0,0.0
+2020-01-16 00:00:00 Denver @ Golden State,1,1,1,1,0,1.0
+2017-01-08 00:00:00 Miami @ Clippers,0,0,0,0,0,0.0
+2021-04-28 00:00:00 Charlotte @ Boston,1,0,0,0,0,0.0
+2015-11-04 00:00:00 Philadelphia @ Milwaukee,1,1,1,1,1,1.0
+2012-01-24 00:00:00 Cleveland @ Miami,1,1,1,0,1,1.0
+2021-01-14 00:00:00 Indiana @ Portland Trail,1,1,1,1,1,1.0
+2014-03-22 00:00:00 Miami @ New Orleans,0,0,0,0,0,0.0
+2014-03-01 00:00:00 Washington @ Philadelphia,1,1,1,1,1,1.0
+2016-11-16 00:00:00 Houston @ Oklahoma City,1,0,1,0,1,1.0
+2017-02-14 00:00:00 Sacramento @ Lakers,0,1,1,0,1,1.0
+2016-11-12 00:00:00 Lakers @ New Orleans,1,1,1,1,1,1.0
+2021-04-23 00:00:00 Cleveland @ Charlotte,0,0,0,0,0,0.0
+2015-11-08 00:00:00 Detroit @ Portland Trail,1,1,1,1,1,1.0
+2012-12-09 00:00:00 Indiana @ Oklahoma City,0,1,1,0,0,1.0
+2020-03-08 00:00:00 Oklahoma City @ Boston,1,1,1,0,1,1.0
+2014-12-23 00:00:00 Golden State @ Lakers,1,1,1,1,0,1.0
+2019-01-08 00:00:00 Indiana @ Cleveland,1,1,1,1,0,1.0
+2019-12-20 00:00:00 New Orleans @ Golden State,0,1,0,0,0,0.0
+2017-10-21 00:00:00 Sacramento @ Denver,0,0,0,1,0,1.0
+2018-12-26 00:00:00 Indiana @ Atlanta,1,1,1,1,1,1.0
+2018-03-29 00:00:00 Indiana @ Sacramento,0,1,1,0,0,1.0
+2020-02-25 00:00:00 New Orleans @ Lakers,0,0,1,0,0,1.0
+2016-02-05 00:00:00 Memphis @ New York,0,0,0,0,1,0.0
+2015-01-14 00:00:00 Clippers @ Portland Trail,1,1,1,0,1,1.0
+2012-11-21 00:00:00 Toronto @ Charlotte,0,0,0,0,1,0.0
+2021-04-01 00:00:00 Washington @ Detroit,0,0,1,0,0,1.0
+2017-03-15 00:00:00 Lakers @ Houston,0,1,1,0,0,1.0
+2018-03-08 00:00:00 Phoenix @ Oklahoma City,1,0,1,0,0,1.0
+2013-04-03 00:00:00 Orlando @ San Antonio,0,0,0,0,0,0.0
+2021-01-03 00:00:00 Washington @ Brooklyn,1,1,1,1,1,1.0
+2013-02-06 00:00:00 Portland Trail @ Dallas,0,1,0,0,0,0.0
+2019-02-02 00:00:00 Atlanta @ Phoenix,1,1,1,1,1,1.0
+2020-01-08 00:00:00 Houston @ Atlanta,0,1,1,1,0,1.0
+2018-12-10 00:00:00 Memphis @ Denver,0,0,0,0,0,0.0
+2019-04-04 00:00:00 Cleveland @ Sacramento,1,0,0,0,0,0.0
+2012-11-30 00:00:00 Philadelphia @ Charlotte,1,1,1,0,1,1.0
+2014-01-20 00:00:00 Indiana @ Golden State,1,1,1,0,1,1.0
+2021-02-24 00:00:00 Detroit @ New Orleans,1,1,1,0,1,1.0
+2014-02-11 00:00:00 Atlanta @ Chicago,1,0,0,0,0,0.0
+2013-01-08 00:00:00 Lakers @ Houston,1,0,1,1,0,1.0
+2017-01-09 00:00:00 Dallas @ Minnesota,0,1,0,0,0,0.0
+2019-11-05 00:00:00 Orlando @ Oklahoma City,0,0,0,0,0,0.0
+2012-03-06 00:00:00 Atlanta @ Indiana,1,1,1,1,1,1.0
+2015-11-25 00:00:00 Philadelphia @ Boston,1,0,0,0,1,0.0
+2019-03-02 00:00:00 New Orleans @ Denver,1,1,1,1,1,1.0
+2019-11-16 00:00:00 Portland Trail @ San Antonio,1,1,1,0,1,1.0
+2014-04-13 00:00:00 Minnesota @ Sacramento,0,1,0,0,0,0.0
+2014-11-17 00:00:00 Philadelphia @ San Antonio,0,0,0,0,0,0.0
+2012-03-13 00:00:00 Washington @ Dallas,1,0,0,0,1,0.0
+2021-02-08 00:00:00 Oklahoma City @ Lakers,1,1,1,0,1,1.0
+2014-01-10 00:00:00 Washington @ Indiana,0,0,0,0,0,0.0
+2015-01-21 00:00:00 Houston @ Golden State,0,0,0,0,0,0.0
+2017-11-15 00:00:00 San Antonio @ Minnesota,1,0,0,1,0,0.0
+2014-10-28 00:00:00 Dallas @ San Antonio,1,0,0,1,1,0.0
+2020-02-26 00:00:00 Boston @ Utah,1,1,1,1,1,1.0
+2019-01-29 00:00:00 Milwaukee @ Detroit,0,0,1,0,1,1.0
+2018-03-18 00:00:00 Oklahoma City @ Toronto,0,0,0,0,1,0.0
+2015-12-07 00:00:00 Dallas @ New York,1,1,1,0,1,1.0
+2013-11-12 00:00:00 Washington @ Dallas,0,0,0,0,0,0.0
+2018-02-23 00:00:00 Dallas @ Lakers,1,1,1,0,0,1.0
+2015-01-21 00:00:00 Lakers @ New Orleans,0,0,0,0,0,0.0
+2019-01-08 00:00:00 Sacramento @ Phoenix,1,1,1,1,0,1.0
+2016-04-12 00:00:00 Memphis @ Clippers,1,1,1,0,0,1.0
+2016-01-06 00:00:00 Cleveland @ Washington,0,0,0,0,0,0.0
+2013-12-01 00:00:00 New Orleans @ New York,1,1,1,1,1,1.0
+2011-12-29 00:00:00 Dallas @ Oklahoma City,1,0,0,1,1,0.0
+2018-11-03 00:00:00 Miami @ Atlanta,0,0,0,0,0,0.0
+2021-05-18 00:00:00 Washington @ Boston,0,0,0,0,0,0.0
+2020-02-07 00:00:00 Toronto @ Indiana,1,1,1,1,1,1.0
+2021-05-13 00:00:00 Denver @ Minnesota,1,1,1,1,1,1.0
+2021-04-03 00:00:00 Oklahoma City @ Portland Trail,1,1,1,1,0,1.0
+2015-12-30 00:00:00 Golden State @ Dallas,1,1,1,0,0,1.0
+2013-12-31 00:00:00 Golden State @ Orlando,0,0,0,0,1,0.0
+2018-11-14 00:00:00 New York @ Oklahoma City,0,0,0,0,0,0.0
+2017-02-06 00:00:00 Clippers @ Toronto,0,0,0,0,0,0.0
+2018-01-01 00:00:00 Orlando @ Brooklyn,0,0,0,0,0,0.0
+2017-01-03 00:00:00 Minnesota @ Philadelphia,0,0,1,0,0,1.0
+2019-11-04 00:00:00 Portland Trail @ Golden State,0,1,1,0,0,1.0
+2021-03-24 00:00:00 Denver @ Toronto,1,1,0,0,0,0.0
+2015-03-13 00:00:00 Detroit @ Portland Trail,1,0,0,0,0,0.0
+2012-04-16 00:00:00 Dallas @ Utah,0,0,0,0,1,0.0
+2021-03-24 00:00:00 Cleveland @ Chicago,1,1,1,0,1,1.0
+2015-02-26 00:00:00 Oklahoma City @ Phoenix,0,0,0,0,0,0.0
+2020-01-15 00:00:00 Portland Trail @ Houston,0,0,0,0,1,0.0
+2018-02-24 00:00:00 Portland Trail @ Phoenix,1,1,1,1,0,1.0
+2020-02-06 00:00:00 Orlando @ New York,0,1,1,0,0,1.0
+2017-03-29 00:00:00 Atlanta @ Philadelphia,0,1,1,0,1,1.0
+2016-03-31 00:00:00 Boston @ Portland Trail,0,0,0,0,0,0.0
+2016-03-29 00:00:00 Chicago @ Indiana,1,0,1,0,1,1.0
+2021-05-12 00:00:00 San Antonio @ Brooklyn,0,0,0,0,0,0.0
+2021-02-08 00:00:00 Minnesota @ Dallas,1,1,1,1,1,1.0
+2015-11-04 00:00:00 Clippers @ Golden State,0,0,0,0,1,0.0
+2018-03-30 00:00:00 Memphis @ Utah,1,1,1,1,1,1.0
+2013-11-30 00:00:00 Atlanta @ Washington,1,1,0,1,0,0.0
+2012-11-28 00:00:00 Utah @ New Orleans,1,1,1,1,1,1.0
+2021-01-27 00:00:00 Oklahoma City @ Phoenix,1,1,1,1,1,1.0
+2012-12-08 00:00:00 Philadelphia @ Boston,1,1,1,1,0,1.0
+2013-11-20 00:00:00 Utah @ New Orleans,0,0,0,0,1,0.0
+2019-12-30 00:00:00 Detroit @ Utah,1,0,0,0,0,0.0
+2014-12-04 00:00:00 Cleveland @ New York,0,0,0,0,0,0.0
+2016-01-15 00:00:00 Cleveland @ Houston,1,1,1,1,1,1.0
+2014-03-26 00:00:00 Phoenix @ Washington,0,1,1,0,1,1.0
+2014-01-27 00:00:00 Atlanta @ Oklahoma City,1,1,1,0,1,1.0
+2019-03-03 00:00:00 New York @ Clippers,1,0,0,0,0,0.0
+2016-02-27 00:00:00 Miami @ Boston,1,1,1,0,0,1.0
+2015-12-02 00:00:00 Milwaukee @ San Antonio,0,0,0,0,0,0.0
+2012-12-22 00:00:00 Indiana @ New Orleans,1,1,1,1,1,1.0
+2019-01-02 00:00:00 Orlando @ Chicago,1,1,1,1,1,1.0
+2019-11-10 00:00:00 Milwaukee @ Oklahoma City,0,0,1,0,0,1.0
+2015-04-05 00:00:00 Utah @ Sacramento,1,1,1,1,1,1.0
+2014-04-08 00:00:00 Oklahoma City @ Sacramento,0,0,0,0,1,0.0
+2018-11-27 00:00:00 Indiana @ Phoenix,1,1,1,1,1,1.0
+2018-01-08 00:00:00 Atlanta @ Clippers,0,0,0,0,1,0.0
+2014-02-10 00:00:00 Boston @ Milwaukee,1,1,1,1,1,1.0
+2015-11-04 00:00:00 Orlando @ Houston,1,1,1,1,1,1.0
+2015-12-30 00:00:00 Brooklyn @ Orlando,1,0,0,0,1,0.0
+2018-11-26 00:00:00 Indiana @ Utah,1,1,1,1,1,1.0
+2021-03-24 00:00:00 Phoenix @ Orlando,1,1,1,0,0,1.0
+2016-10-26 00:00:00 Brooklyn @ Boston,1,0,0,1,1,0.0
+2017-12-15 00:00:00 Clippers @ Washington,1,1,1,0,1,1.0
+2016-11-25 00:00:00 Charlotte @ New York,0,0,0,0,0,0.0
+2020-12-26 00:00:00 Cleveland @ Detroit,1,1,1,1,1,1.0
+2019-11-20 00:00:00 Milwaukee @ Atlanta,1,1,1,1,0,1.0
+2014-02-07 00:00:00 Toronto @ Clippers,0,0,0,0,0,0.0
+2018-11-18 00:00:00 Lakers @ Miami,1,1,1,0,1,1.0
+2015-04-06 00:00:00 Portland Trail @ Brooklyn,1,1,1,1,0,1.0
+2019-11-25 00:00:00 Brooklyn @ Cleveland,1,1,1,1,1,1.0
+2019-01-16 00:00:00 Brooklyn @ Houston,1,0,0,0,1,0.0
+2015-12-09 00:00:00 San Antonio @ Toronto,0,0,0,0,0,0.0
+2021-01-08 00:00:00 Phoenix @ Detroit,0,1,1,0,0,1.0
+2017-03-11 00:00:00 Phoenix @ Dallas,0,0,0,0,1,0.0
+2019-01-22 00:00:00 Minnesota @ Phoenix,0,0,1,0,1,1.0
+2020-02-08 00:00:00 Denver @ Phoenix,0,1,1,0,1,1.0
+2021-04-20 00:00:00 Minnesota @ Sacramento,1,1,0,0,1,0.0
+2013-01-25 00:00:00 Golden State @ Chicago,1,1,1,0,0,1.0
+2016-12-28 00:00:00 Minnesota @ Denver,1,1,1,0,1,1.0
+2016-01-13 00:00:00 New Orleans @ Sacramento,1,1,1,1,1,1.0
+2016-11-09 00:00:00 Boston @ Washington,0,0,0,0,0,0.0
+2012-03-23 00:00:00 Dallas @ San Antonio,0,0,0,0,0,0.0
+2016-04-13 00:00:00 Memphis @ Golden State,1,1,1,1,0,1.0
+2013-11-20 00:00:00 Brooklyn @ Charlotte,0,0,0,0,0,0.0
+2012-02-02 00:00:00 Utah @ Golden State,0,1,1,0,0,1.0
+2019-01-04 00:00:00 New York @ Lakers,0,0,0,0,1,0.0
+2016-01-30 00:00:00 Detroit @ Toronto,0,0,1,0,1,1.0
+2015-11-09 00:00:00 Portland Trail @ Denver,1,1,1,1,0,1.0
+2017-11-22 00:00:00 Portland Trail @ Philadelphia,1,1,1,1,0,1.0
+2018-03-03 00:00:00 Denver @ Cleveland,1,0,1,0,1,1.0
+2016-01-01 00:00:00 Orlando @ Washington,1,1,1,1,0,1.0
+2016-01-29 00:00:00 Minnesota @ Utah,1,1,1,1,0,1.0
+2018-11-30 00:00:00 Chicago @ Detroit,0,0,0,0,0,0.0
+2013-01-07 00:00:00 San Antonio @ New Orleans,1,1,1,1,0,1.0
+2017-02-15 00:00:00 Charlotte @ Toronto,0,0,0,0,1,0.0
+2017-11-22 00:00:00 Boston @ Miami,1,1,1,1,0,1.0
+2014-02-21 00:00:00 Dallas @ Philadelphia,0,0,0,0,0,0.0
+2013-12-10 00:00:00 San Antonio @ Toronto,1,1,1,1,1,1.0
+2012-11-30 00:00:00 Portland Trail @ Boston,0,0,0,0,0,0.0
+2013-10-30 00:00:00 Indiana @ New Orleans,1,1,1,1,1,1.0
+2021-01-22 00:00:00 Atlanta @ Minnesota,1,1,1,1,1,1.0
+2019-11-29 00:00:00 Toronto @ Orlando,0,1,1,0,1,1.0
+2016-04-08 00:00:00 Miami @ Orlando,0,0,0,0,0,0.0
+2012-01-04 00:00:00 Washington @ Orlando,0,0,0,0,0,0.0
+2011-12-30 00:00:00 Houston @ Memphis,0,0,0,0,0,0.0
+2014-04-04 00:00:00 Oklahoma City @ Houston,1,1,1,0,0,1.0
+2013-03-11 00:00:00 Detroit @ Utah,1,1,0,0,0,0.0
+2018-12-17 00:00:00 Philadelphia @ San Antonio,0,0,0,0,0,0.0
+2013-02-06 00:00:00 Golden State @ Oklahoma City,0,1,0,0,0,0.0
+2014-04-12 00:00:00 Phoenix @ Dallas,1,1,1,0,1,1.0
+2014-03-31 00:00:00 Sacramento @ New Orleans,1,0,1,0,1,1.0
+2014-02-12 00:00:00 New Orleans @ Milwaukee,0,0,1,0,0,1.0
+2020-02-13 00:00:00 Clippers @ Boston,0,0,0,0,0,0.0
+2015-12-25 00:00:00 San Antonio @ Houston,1,1,1,1,0,1.0
+2018-04-03 00:00:00 Boston @ Milwaukee,1,1,1,1,1,1.0
+2018-12-16 00:00:00 Miami @ New Orleans,1,1,1,1,1,1.0
+2018-12-11 00:00:00 Portland Trail @ Houston,1,1,1,0,0,1.0
+2012-04-15 00:00:00 Toronto @ Atlanta,1,1,1,1,1,1.0
+2018-01-23 00:00:00 Sacramento @ Orlando,1,1,1,1,1,1.0
+2018-03-02 00:00:00 Golden State @ Atlanta,0,0,0,0,0,0.0
+2021-05-06 00:00:00 Lakers @ Clippers,1,1,0,0,0,0.0
+2014-01-02 00:00:00 Charlotte @ Portland Trail,1,1,1,0,0,1.0
+2016-01-14 00:00:00 Detroit @ Memphis,0,0,0,0,0,0.0
+2018-04-11 00:00:00 Memphis @ Oklahoma City,1,1,1,1,1,1.0
+2018-03-13 00:00:00 Denver @ Lakers,0,0,0,0,0,0.0
+2012-01-04 00:00:00 Houston @ Clippers,0,0,0,0,0,0.0
+2019-04-01 00:00:00 Charlotte @ Utah,0,0,0,0,1,0.0
+2013-12-18 00:00:00 New York @ Milwaukee,1,1,1,1,1,1.0
+2012-01-10 00:00:00 Houston @ Charlotte,0,0,0,0,1,0.0
+2015-12-31 00:00:00 Golden State @ Houston,1,1,1,1,1,1.0
+2015-03-08 00:00:00 Dallas @ Lakers,0,1,1,0,0,1.0
+2012-02-01 00:00:00 Houston @ San Antonio,0,0,0,0,0,0.0
+2014-12-02 00:00:00 Orlando @ Golden State,1,1,1,0,1,1.0
+2019-02-11 00:00:00 Portland Trail @ Oklahoma City,0,0,0,0,0,0.0
+2017-04-12 00:00:00 Minnesota @ Houston,0,0,0,0,1,0.0
+2018-04-07 00:00:00 Milwaukee @ New York,0,0,0,0,1,0.0
+2018-03-28 00:00:00 Cleveland @ Charlotte,1,0,1,0,1,1.0
+2018-03-26 00:00:00 Boston @ Phoenix,1,1,1,1,0,1.0
+2017-03-03 00:00:00 Memphis @ Dallas,0,0,0,0,0,0.0
+2015-11-01 00:00:00 Houston @ Miami,0,0,0,0,0,0.0
+2018-12-01 00:00:00 Chicago @ Houston,1,1,1,0,0,1.0
+2016-01-01 00:00:00 Charlotte @ Toronto,1,0,1,0,0,1.0
+2018-12-14 00:00:00 Oklahoma City @ Denver,0,0,0,0,0,0.0
+2017-01-13 00:00:00 Detroit @ Utah,1,1,1,0,0,1.0
+2014-02-06 00:00:00 San Antonio @ Brooklyn,1,1,1,1,0,1.0
+2021-01-01 00:00:00 Atlanta @ Brooklyn,1,1,1,1,1,1.0
+2018-03-10 00:00:00 Memphis @ Dallas,1,1,1,0,0,1.0
+2013-03-18 00:00:00 Denver @ Chicago,0,0,0,0,0,0.0
+2018-12-16 00:00:00 Toronto @ Denver,1,1,1,0,0,1.0
+2017-10-28 00:00:00 Detroit @ Clippers,0,1,1,0,1,1.0
+2012-12-20 00:00:00 Oklahoma City @ Minnesota,1,0,0,0,0,0.0
+2013-03-13 00:00:00 Toronto @ Boston,0,0,0,0,0,0.0
+2014-11-14 00:00:00 Miami @ Atlanta,1,0,0,0,0,0.0
+2020-01-21 00:00:00 Clippers @ Dallas,0,1,1,0,1,1.0
+2015-03-27 00:00:00 Sacramento @ New Orleans,0,0,0,0,0,0.0
+2020-03-01 00:00:00 Philadelphia @ Clippers,1,1,1,1,1,1.0
+2015-01-28 00:00:00 Brooklyn @ Atlanta,1,1,1,1,1,1.0
+2017-04-02 00:00:00 Charlotte @ Oklahoma City,0,0,0,0,1,0.0
+2016-02-21 00:00:00 Philadelphia @ Dallas,1,1,0,0,0,0.0
+2014-12-20 00:00:00 San Antonio @ Dallas,1,1,1,1,1,1.0
+2014-03-30 00:00:00 Minnesota @ Brooklyn,1,1,1,0,0,1.0
+2015-01-14 00:00:00 Memphis @ Brooklyn,0,1,1,0,1,1.0
+2018-04-05 00:00:00 Minnesota @ Denver,0,0,0,0,1,0.0
+2012-01-02 00:00:00 Oklahoma City @ Dallas,0,1,1,0,0,1.0
+2012-11-20 00:00:00 Brooklyn @ Lakers,1,1,1,1,1,1.0
+2017-12-31 00:00:00 Brooklyn @ Boston,1,1,1,0,1,1.0
+2014-01-19 00:00:00 Boston @ Orlando,0,0,0,0,0,0.0
+2018-02-27 00:00:00 Chicago @ Charlotte,1,1,1,1,0,1.0
+2015-12-26 00:00:00 Chicago @ Dallas,0,0,1,0,0,1.0
+2012-02-06 00:00:00 Oklahoma City @ Portland Trail,0,0,0,0,1,0.0
+2014-03-02 00:00:00 Dallas @ San Antonio,1,1,1,0,1,1.0
+2013-04-14 00:00:00 Brooklyn @ Toronto,0,1,0,0,0,0.0
+2019-02-23 00:00:00 Phoenix @ Atlanta,0,0,0,0,0,0.0
+2019-12-09 00:00:00 Oklahoma City @ Utah,1,1,0,1,1,0.0
+2019-04-09 00:00:00 Boston @ Washington,1,1,1,1,1,1.0
+2018-12-14 00:00:00 Indiana @ Philadelphia,1,1,1,0,1,1.0
+2013-11-20 00:00:00 Washington @ Cleveland,1,0,0,1,1,0.0
+2017-03-29 00:00:00 Dallas @ New Orleans,1,1,1,0,1,1.0
+2019-11-12 00:00:00 Atlanta @ Denver,1,1,1,1,1,1.0
+2021-01-09 00:00:00 Atlanta @ Charlotte,1,1,1,1,0,1.0
+2012-04-24 00:00:00 New Orleans @ Golden State,0,0,0,0,0,0.0
+2014-04-16 00:00:00 Atlanta @ Milwaukee,1,1,1,1,1,1.0
+2018-12-26 00:00:00 Phoenix @ Orlando,1,1,1,1,1,1.0
+2013-04-09 00:00:00 Milwaukee @ Miami,0,0,0,0,0,0.0
+2018-03-23 00:00:00 Brooklyn @ Toronto,0,0,1,0,1,1.0
+2017-11-29 00:00:00 Minnesota @ New Orleans,1,1,1,1,1,1.0
+2021-04-06 00:00:00 Lakers @ Toronto,0,1,1,0,1,1.0
+2016-03-18 00:00:00 Minnesota @ Houston,1,1,1,1,1,1.0
+2018-11-27 00:00:00 Toronto @ Memphis,0,0,0,0,1,0.0
+2017-12-04 00:00:00 Golden State @ New Orleans,1,1,1,0,1,1.0
+2015-11-18 00:00:00 Brooklyn @ Charlotte,0,0,0,0,1,0.0
+2016-03-23 00:00:00 New York @ Chicago,1,1,1,1,1,1.0
+2016-01-10 00:00:00 Charlotte @ Denver,1,1,1,0,0,1.0
+2017-11-13 00:00:00 Sacramento @ Washington,0,0,0,0,0,0.0
+2014-02-27 00:00:00 Washington @ Toronto,1,1,1,0,1,1.0
+2018-03-20 00:00:00 Oklahoma City @ Boston,0,0,0,0,0,0.0
+2013-12-23 00:00:00 Lakers @ Phoenix,0,0,0,0,0,0.0
+2016-12-03 00:00:00 Chicago @ Dallas,1,1,1,0,0,1.0
+2021-02-16 00:00:00 Denver @ Boston,1,1,1,0,0,1.0
+2015-01-19 00:00:00 Indiana @ Houston,1,1,0,1,0,0.0
+2017-10-24 00:00:00 Chicago @ Cleveland,1,1,1,1,1,1.0
+2012-02-19 00:00:00 Orlando @ Miami,0,1,1,0,0,1.0
+2016-03-23 00:00:00 Milwaukee @ Cleveland,1,0,0,0,1,0.0
+2014-02-09 00:00:00 Indiana @ Orlando,0,0,0,0,0,0.0
+2014-11-09 00:00:00 Sacramento @ Oklahoma City,0,0,1,0,0,1.0
+2016-01-08 00:00:00 Orlando @ Brooklyn,1,1,1,0,1,1.0
+2012-01-23 00:00:00 Sacramento @ Portland Trail,0,0,0,0,0,0.0
+2017-12-28 00:00:00 Philadelphia @ Portland Trail,0,0,0,0,0,0.0
+2012-02-15 00:00:00 New Orleans @ Milwaukee,1,1,1,1,1,1.0
+2012-11-24 00:00:00 Lakers @ Dallas,0,0,0,0,1,0.0
+2020-01-01 00:00:00 Orlando @ Washington,0,0,0,0,1,0.0
+2021-05-04 00:00:00 Charlotte @ Detroit,0,0,0,0,0,0.0
+2021-02-25 00:00:00 Washington @ Denver,0,1,0,0,1,0.0
+2014-11-28 00:00:00 New Orleans @ Atlanta,0,0,0,0,0,0.0
+2019-12-07 00:00:00 Memphis @ Utah,1,1,1,0,0,1.0
+2014-02-18 00:00:00 Miami @ Dallas,0,0,0,0,1,0.0
+2015-01-21 00:00:00 Brooklyn @ Sacramento,1,1,1,1,1,1.0
+2018-02-06 00:00:00 Oklahoma City @ Golden State,1,1,1,1,1,1.0
+2019-10-28 00:00:00 Indiana @ Detroit,1,0,0,0,0,0.0
+2021-01-10 00:00:00 Toronto @ Golden State,0,0,0,0,0,0.0
+2014-02-18 00:00:00 Orlando @ Milwaukee,0,0,0,0,0,0.0
+2012-12-25 00:00:00 Houston @ Chicago,1,1,1,1,1,1.0
+2015-02-21 00:00:00 Sacramento @ Clippers,0,0,0,0,0,0.0
+2017-01-02 00:00:00 Oklahoma City @ Milwaukee,0,0,0,0,0,0.0
+2017-11-04 00:00:00 Memphis @ Clippers,1,1,1,1,1,1.0
+2020-03-03 00:00:00 Washington @ Sacramento,1,0,0,0,0,0.0
+2014-01-29 00:00:00 Houston @ Dallas,1,1,1,0,1,1.0
+2014-04-06 00:00:00 Oklahoma City @ Phoenix,0,0,0,0,0,0.0
+2013-12-18 00:00:00 Detroit @ Boston,1,1,1,0,1,1.0
+2012-03-03 00:00:00 Oklahoma City @ Atlanta,0,0,0,0,0,0.0
+2019-01-17 00:00:00 Phoenix @ Toronto,0,0,0,0,1,0.0
+2016-03-25 00:00:00 Minnesota @ Washington,1,1,1,1,1,1.0
+2013-12-31 00:00:00 Toronto @ Chicago,1,1,1,1,1,1.0
+2020-03-01 00:00:00 Milwaukee @ Charlotte,1,1,1,1,0,1.0
+2016-04-06 00:00:00 Detroit @ Orlando,0,1,0,0,1,0.0
+2017-12-01 00:00:00 Golden State @ Orlando,1,1,1,1,1,1.0
+2019-11-22 00:00:00 Miami @ Chicago,1,1,1,0,1,1.0
+2015-04-05 00:00:00 Houston @ Oklahoma City,0,0,1,0,1,1.0
+2021-03-14 00:00:00 Memphis @ Oklahoma City,1,1,1,1,0,1.0
+2017-11-13 00:00:00 Orlando @ Golden State,1,1,1,1,1,1.0
+2018-02-10 00:00:00 San Antonio @ Golden State,1,1,1,1,0,1.0
+2016-11-16 00:00:00 Washington @ Philadelphia,0,0,0,0,0,0.0
+2013-12-21 00:00:00 Cleveland @ Chicago,0,0,0,0,0,0.0
+2015-11-06 00:00:00 Detroit @ Phoenix,1,1,1,1,1,1.0
+2012-11-30 00:00:00 Denver @ Lakers,0,0,0,0,0,0.0
+2014-12-26 00:00:00 Milwaukee @ Atlanta,1,1,1,1,1,1.0
+2021-01-18 00:00:00 San Antonio @ Portland Trail,1,1,1,1,1,1.0
+2019-11-25 00:00:00 Oklahoma City @ Golden State,0,0,0,0,0,0.0
+2014-01-22 00:00:00 Philadelphia @ New York,1,1,1,1,1,1.0
+2019-03-04 00:00:00 Clippers @ Lakers,1,1,1,1,1,1.0
+2012-04-10 00:00:00 Sacramento @ Dallas,0,0,0,0,0,0.0
+2013-02-02 00:00:00 Washington @ San Antonio,0,0,0,0,1,0.0
+2013-11-30 00:00:00 Utah @ Phoenix,0,0,0,0,1,0.0
+2021-03-11 00:00:00 Atlanta @ Toronto,0,0,0,0,0,0.0
+2016-03-11 00:00:00 Washington @ Utah,0,0,1,0,0,1.0
+2021-03-13 00:00:00 Detroit @ Brooklyn,1,0,1,0,1,1.0
+2015-02-07 00:00:00 Sacramento @ Utah,1,1,1,1,0,1.0
+2021-01-06 00:00:00 Washington @ Philadelphia,1,0,0,0,1,0.0
+2017-12-18 00:00:00 Golden State @ Lakers,1,1,1,1,0,1.0
+2017-04-02 00:00:00 Dallas @ Milwaukee,0,0,1,0,1,1.0
+2014-11-05 00:00:00 Clippers @ Golden State,0,0,0,0,0,0.0
+2015-01-04 00:00:00 Dallas @ Cleveland,0,0,0,0,1,0.0
+2015-03-25 00:00:00 Indiana @ Washington,0,0,0,0,1,0.0
+2017-04-05 00:00:00 Denver @ Houston,0,0,0,0,1,0.0
+2020-03-04 00:00:00 Orlando @ Miami,0,0,0,0,1,0.0
+2017-01-01 00:00:00 Portland Trail @ Minnesota,1,1,1,0,1,1.0
+2017-04-10 00:00:00 Brooklyn @ Boston,1,1,1,0,1,1.0
+2014-01-17 00:00:00 Portland Trail @ San Antonio,1,1,1,1,1,1.0
+2017-12-18 00:00:00 Philadelphia @ Chicago,1,1,1,0,0,1.0
+2012-02-21 00:00:00 Sacramento @ Miami,0,0,0,0,1,0.0
+2019-04-05 00:00:00 Sacramento @ Utah,1,0,1,0,0,1.0
+2021-05-13 00:00:00 Toronto @ Chicago,1,1,1,1,0,1.0
+2018-11-18 00:00:00 Portland Trail @ Washington,1,1,1,0,1,1.0
+2014-12-27 00:00:00 Memphis @ Miami,1,1,1,1,1,1.0
+2017-02-09 00:00:00 Utah @ Dallas,0,1,1,0,0,1.0
+2017-11-22 00:00:00 Toronto @ New York,0,0,0,0,0,0.0
+2013-03-22 00:00:00 Portland Trail @ Atlanta,1,0,1,0,1,1.0
+2013-11-01 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,0,0.0
+2013-12-30 00:00:00 Washington @ Detroit,1,1,1,1,1,1.0
+2013-03-08 00:00:00 Dallas @ Detroit,0,0,0,0,0,0.0
+2019-03-22 00:00:00 Brooklyn @ Lakers,0,0,0,0,1,0.0
+2018-11-17 00:00:00 Clippers @ Brooklyn,0,0,0,0,1,0.0
+2013-01-30 00:00:00 Washington @ Philadelphia,1,0,1,0,0,1.0
+2012-12-14 00:00:00 Milwaukee @ Cleveland,1,1,1,1,1,1.0
+2015-02-04 00:00:00 Miami @ Minnesota,1,1,1,1,1,1.0
+2014-02-10 00:00:00 Houston @ Minnesota,0,0,0,0,1,0.0
+2014-01-05 00:00:00 Boston @ Oklahoma City,0,0,0,0,0,0.0
+2021-03-24 00:00:00 Clippers @ San Antonio,1,1,0,0,1,0.0
+2019-03-10 00:00:00 Toronto @ Miami,1,1,1,1,1,1.0
+2013-03-13 00:00:00 Phoenix @ Houston,0,0,1,0,0,1.0
+2012-03-18 00:00:00 Washington @ Memphis,1,0,0,0,1,0.0
+2018-11-28 00:00:00 San Antonio @ Minnesota,0,0,0,0,0,0.0
+2013-01-21 00:00:00 Houston @ Charlotte,0,0,1,0,0,1.0
+2018-02-04 00:00:00 Memphis @ Toronto,0,0,0,0,0,0.0
+2014-12-29 00:00:00 Orlando @ Miami,1,1,1,1,1,1.0
+2014-01-24 00:00:00 Memphis @ Houston,1,1,1,1,1,1.0
+2012-11-17 00:00:00 Denver @ San Antonio,0,0,0,0,0,0.0
+2012-03-28 00:00:00 New Orleans @ Golden State,1,1,1,1,1,1.0
+2013-04-17 00:00:00 Houston @ Lakers,0,0,0,0,0,0.0
+2018-11-04 00:00:00 Sacramento @ Milwaukee,0,0,0,0,0,0.0
+2013-12-21 00:00:00 Utah @ Charlotte,1,1,1,0,1,1.0
+2020-12-29 00:00:00 Chicago @ Washington,1,1,1,1,1,1.0
+2017-03-21 00:00:00 Clippers @ Lakers,0,0,0,0,1,0.0
+2019-01-17 00:00:00 Chicago @ Denver,0,0,0,0,0,0.0
+2015-03-29 00:00:00 Dallas @ Indiana,1,1,1,1,0,1.0
+2018-01-15 00:00:00 Toronto @ Philadelphia,1,1,1,0,0,1.0
+2016-11-18 00:00:00 Clippers @ Sacramento,1,1,0,1,0,0.0
+2017-11-09 00:00:00 Cleveland @ Houston,1,1,0,0,1,0.0
+2013-04-05 00:00:00 Orlando @ Chicago,1,1,1,0,1,1.0
+2017-03-31 00:00:00 Orlando @ Boston,1,0,0,0,1,0.0
+2017-02-12 00:00:00 Detroit @ Toronto,0,0,0,0,1,0.0
+2012-11-02 00:00:00 Miami @ New York,0,0,0,0,0,0.0
+2014-01-27 00:00:00 Phoenix @ Philadelphia,1,1,1,1,1,1.0
+2013-11-16 00:00:00 Indiana @ Chicago,0,0,0,0,0,0.0
+2016-01-31 00:00:00 Minnesota @ Portland Trail,1,0,1,0,1,1.0
+2013-12-04 00:00:00 Clippers @ Atlanta,0,0,0,0,0,0.0
+2012-11-19 00:00:00 Indiana @ Washington,1,1,1,0,1,1.0
+2018-12-07 00:00:00 Oklahoma City @ Chicago,1,1,1,1,0,1.0
+2017-04-04 00:00:00 Dallas @ Sacramento,0,0,0,0,0,0.0
+2019-11-04 00:00:00 Philadelphia @ Phoenix,0,0,1,0,0,1.0
+2013-12-18 00:00:00 Indiana @ Miami,1,1,1,0,1,1.0
+2012-03-23 00:00:00 Portland Trail @ Lakers,0,0,0,0,1,0.0
+2015-04-04 00:00:00 Golden State @ Dallas,0,0,1,0,1,1.0
+2021-05-09 00:00:00 New Orleans @ Charlotte,1,1,1,1,1,1.0
+2015-03-27 00:00:00 Detroit @ Orlando,1,1,1,0,1,1.0
+2013-11-01 00:00:00 Cleveland @ Charlotte,0,0,0,0,0,0.0
+2019-01-25 00:00:00 Clippers @ Chicago,1,1,1,1,1,1.0
+2012-12-08 00:00:00 New Orleans @ Miami,1,1,1,0,0,1.0
+2015-12-14 00:00:00 Toronto @ Indiana,1,1,1,1,0,1.0
+2018-10-22 00:00:00 Orlando @ Boston,1,1,1,1,1,1.0
+2019-01-04 00:00:00 Oklahoma City @ Portland Trail,0,0,1,0,1,1.0
+2013-12-06 00:00:00 Denver @ Boston,1,1,0,0,0,0.0
+2011-12-29 00:00:00 New Jersey @ Orlando,0,0,0,0,0,0.0
+2014-03-28 00:00:00 Portland Trail @ Chicago,1,1,1,1,1,1.0
+2011-12-31 00:00:00 Denver @ Lakers,1,0,0,0,1,0.0
+2014-12-10 00:00:00 Portland Trail @ Minnesota,1,1,1,1,0,1.0
+2016-01-02 00:00:00 Denver @ Golden State,1,1,1,0,1,1.0
+2015-10-30 00:00:00 Toronto @ Boston,1,1,1,1,1,1.0
+2021-03-23 00:00:00 Philadelphia @ Golden State,0,0,0,0,1,0.0
+2016-03-16 00:00:00 Chicago @ Washington,1,1,1,0,0,1.0
+2014-12-26 00:00:00 Phoenix @ Sacramento,0,0,0,0,1,0.0
+2014-12-18 00:00:00 Milwaukee @ Sacramento,1,1,1,1,1,1.0
+2018-03-10 00:00:00 Washington @ Miami,1,1,1,1,0,1.0
+2013-02-22 00:00:00 Denver @ Washington,0,0,0,0,0,0.0
+2021-01-12 00:00:00 San Antonio @ Oklahoma City,1,1,1,1,1,1.0
+2019-03-15 00:00:00 Sacramento @ Philadelphia,1,1,1,0,1,1.0
+2018-11-24 00:00:00 New Orleans @ Washington,1,1,1,0,0,1.0
+2012-02-15 00:00:00 Atlanta @ Phoenix,1,1,1,1,1,1.0
+2021-04-21 00:00:00 Oklahoma City @ Indiana,1,1,1,1,1,1.0
+2018-10-24 00:00:00 Brooklyn @ Cleveland,1,1,1,1,1,1.0
+2016-01-09 00:00:00 Washington @ Orlando,1,1,1,0,1,1.0
+2015-12-18 00:00:00 Atlanta @ Boston,1,1,1,0,1,1.0
+2012-01-05 00:00:00 Miami @ Atlanta,1,1,1,1,1,1.0
+2018-01-11 00:00:00 Cleveland @ Toronto,0,0,0,0,0,0.0
+2019-12-08 00:00:00 Oklahoma City @ Portland Trail,1,1,1,0,1,1.0
+2020-01-15 00:00:00 Indiana @ Minnesota,1,1,1,0,1,1.0
+2014-11-19 00:00:00 San Antonio @ Cleveland,0,1,1,0,1,1.0
+2016-03-14 00:00:00 Portland Trail @ Oklahoma City,0,0,0,0,0,0.0
+2014-03-21 00:00:00 Boston @ Brooklyn,1,1,0,0,0,0.0
+2019-10-28 00:00:00 Philadelphia @ Atlanta,0,0,1,0,0,1.0
+2018-02-14 00:00:00 Atlanta @ Detroit,1,1,1,1,1,1.0
+2019-01-29 00:00:00 New Orleans @ Houston,1,1,1,1,1,1.0
+2014-01-11 00:00:00 Boston @ Portland Trail,1,1,0,0,1,0.0
+2017-02-12 00:00:00 New Orleans @ Sacramento,1,1,1,0,0,1.0
+2016-12-10 00:00:00 Miami @ Chicago,1,0,1,0,1,1.0
+2014-02-11 00:00:00 Washington @ Memphis,1,1,1,1,1,1.0
+2019-03-09 00:00:00 Brooklyn @ Atlanta,0,0,1,0,0,1.0
+2017-10-23 00:00:00 Memphis @ Houston,1,1,1,1,1,1.0
+2012-02-12 00:00:00 Houston @ Golden State,1,1,1,0,0,1.0
+2018-03-13 00:00:00 Orlando @ San Antonio,1,0,1,0,0,1.0
+2018-03-19 00:00:00 Chicago @ New York,0,0,1,0,0,1.0
+2021-05-20 00:00:00 Indiana @ Washington,1,1,1,1,0,1.0
+2014-03-28 00:00:00 Miami @ Detroit,1,1,1,0,1,1.0
+2012-03-23 00:00:00 Minnesota @ Oklahoma City,1,1,1,1,1,1.0
+2013-12-28 00:00:00 Utah @ Clippers,0,0,0,0,1,0.0
+2016-03-02 00:00:00 Portland Trail @ Boston,1,1,1,0,0,1.0
+2015-01-17 00:00:00 Atlanta @ Chicago,1,1,1,1,1,1.0
+2014-12-05 00:00:00 Indiana @ Sacramento,1,1,1,1,1,1.0
+2013-03-12 00:00:00 Memphis @ Portland Trail,1,1,1,0,1,1.0
+2021-04-28 00:00:00 Clippers @ Phoenix,1,1,0,0,0,0.0
+2012-03-11 00:00:00 Milwaukee @ Toronto,0,1,1,0,1,1.0
+2016-01-18 00:00:00 Brooklyn @ Toronto,1,1,1,0,0,1.0
+2019-04-03 00:00:00 Philadelphia @ Atlanta,0,0,0,0,0,0.0
+2020-01-03 00:00:00 Atlanta @ Boston,0,0,0,0,1,0.0
+2020-01-24 00:00:00 Sacramento @ Chicago,1,1,1,0,1,1.0
+2015-04-12 00:00:00 Sacramento @ Denver,1,1,1,0,0,1.0
+2013-01-27 00:00:00 New Orleans @ Memphis,1,1,1,1,1,1.0
+2015-12-17 00:00:00 Houston @ Lakers,0,1,1,0,1,1.0
+2018-03-19 00:00:00 Golden State @ San Antonio,1,1,1,1,0,1.0
+2013-11-15 00:00:00 Charlotte @ Cleveland,1,1,1,1,1,1.0
+2016-02-26 00:00:00 Memphis @ Lakers,1,1,1,1,1,1.0
+2018-01-17 00:00:00 Washington @ Charlotte,0,1,1,0,0,1.0
+2013-03-30 00:00:00 Charlotte @ Philadelphia,1,1,0,0,1,0.0
+2016-01-26 00:00:00 Sacramento @ Portland Trail,1,1,1,0,0,1.0
+2016-01-19 00:00:00 Indiana @ Phoenix,0,0,0,0,0,0.0
+2019-12-21 00:00:00 Washington @ Philadelphia,1,0,0,0,0,0.0
+2012-03-30 00:00:00 Denver @ Charlotte,1,1,1,1,1,1.0
+2020-03-04 00:00:00 Chicago @ Minnesota,1,1,1,0,0,1.0
+2019-01-11 00:00:00 Indiana @ New York,1,1,1,1,1,1.0
+2013-02-02 00:00:00 Orlando @ Milwaukee,1,1,1,1,1,1.0
+2021-04-17 00:00:00 San Antonio @ Phoenix,1,1,1,1,1,1.0
+2021-03-24 00:00:00 Charlotte @ Houston,1,1,1,1,1,1.0
+2019-01-23 00:00:00 Orlando @ Brooklyn,1,1,0,0,1,0.0
+2021-05-06 00:00:00 Memphis @ Detroit,0,1,1,0,0,1.0
+2020-01-23 00:00:00 Lakers @ Brooklyn,1,1,1,0,1,1.0
+2019-02-01 00:00:00 Houston @ Denver,0,0,0,0,0,0.0
+2018-01-10 00:00:00 Utah @ Washington,0,0,0,0,1,0.0
+2012-02-11 00:00:00 Clippers @ Charlotte,1,1,1,1,1,1.0
+2014-11-29 00:00:00 Clippers @ Utah,1,1,1,1,1,1.0
+2012-11-09 00:00:00 Utah @ Denver,0,0,0,0,0,0.0
+2021-02-09 00:00:00 Philadelphia @ Sacramento,1,1,1,1,1,1.0
+2016-03-21 00:00:00 Memphis @ Phoenix,0,1,1,0,1,1.0
+2019-10-23 00:00:00 Detroit @ Indiana,1,1,1,1,1,1.0
+2013-03-31 00:00:00 Miami @ San Antonio,1,1,0,1,1,0.0
+2016-02-21 00:00:00 Charlotte @ Brooklyn,0,0,0,0,1,0.0
+2013-02-04 00:00:00 Orlando @ Philadelphia,1,1,1,1,0,1.0
+2016-11-30 00:00:00 New York @ Minnesota,0,1,1,0,1,1.0
+2014-03-26 00:00:00 Memphis @ Utah,0,0,0,0,0,0.0
+2020-02-01 00:00:00 Golden State @ Cleveland,1,1,0,0,1,0.0
+2019-02-25 00:00:00 Philadelphia @ New Orleans,0,0,0,0,0,0.0
+2016-01-16 00:00:00 Brooklyn @ Atlanta,1,1,0,0,0,0.0
+2013-03-10 00:00:00 Boston @ Oklahoma City,0,0,0,0,0,0.0
+2015-11-11 00:00:00 Brooklyn @ Houston,1,1,1,1,1,1.0
+2017-01-17 00:00:00 Minnesota @ San Antonio,1,1,1,0,1,1.0
+2012-12-29 00:00:00 Denver @ Memphis,1,0,1,0,0,1.0
+2012-02-07 00:00:00 Cleveland @ Miami,1,1,0,0,0,0.0
+2017-01-03 00:00:00 Utah @ Boston,1,1,1,1,0,1.0
+2014-02-01 00:00:00 Sacramento @ San Antonio,1,0,1,0,1,1.0
+2013-11-05 00:00:00 Charlotte @ New York,1,1,1,1,1,1.0
+2021-05-13 00:00:00 Milwaukee @ Indiana,0,1,1,0,0,1.0
+2014-11-14 00:00:00 Minnesota @ New Orleans,0,0,0,0,0,0.0
+2012-01-01 00:00:00 Portland Trail @ Clippers,1,1,0,1,0,0.0
+2017-04-09 00:00:00 Toronto @ New York,0,0,0,0,1,0.0
+2019-03-28 00:00:00 Orlando @ Detroit,1,0,1,0,0,1.0
+2012-12-29 00:00:00 New Orleans @ Charlotte,0,1,0,0,0,0.0
+2015-04-09 00:00:00 Portland Trail @ Golden State,0,1,0,0,0,0.0
+2013-12-10 00:00:00 Boston @ Brooklyn,1,1,1,1,0,1.0
+2017-12-06 00:00:00 Chicago @ Indiana,1,1,0,0,1,0.0
+2014-04-11 00:00:00 Philadelphia @ Memphis,1,1,1,1,0,1.0
+2020-01-18 00:00:00 Cleveland @ Chicago,1,1,1,0,1,1.0
+2021-04-10 00:00:00 Lakers @ Brooklyn,1,1,1,1,1,1.0
+2016-02-01 00:00:00 Milwaukee @ Sacramento,0,0,0,0,0,0.0
+2014-03-16 00:00:00 Sacramento @ Minnesota,1,1,0,0,1,0.0
+2017-10-27 00:00:00 San Antonio @ Orlando,0,0,0,0,0,0.0
+2012-02-14 00:00:00 Washington @ Portland Trail,0,0,0,0,1,0.0
+2018-12-08 00:00:00 Brooklyn @ New York,1,1,1,1,1,1.0
+2014-04-12 00:00:00 Philadelphia @ Charlotte,1,1,1,0,1,1.0
+2018-11-18 00:00:00 New York @ Orlando,1,0,0,0,0,0.0
+2019-10-26 00:00:00 Miami @ Milwaukee,1,1,1,1,1,1.0
+2014-12-21 00:00:00 Lakers @ Sacramento,1,1,1,1,1,1.0
+2019-11-29 00:00:00 New Orleans @ Oklahoma City,0,0,0,0,0,0.0
+2014-01-17 00:00:00 Dallas @ Phoenix,0,0,0,0,1,0.0
+2019-01-16 00:00:00 Cleveland @ Portland Trail,0,0,0,0,0,0.0
+2013-03-15 00:00:00 Minnesota @ Houston,1,1,1,1,1,1.0
+2013-04-14 00:00:00 Sacramento @ Houston,0,0,1,0,0,1.0
+2020-02-25 00:00:00 Sacramento @ Golden State,0,1,1,0,1,1.0
+2017-03-06 00:00:00 Indiana @ Charlotte,0,0,1,0,0,1.0
+2014-12-21 00:00:00 Memphis @ Cleveland,1,1,1,1,0,1.0
+2013-01-25 00:00:00 Minnesota @ Washington,1,1,1,1,0,1.0
+2020-03-01 00:00:00 Detroit @ Sacramento,1,1,1,1,1,1.0
+2015-03-07 00:00:00 Sacramento @ Miami,0,0,0,0,0,0.0
+2017-01-14 00:00:00 Lakers @ Clippers,0,0,0,0,0,0.0
+2021-04-19 00:00:00 Golden State @ Philadelphia,0,0,0,0,1,0.0
+2014-01-03 00:00:00 Memphis @ Denver,1,1,1,1,1,1.0
+2012-03-27 00:00:00 Oklahoma City @ Portland Trail,0,0,0,0,1,0.0
+2011-12-25 00:00:00 Boston @ New York,1,0,0,1,1,0.0
+2017-11-09 00:00:00 Philadelphia @ Sacramento,1,1,1,0,0,1.0
+2014-02-19 00:00:00 Washington @ Atlanta,1,0,1,0,1,1.0
+2017-02-24 00:00:00 Miami @ Atlanta,1,1,1,1,1,1.0
+2018-03-28 00:00:00 Boston @ Utah,1,1,1,1,1,1.0
+2019-01-11 00:00:00 Milwaukee @ Washington,0,0,1,0,0,1.0
+2018-11-02 00:00:00 Toronto @ Phoenix,0,1,1,0,0,1.0
+2013-02-22 00:00:00 New York @ Toronto,0,1,1,0,0,1.0
+2015-03-10 00:00:00 Orlando @ Indiana,1,1,1,0,0,1.0
+2017-02-07 00:00:00 Orlando @ Houston,0,1,1,0,0,1.0
+2015-01-24 00:00:00 Brooklyn @ Utah,1,1,1,1,0,1.0
+2015-11-04 00:00:00 San Antonio @ Washington,1,1,0,0,0,0.0
+2014-01-07 00:00:00 Phoenix @ Chicago,0,0,1,0,0,1.0
+2013-03-31 00:00:00 Toronto @ Washington,0,0,1,0,0,1.0
+2013-02-09 00:00:00 Utah @ Sacramento,1,0,1,1,0,1.0
+2017-12-06 00:00:00 Golden State @ Charlotte,1,1,1,1,1,1.0
+2016-11-09 00:00:00 Philadelphia @ Indiana,0,0,0,0,1,0.0
+2014-11-10 00:00:00 Detroit @ Chicago,1,1,1,1,0,1.0
+2020-02-08 00:00:00 Lakers @ Golden State,0,0,0,0,0,0.0
+2014-03-07 00:00:00 Memphis @ Chicago,1,0,0,0,1,0.0
+2016-11-05 00:00:00 Denver @ Detroit,0,0,0,0,0,0.0
+2012-01-20 00:00:00 Chicago @ Cleveland,1,1,1,1,1,1.0
+2013-12-01 00:00:00 Portland Trail @ Lakers,1,0,1,0,1,1.0
+2019-03-22 00:00:00 Denver @ New York,0,1,1,0,1,1.0
+2018-10-28 00:00:00 Golden State @ Brooklyn,1,1,1,0,0,1.0
+2012-04-11 00:00:00 Sacramento @ New Orleans,1,1,1,0,0,1.0
+2015-12-07 00:00:00 Boston @ New Orleans,1,1,1,1,1,1.0
+2017-03-05 00:00:00 Golden State @ New York,0,1,0,0,0,0.0
+2015-12-19 00:00:00 Charlotte @ Washington,0,0,0,0,0,0.0
+2014-12-21 00:00:00 Philadelphia @ Orlando,1,1,1,1,1,1.0
+2013-02-04 00:00:00 Chicago @ Indiana,1,1,1,0,0,1.0
+2020-01-15 00:00:00 Toronto @ Oklahoma City,1,1,1,0,1,1.0
+2016-03-19 00:00:00 Denver @ Charlotte,1,0,1,0,1,1.0
+2013-01-04 00:00:00 Houston @ Milwaukee,1,1,1,0,1,1.0
+2018-02-09 00:00:00 Indiana @ Boston,1,1,0,0,1,0.0
+2013-01-30 00:00:00 Houston @ Denver,0,0,0,0,0,0.0
+2014-11-26 00:00:00 Toronto @ Atlanta,0,0,0,0,1,0.0
+2020-02-12 00:00:00 Washington @ New York,1,1,1,0,1,1.0
+2012-04-03 00:00:00 Philadelphia @ Miami,0,0,0,0,1,0.0
+2019-03-13 00:00:00 Golden State @ Houston,1,1,1,1,1,1.0
+2018-02-11 00:00:00 Detroit @ Atlanta,0,0,0,0,0,0.0
+2014-01-10 00:00:00 Detroit @ Philadelphia,1,1,1,1,1,1.0
+2016-11-23 00:00:00 Portland Trail @ Cleveland,1,1,1,0,0,1.0
+2019-12-28 00:00:00 Cleveland @ Minnesota,1,1,1,1,1,1.0
+2013-02-28 00:00:00 Minnesota @ Lakers,1,1,0,0,0,0.0
+2012-11-24 00:00:00 Utah @ Sacramento,0,0,0,0,0,0.0
+2013-12-25 00:00:00 Miami @ Lakers,0,1,1,0,0,1.0
+2021-01-08 00:00:00 Toronto @ Sacramento,1,0,0,0,1,0.0
+2019-01-08 00:00:00 New York @ Golden State,1,1,1,0,0,1.0
+2013-01-26 00:00:00 Golden State @ Milwaukee,1,1,1,1,0,1.0
+2012-03-21 00:00:00 Cleveland @ Atlanta,1,1,1,1,1,1.0
+2015-01-23 00:00:00 Boston @ Denver,1,1,1,1,1,1.0
+2013-11-23 00:00:00 Boston @ Atlanta,1,1,1,0,1,1.0
+2021-05-14 00:00:00 Cleveland @ Washington,1,1,0,0,0,0.0
+2012-03-07 00:00:00 New York @ San Antonio,0,0,0,0,0,0.0
+2021-01-28 00:00:00 Lakers @ Detroit,1,1,1,1,0,1.0
+2016-11-12 00:00:00 San Antonio @ Houston,1,1,1,1,1,1.0
+2019-12-30 00:00:00 Miami @ Washington,0,0,0,0,0,0.0
+2021-05-03 00:00:00 Orlando @ Detroit,0,0,1,0,1,1.0
+2012-03-30 00:00:00 Miami @ Toronto,0,1,1,0,1,1.0
+2018-01-20 00:00:00 Memphis @ New Orleans,1,1,0,1,1,0.0
+2021-03-19 00:00:00 Dallas @ Portland Trail,0,0,0,0,0,0.0
+2017-03-31 00:00:00 Dallas @ Memphis,0,0,0,0,0,0.0
+2019-02-11 00:00:00 Clippers @ Minnesota,0,1,1,0,0,1.0
+2019-04-03 00:00:00 Charlotte @ New Orleans,0,0,0,0,1,0.0
+2019-11-02 00:00:00 Phoenix @ Memphis,1,1,1,1,1,1.0
+2018-10-18 00:00:00 Miami @ Washington,1,1,1,1,1,1.0
+2019-11-10 00:00:00 Denver @ Minnesota,1,1,1,0,0,1.0
+2013-11-09 00:00:00 Portland Trail @ Sacramento,1,1,1,1,1,1.0
+2017-03-19 00:00:00 Indiana @ Toronto,0,0,0,0,0,0.0
+2013-03-13 00:00:00 New York @ Denver,1,1,0,0,0,0.0
+2020-01-28 00:00:00 Boston @ Miami,0,0,0,0,1,0.0
+2018-12-07 00:00:00 Lakers @ San Antonio,0,0,0,0,0,0.0
+2020-02-08 00:00:00 Dallas @ Charlotte,1,1,1,1,1,1.0
+2018-11-08 00:00:00 Clippers @ Portland Trail,0,0,0,0,0,0.0
+2017-01-12 00:00:00 Lakers @ San Antonio,0,0,0,0,0,0.0
+2016-03-24 00:00:00 Chicago @ New York,0,0,0,0,0,0.0
+2016-11-18 00:00:00 Phoenix @ Indiana,0,0,0,0,1,0.0
+2015-04-08 00:00:00 Lakers @ Denver,1,1,1,0,0,1.0
+2021-05-11 00:00:00 Denver @ Charlotte,0,0,0,0,0,0.0
+2016-12-14 00:00:00 Toronto @ Philadelphia,1,1,1,1,1,1.0
+2012-11-07 00:00:00 Brooklyn @ Miami,0,0,0,0,0,0.0
+2018-12-20 00:00:00 Houston @ Miami,1,1,1,0,0,1.0
+2020-01-08 00:00:00 Toronto @ Charlotte,1,1,1,1,0,1.0
+2017-11-01 00:00:00 Atlanta @ Philadelphia,1,1,1,1,0,1.0
+2012-01-14 00:00:00 New Jersey @ Utah,1,0,1,1,0,1.0
+2012-01-14 00:00:00 Boston @ Indiana,0,0,0,0,0,0.0
+2018-11-21 00:00:00 Brooklyn @ Dallas,0,0,0,0,0,0.0
+2014-11-07 00:00:00 Sacramento @ Phoenix,1,1,1,1,1,1.0
+2016-11-27 00:00:00 Milwaukee @ Orlando,1,1,1,0,1,1.0
+2012-04-23 00:00:00 Cleveland @ Memphis,1,1,0,0,1,0.0
+2012-12-28 00:00:00 Miami @ Detroit,0,0,0,0,0,0.0
+2013-01-16 00:00:00 Houston @ Dallas,1,1,1,0,0,1.0
+2012-04-13 00:00:00 Utah @ New Orleans,0,0,0,0,0,0.0
+2016-11-25 00:00:00 Atlanta @ Utah,1,1,1,0,0,1.0
+2019-04-10 00:00:00 Orlando @ Charlotte,1,1,1,0,1,1.0
+2012-04-04 00:00:00 Cleveland @ Milwaukee,1,1,1,1,1,1.0
+2015-12-26 00:00:00 New York @ Atlanta,1,1,1,1,0,1.0
+2017-12-25 00:00:00 Minnesota @ Lakers,0,0,1,0,1,1.0
+2015-03-18 00:00:00 Boston @ Oklahoma City,0,0,1,0,1,1.0
+2017-11-11 00:00:00 Chicago @ San Antonio,0,0,0,0,0,0.0
+2012-12-08 00:00:00 Dallas @ Houston,0,0,1,0,1,1.0
+2018-01-30 00:00:00 Sacramento @ New Orleans,1,1,0,0,1,0.0
+2013-01-10 00:00:00 Miami @ Portland Trail,0,0,0,0,0,0.0
+2018-01-02 00:00:00 Charlotte @ Sacramento,1,0,0,0,1,0.0
+2017-11-02 00:00:00 Golden State @ San Antonio,1,1,1,1,1,1.0
+2015-01-19 00:00:00 Chicago @ Cleveland,1,1,1,1,0,1.0
+2019-01-22 00:00:00 Sacramento @ Toronto,1,1,1,1,0,1.0
+2018-10-23 00:00:00 Sacramento @ Denver,0,0,0,0,0,0.0
+2018-02-02 00:00:00 Utah @ Phoenix,0,0,1,0,1,1.0
+2021-03-19 00:00:00 Brooklyn @ Orlando,0,0,1,0,0,1.0
+2012-11-23 00:00:00 Cleveland @ Orlando,1,0,0,1,1,0.0
+2014-03-24 00:00:00 Denver @ Oklahoma City,1,1,1,0,0,1.0
+2019-03-10 00:00:00 Milwaukee @ San Antonio,0,0,0,0,0,0.0
+2019-02-08 00:00:00 Minnesota @ New Orleans,0,0,0,0,1,0.0
+2017-12-18 00:00:00 Boston @ Indiana,1,1,1,0,0,1.0
+2012-03-09 00:00:00 Dallas @ Sacramento,1,1,0,0,0,0.0
+2012-12-09 00:00:00 Toronto @ Clippers,0,0,0,0,0,0.0
+2020-01-07 00:00:00 Sacramento @ Phoenix,1,1,1,1,1,1.0
+2018-03-21 00:00:00 Indiana @ New Orleans,1,1,1,1,0,1.0
+2015-12-21 00:00:00 Indiana @ San Antonio,0,0,0,0,0,0.0
+2016-02-23 00:00:00 Sacramento @ Denver,1,1,1,1,1,1.0
+2020-01-16 00:00:00 Phoenix @ New York,1,1,1,1,1,1.0
+2013-11-11 00:00:00 Detroit @ Portland Trail,1,0,0,0,0,0.0
+2012-11-21 00:00:00 Clippers @ Oklahoma City,1,1,1,1,0,1.0
+2015-02-27 00:00:00 Washington @ Philadelphia,0,0,0,0,0,0.0
+2019-12-14 00:00:00 Detroit @ Houston,1,0,1,0,1,1.0
+2016-12-22 00:00:00 Orlando @ New York,1,1,0,0,0,0.0
+2015-01-05 00:00:00 Indiana @ Utah,1,1,1,1,1,1.0
+2018-02-09 00:00:00 Milwaukee @ Miami,1,1,1,1,0,1.0
+2014-04-01 00:00:00 Portland Trail @ Lakers,0,0,0,0,1,0.0
+2014-02-19 00:00:00 New York @ New Orleans,1,1,1,1,1,1.0
+2018-04-09 00:00:00 Orlando @ Milwaukee,1,1,1,1,0,1.0
+2016-02-19 00:00:00 Toronto @ Chicago,0,0,0,0,0,0.0
+2020-02-23 00:00:00 Detroit @ Portland Trail,1,0,0,0,1,0.0
+2019-03-21 00:00:00 Indiana @ Golden State,1,1,1,1,0,1.0
+2019-12-03 00:00:00 Dallas @ New Orleans,1,1,1,1,1,1.0
+2014-12-05 00:00:00 Atlanta @ Brooklyn,1,1,1,0,1,1.0
+2018-11-25 00:00:00 Utah @ Sacramento,0,0,0,0,1,0.0
+2012-01-06 00:00:00 Houston @ Oklahoma City,0,0,0,0,0,0.0
+2017-02-15 00:00:00 Lakers @ Phoenix,0,1,1,0,0,1.0
+2021-03-11 00:00:00 Dallas @ Oklahoma City,1,1,1,1,0,1.0
+2018-12-14 00:00:00 Washington @ Brooklyn,0,1,1,0,0,1.0
+2018-03-30 00:00:00 Clippers @ Portland Trail,1,1,1,0,0,1.0
+2019-01-14 00:00:00 Memphis @ Houston,0,0,0,0,0,0.0
+2014-04-04 00:00:00 Philadelphia @ Boston,1,1,1,0,1,1.0
+2012-12-29 00:00:00 Toronto @ Orlando,1,1,1,0,1,1.0
+2019-03-15 00:00:00 Lakers @ Detroit,1,1,1,1,0,1.0
+2016-03-23 00:00:00 Dallas @ Portland Trail,1,0,1,0,1,1.0
+2017-02-15 00:00:00 Sacramento @ Golden State,1,1,1,1,0,1.0
+2016-03-12 00:00:00 Phoenix @ Golden State,0,1,1,0,1,1.0
+2021-05-11 00:00:00 Minnesota @ Detroit,0,0,0,0,1,0.0
+2017-01-04 00:00:00 Milwaukee @ New York,0,0,0,0,0,0.0
+2012-01-29 00:00:00 Chicago @ Miami,1,1,1,1,1,1.0
+2014-04-14 00:00:00 Memphis @ Phoenix,1,1,1,0,1,1.0
+2018-12-30 00:00:00 Philadelphia @ Portland Trail,0,0,0,0,0,0.0
+2015-11-11 00:00:00 Detroit @ Sacramento,1,1,1,1,0,1.0
+2018-02-03 00:00:00 Utah @ San Antonio,0,0,0,0,1,0.0
+2013-02-20 00:00:00 New York @ Indiana,0,1,1,0,0,1.0
+2019-11-14 00:00:00 Dallas @ New York,1,1,1,1,0,1.0
+2020-12-29 00:00:00 Denver @ Sacramento,0,0,0,0,0,0.0
+2019-03-05 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,0,0.0
+2015-02-21 00:00:00 Phoenix @ Chicago,1,1,1,1,1,1.0
+2018-04-11 00:00:00 Detroit @ Chicago,0,0,0,0,1,0.0
+2014-12-17 00:00:00 Atlanta @ Cleveland,1,1,1,1,1,1.0
+2016-12-26 00:00:00 Phoenix @ Houston,0,0,0,0,0,0.0
+2018-03-30 00:00:00 Philadelphia @ Atlanta,0,1,1,0,1,1.0
+2015-02-25 00:00:00 Dallas @ Atlanta,1,1,0,1,0,0.0
+2014-02-25 00:00:00 Toronto @ Cleveland,1,1,0,0,1,0.0
+2016-12-07 00:00:00 Lakers @ Houston,0,0,0,0,0,0.0
+2016-01-15 00:00:00 Phoenix @ Boston,1,0,1,0,0,1.0
+2015-03-27 00:00:00 Utah @ Denver,1,1,1,1,0,1.0
+2018-11-05 00:00:00 Minnesota @ Clippers,0,0,0,0,0,0.0
+2017-02-10 00:00:00 New Orleans @ Minnesota,1,1,1,0,1,1.0
+2019-02-25 00:00:00 Golden State @ Charlotte,0,0,0,0,1,0.0
+2015-11-23 00:00:00 New York @ Miami,1,1,1,1,0,1.0
+2015-12-05 00:00:00 Portland Trail @ Minnesota,1,1,1,1,1,1.0
+2016-04-13 00:00:00 Clippers @ Phoenix,1,1,1,1,0,1.0
+2014-03-24 00:00:00 Brooklyn @ New Orleans,0,0,0,0,0,0.0
+2021-04-02 00:00:00 Charlotte @ Indiana,1,1,1,1,1,1.0
+2015-01-10 00:00:00 Boston @ Toronto,1,1,1,1,0,1.0
+2012-03-13 00:00:00 Miami @ Orlando,0,0,0,0,0,0.0
+2018-10-21 00:00:00 Golden State @ Denver,0,0,0,0,0,0.0
+2017-12-09 00:00:00 Orlando @ Atlanta,1,1,1,1,0,1.0
+2019-04-10 00:00:00 Minnesota @ Denver,0,0,0,0,1,0.0
+2013-11-24 00:00:00 Phoenix @ Orlando,1,1,1,1,1,1.0
+2014-11-21 00:00:00 Boston @ Memphis,0,0,0,0,0,0.0
+2016-01-04 00:00:00 Orlando @ Detroit,0,0,0,0,0,0.0
+2013-11-20 00:00:00 Sacramento @ Phoenix,0,0,0,0,1,0.0
+2012-01-25 00:00:00 New Orleans @ Oklahoma City,0,0,0,0,0,0.0
+2018-03-31 00:00:00 Golden State @ Sacramento,1,1,1,1,1,1.0
+2017-04-09 00:00:00 Cleveland @ Atlanta,0,0,0,0,0,0.0
+2013-12-16 00:00:00 Orlando @ Chicago,1,0,0,0,1,0.0
+2014-01-01 00:00:00 Charlotte @ Clippers,1,1,1,0,0,1.0
+2018-02-09 00:00:00 Cleveland @ Atlanta,1,1,0,0,1,0.0
+2020-02-09 00:00:00 Utah @ Houston,0,0,1,0,1,1.0
+2019-12-06 00:00:00 Golden State @ Chicago,1,1,0,0,1,0.0
+2014-11-08 00:00:00 Memphis @ Milwaukee,1,0,0,0,0,0.0
+2013-12-21 00:00:00 Lakers @ Golden State,1,1,1,0,0,1.0
+2014-02-03 00:00:00 San Antonio @ New Orleans,1,1,1,1,1,1.0
+2015-01-19 00:00:00 New Orleans @ New York,1,1,1,0,0,1.0
+2021-03-27 00:00:00 Cleveland @ Sacramento,1,1,0,0,1,0.0
+2020-03-10 00:00:00 Clippers @ Golden State,0,1,1,1,1,1.0
+2012-01-25 00:00:00 Denver @ Sacramento,1,1,1,1,1,1.0
+2019-04-10 00:00:00 Oklahoma City @ Milwaukee,0,0,0,0,1,0.0
+2016-04-05 00:00:00 New Orleans @ Philadelphia,1,1,1,1,0,1.0
+2021-03-21 00:00:00 Indiana @ Miami,1,1,1,1,1,1.0
+2013-01-24 00:00:00 Clippers @ Phoenix,0,0,1,0,0,1.0
+2012-03-30 00:00:00 Boston @ Minnesota,0,0,0,0,1,0.0
+2021-04-09 00:00:00 San Antonio @ Denver,1,0,0,0,1,0.0
+2013-12-05 00:00:00 Miami @ Chicago,0,0,0,0,0,0.0
+2014-11-21 00:00:00 Brooklyn @ Oklahoma City,1,1,1,0,1,1.0
+2018-04-05 00:00:00 Clippers @ Utah,1,1,1,0,0,1.0
+2013-11-07 00:00:00 Lakers @ Houston,0,1,1,0,1,1.0
+2014-01-27 00:00:00 Toronto @ Brooklyn,1,1,1,1,1,1.0
+2019-11-15 00:00:00 San Antonio @ Orlando,0,0,0,0,1,0.0
+2017-11-05 00:00:00 Memphis @ Lakers,0,0,0,0,0,0.0
+2012-03-22 00:00:00 Golden State @ Houston,1,1,1,0,0,1.0
+2021-03-26 00:00:00 Phoenix @ Toronto,0,1,1,0,1,1.0
+2014-11-24 00:00:00 Phoenix @ Toronto,0,1,0,0,1,0.0
+2021-04-12 00:00:00 Chicago @ Memphis,1,1,1,1,0,1.0
+2014-03-13 00:00:00 Houston @ Chicago,0,0,0,0,0,0.0
+2017-03-26 00:00:00 Chicago @ Milwaukee,1,1,1,0,1,1.0
+2014-04-01 00:00:00 Houston @ Brooklyn,1,1,1,1,0,1.0
+2014-04-06 00:00:00 New Orleans @ Portland Trail,1,0,1,0,1,1.0
+2015-10-31 00:00:00 Utah @ Indiana,1,1,1,1,1,1.0
+2021-01-27 00:00:00 Washington @ New Orleans,1,1,1,0,0,1.0
+2013-02-13 00:00:00 Chicago @ Boston,1,1,1,0,1,1.0
+2015-01-21 00:00:00 Dallas @ Minnesota,1,1,1,1,1,1.0
+2015-01-23 00:00:00 Toronto @ Philadelphia,0,0,0,0,0,0.0
+2013-12-21 00:00:00 New Orleans @ Portland Trail,1,0,0,0,1,0.0
+2014-11-22 00:00:00 New Orleans @ Utah,0,0,0,0,1,0.0
+2014-11-30 00:00:00 Orlando @ Phoenix,1,1,1,1,1,1.0
+2014-01-26 00:00:00 Phoenix @ Cleveland,1,1,1,1,1,1.0
+2019-03-17 00:00:00 Atlanta @ Orlando,1,1,0,1,0,0.0
+2016-10-29 00:00:00 Portland Trail @ Denver,0,1,1,1,1,1.0
+2017-11-10 00:00:00 Charlotte @ Boston,0,0,0,0,0,0.0
+2019-01-02 00:00:00 Oklahoma City @ Lakers,0,0,0,0,1,0.0
+2017-03-29 00:00:00 Charlotte @ Toronto,0,0,0,0,1,0.0
+2012-12-03 00:00:00 Orlando @ Golden State,1,1,1,1,1,1.0
+2020-12-29 00:00:00 Toronto @ Philadelphia,0,0,0,0,0,0.0
+2015-12-30 00:00:00 Clippers @ Charlotte,0,0,0,0,1,0.0
+2019-03-22 00:00:00 Clippers @ Cleveland,0,1,1,0,0,1.0
+2019-03-03 00:00:00 Toronto @ Detroit,0,1,1,0,0,1.0
+2015-03-10 00:00:00 New Orleans @ Brooklyn,1,1,1,1,1,1.0
+2015-01-27 00:00:00 Cleveland @ Detroit,0,0,0,0,0,0.0
+2021-02-23 00:00:00 Portland Trail @ Denver,1,0,0,0,1,0.0
+2015-04-05 00:00:00 Miami @ Indiana,1,1,1,0,0,1.0
+2013-11-25 00:00:00 Minnesota @ Indiana,0,0,0,0,0,0.0
+2013-01-12 00:00:00 Charlotte @ Indiana,0,0,0,0,1,0.0
+2016-12-23 00:00:00 Lakers @ Orlando,1,1,1,1,0,1.0
+2021-03-22 00:00:00 Oklahoma City @ Minnesota,1,1,1,1,1,1.0
+2013-02-06 00:00:00 New York @ Washington,0,0,0,0,0,0.0
+2014-02-12 00:00:00 Cleveland @ Detroit,1,1,1,0,1,1.0
+2015-03-11 00:00:00 Detroit @ Golden State,1,1,1,0,1,1.0
+2020-01-06 00:00:00 Denver @ Atlanta,1,1,1,1,1,1.0
+2012-11-09 00:00:00 Golden State @ Lakers,0,1,1,0,0,1.0
+2016-03-06 00:00:00 Portland Trail @ Detroit,0,0,0,0,0,0.0
+2019-01-15 00:00:00 Minnesota @ Philadelphia,0,0,0,0,0,0.0
+2012-12-05 00:00:00 Orlando @ Utah,1,0,0,0,1,0.0
+2012-04-22 00:00:00 Houston @ Miami,0,0,0,0,0,0.0
+2018-03-21 00:00:00 Clippers @ Milwaukee,1,1,1,1,1,1.0
+2019-01-31 00:00:00 Dallas @ Detroit,1,1,0,1,1,0.0
+2019-11-20 00:00:00 Charlotte @ Brooklyn,1,0,0,0,0,0.0
+2012-11-16 00:00:00 Utah @ Philadelphia,1,1,0,1,0,0.0
+2017-04-04 00:00:00 Denver @ New Orleans,1,1,1,0,1,1.0
+2017-12-03 00:00:00 Clippers @ Minnesota,1,1,1,1,1,1.0
+2013-12-08 00:00:00 Orlando @ Houston,1,0,0,0,1,0.0
+2014-11-26 00:00:00 Denver @ Phoenix,1,1,1,1,0,1.0
+2018-12-12 00:00:00 Brooklyn @ Philadelphia,0,0,0,0,1,0.0
+2012-12-26 00:00:00 Golden State @ Utah,1,1,1,1,1,1.0
+2013-11-11 00:00:00 Denver @ Utah,1,1,1,1,1,1.0
+2020-01-24 00:00:00 Clippers @ Miami,0,0,0,0,1,0.0
+2013-01-09 00:00:00 Philadelphia @ Toronto,0,0,0,0,0,0.0
+2018-10-24 00:00:00 Lakers @ Phoenix,0,0,0,0,1,0.0
+2014-03-19 00:00:00 San Antonio @ Lakers,0,1,1,0,1,1.0
+2017-02-28 00:00:00 Denver @ Chicago,0,0,1,0,1,1.0
+2015-03-03 00:00:00 Boston @ Cleveland,1,1,1,1,0,1.0
+2015-04-10 00:00:00 Phoenix @ New Orleans,1,1,1,0,0,1.0
+2019-04-10 00:00:00 Golden State @ Memphis,1,1,1,0,0,1.0
+2012-11-09 00:00:00 Brooklyn @ Orlando,1,1,0,1,1,0.0
+2015-01-14 00:00:00 San Antonio @ Charlotte,1,1,1,0,1,1.0
+2021-05-13 00:00:00 Philadelphia @ Miami,1,1,1,1,0,1.0
+2016-03-16 00:00:00 Orlando @ Charlotte,1,1,1,0,1,1.0
+2015-11-18 00:00:00 Dallas @ Boston,1,1,1,1,1,1.0
+2016-04-09 00:00:00 Phoenix @ New Orleans,0,0,0,0,1,0.0
+2014-02-12 00:00:00 Portland Trail @ Clippers,1,0,0,0,1,0.0
+2011-12-26 00:00:00 Houston @ Orlando,0,0,0,0,0,0.0
+2013-02-27 00:00:00 Milwaukee @ Houston,1,1,1,1,1,1.0
+2015-11-25 00:00:00 New Orleans @ Phoenix,0,0,0,0,1,0.0
+2021-02-12 00:00:00 Memphis @ Lakers,1,1,1,1,0,1.0
+2015-12-23 00:00:00 Utah @ Golden State,0,0,1,0,0,1.0
+2012-01-05 00:00:00 Milwaukee @ Sacramento,0,0,0,0,0,0.0
+2017-03-06 00:00:00 Golden State @ Atlanta,1,1,1,0,1,1.0
+2012-02-14 00:00:00 Utah @ Oklahoma City,0,0,0,0,0,0.0
+2013-10-29 00:00:00 Orlando @ Indiana,1,0,0,1,1,0.0
+2017-01-03 00:00:00 Washington @ Dallas,0,0,0,0,0,0.0
+2018-10-18 00:00:00 Chicago @ Philadelphia,0,0,0,0,0,0.0
+2015-10-28 00:00:00 Clippers @ Sacramento,1,1,1,1,1,1.0
+2015-10-28 00:00:00 Charlotte @ Miami,0,0,0,0,0,0.0
+2018-04-03 00:00:00 San Antonio @ Clippers,0,0,0,0,0,0.0
+2019-12-21 00:00:00 Houston @ Phoenix,0,0,0,0,1,0.0
+2012-04-26 00:00:00 Denver @ Minnesota,0,1,0,0,1,0.0
+2012-11-07 00:00:00 Cleveland @ Golden State,1,1,1,1,0,1.0
+2018-03-17 00:00:00 Golden State @ Phoenix,1,1,1,1,1,1.0
+2015-12-02 00:00:00 Philadelphia @ New York,1,1,1,1,0,1.0
+2014-02-03 00:00:00 Detroit @ Miami,1,0,1,1,1,1.0
+2021-03-20 00:00:00 Sacramento @ Philadelphia,0,0,0,0,0,0.0
+2020-01-03 00:00:00 Portland Trail @ Washington,0,0,0,0,1,0.0
+2015-04-15 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,1,0.0
+2013-12-07 00:00:00 Brooklyn @ Milwaukee,1,1,1,0,1,1.0
+2019-12-31 00:00:00 Dallas @ Oklahoma City,1,0,0,0,0,0.0
+2012-03-08 00:00:00 Orlando @ Chicago,1,1,1,0,1,1.0
+2021-04-05 00:00:00 New York @ Brooklyn,1,1,0,0,1,0.0
+2016-10-30 00:00:00 Dallas @ Houston,1,0,0,1,1,0.0
+2016-12-21 00:00:00 Washington @ Chicago,0,0,0,0,1,0.0
+2019-11-02 00:00:00 Philadelphia @ Portland Trail,1,1,1,1,1,1.0
+2011-12-25 00:00:00 Miami @ Dallas,1,1,1,1,1,1.0
+2015-03-03 00:00:00 Lakers @ Charlotte,1,1,1,1,1,1.0
+2012-02-12 00:00:00 Miami @ Atlanta,0,0,0,0,1,0.0
+2019-03-02 00:00:00 Lakers @ Phoenix,0,1,1,0,0,1.0
+2019-04-03 00:00:00 Utah @ Phoenix,0,1,1,1,1,1.0
+2019-03-08 00:00:00 Philadelphia @ Houston,1,1,1,0,0,1.0
+2017-03-24 00:00:00 Detroit @ Orlando,0,0,0,0,0,0.0
+2021-02-17 00:00:00 Oklahoma City @ Memphis,1,1,1,1,0,1.0
+2017-10-18 00:00:00 Houston @ Sacramento,1,1,1,0,0,1.0
+2012-01-25 00:00:00 Minnesota @ Dallas,1,1,1,1,1,1.0
+2015-11-15 00:00:00 Toronto @ Sacramento,1,1,1,1,0,1.0
+2017-02-08 00:00:00 Chicago @ Golden State,1,1,0,1,0,0.0
+2021-03-01 00:00:00 Charlotte @ Portland Trail,1,1,1,1,0,1.0
+2019-03-01 00:00:00 Washington @ Boston,0,0,0,0,0,0.0
+2016-03-08 00:00:00 Washington @ Portland Trail,1,0,1,0,0,1.0
+2012-11-15 00:00:00 Boston @ Brooklyn,1,1,1,1,1,1.0
+2021-01-27 00:00:00 Indiana @ Charlotte,1,1,1,1,1,1.0
+2018-04-01 00:00:00 Houston @ San Antonio,1,1,1,1,0,1.0
+2014-03-16 00:00:00 Dallas @ Oklahoma City,1,1,1,0,1,1.0
+2012-01-04 00:00:00 New Jersey @ Boston,0,0,0,0,0,0.0
+2017-02-24 00:00:00 Memphis @ Indiana,0,0,0,0,0,0.0
+2016-02-10 00:00:00 Atlanta @ Chicago,0,0,0,0,1,0.0
+2014-03-21 00:00:00 New York @ Philadelphia,0,0,0,0,0,0.0
+2017-01-17 00:00:00 Toronto @ Brooklyn,1,1,1,1,1,1.0
+2021-03-17 00:00:00 Boston @ Cleveland,0,0,0,0,0,0.0
+2012-01-27 00:00:00 Milwaukee @ Chicago,0,0,0,0,1,0.0
+2012-12-09 00:00:00 Denver @ New York,0,0,0,0,0,0.0
+2018-10-17 00:00:00 New Orleans @ Houston,1,1,1,1,1,1.0
+2021-04-21 00:00:00 Chicago @ Cleveland,1,1,1,1,0,1.0
+2015-12-06 00:00:00 Sacramento @ Oklahoma City,1,1,1,1,1,1.0
+2019-12-13 00:00:00 Houston @ Orlando,0,0,0,0,1,0.0
+2019-12-04 00:00:00 Milwaukee @ Detroit,0,0,1,0,1,1.0
+2013-03-24 00:00:00 Utah @ Dallas,0,1,0,0,1,0.0
+2017-02-04 00:00:00 Orlando @ Atlanta,1,1,1,0,0,1.0
+2015-10-27 00:00:00 Detroit @ Atlanta,1,1,1,1,1,1.0
+2017-01-07 00:00:00 Atlanta @ Dallas,1,1,1,0,1,1.0
+2012-02-13 00:00:00 Minnesota @ Orlando,1,1,1,1,0,1.0
+2018-02-08 00:00:00 Atlanta @ Orlando,0,0,0,0,0,0.0
+2017-11-10 00:00:00 Clippers @ Oklahoma City,0,1,1,0,0,1.0
+2020-03-07 00:00:00 Denver @ Cleveland,0,1,1,0,0,1.0
+2020-03-08 00:00:00 Orlando @ Houston,1,1,1,0,1,1.0
+2017-02-13 00:00:00 Clippers @ Utah,1,1,1,1,1,1.0
+2021-01-20 00:00:00 Boston @ Philadelphia,1,1,0,0,0,0.0
+2012-03-24 00:00:00 Charlotte @ New Jersey,1,1,1,0,0,1.0
+2014-12-12 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,1,0.0
+2012-02-12 00:00:00 Chicago @ Boston,1,1,1,0,0,1.0
+2018-03-06 00:00:00 Philadelphia @ Charlotte,0,0,0,0,1,0.0
+2019-10-23 00:00:00 Cleveland @ Orlando,0,0,0,0,1,0.0
+2019-03-31 00:00:00 Dallas @ Oklahoma City,1,1,1,1,1,1.0
+2015-02-11 00:00:00 Washington @ Toronto,0,0,1,0,1,1.0
+2021-02-09 00:00:00 Brooklyn @ Detroit,0,0,0,0,0,0.0
+2013-01-02 00:00:00 Minnesota @ Utah,0,0,0,0,0,0.0
+2018-01-09 00:00:00 Orlando @ Dallas,1,1,1,0,0,1.0
+2018-12-23 00:00:00 Miami @ Orlando,1,1,1,1,1,1.0
+2013-01-02 00:00:00 Chicago @ Orlando,1,1,1,1,0,1.0
+2015-11-22 00:00:00 Phoenix @ New Orleans,0,0,0,0,0,0.0
+2014-01-15 00:00:00 Miami @ Washington,0,1,0,0,0,0.0
+2015-01-24 00:00:00 New York @ Charlotte,1,1,1,1,1,1.0
+2013-12-04 00:00:00 Oklahoma City @ Portland Trail,0,0,0,0,0,0.0
+2016-01-07 00:00:00 Lakers @ Sacramento,1,0,0,0,1,0.0
+2018-04-09 00:00:00 Sacramento @ San Antonio,1,1,1,0,1,1.0
+2016-11-30 00:00:00 San Antonio @ Dallas,1,1,1,1,0,1.0
+2018-02-24 00:00:00 Chicago @ Minnesota,0,0,0,0,0,0.0
+2019-03-24 00:00:00 Cleveland @ Milwaukee,0,0,0,0,0,0.0
+2012-11-16 00:00:00 Atlanta @ Sacramento,1,1,1,1,1,1.0
+2019-04-09 00:00:00 Memphis @ Detroit,1,1,1,1,1,1.0
+2012-12-26 00:00:00 New Orleans @ Orlando,1,1,1,1,1,1.0
+2018-01-24 00:00:00 Utah @ Detroit,0,0,0,0,1,0.0
+2015-04-10 00:00:00 Minnesota @ Lakers,1,1,1,0,0,1.0
+2014-11-04 00:00:00 Houston @ Miami,1,1,1,1,1,1.0
+2017-02-14 00:00:00 Cleveland @ Minnesota,0,0,0,0,1,0.0
+2017-11-30 00:00:00 Cleveland @ Atlanta,1,1,1,1,0,1.0
+2016-03-26 00:00:00 Utah @ Minnesota,0,0,0,0,1,0.0
+2019-10-26 00:00:00 Toronto @ Chicago,1,1,1,1,1,1.0
+2018-02-14 00:00:00 Lakers @ New Orleans,1,0,0,0,0,0.0
+2021-01-15 00:00:00 Clippers @ Sacramento,1,1,1,1,1,1.0
+2015-04-11 00:00:00 Toronto @ Miami,1,1,1,1,1,1.0
+2013-12-08 00:00:00 Indiana @ Oklahoma City,1,1,0,0,0,0.0
+2012-03-14 00:00:00 Philadelphia @ Indiana,0,0,0,0,0,0.0
+2014-02-24 00:00:00 Dallas @ New York,1,1,1,0,0,1.0
+2017-11-07 00:00:00 Memphis @ Portland Trail,1,1,1,1,1,1.0
+2020-01-02 00:00:00 Utah @ Chicago,0,1,1,0,1,1.0
+2014-12-02 00:00:00 Oklahoma City @ New Orleans,0,0,0,0,0,0.0
+2017-01-06 00:00:00 Houston @ Orlando,1,1,1,1,1,1.0
+2012-01-10 00:00:00 Chicago @ Minnesota,1,1,1,0,1,1.0
+2012-02-18 00:00:00 Atlanta @ Portland Trail,0,1,1,0,0,1.0
+2019-02-08 00:00:00 Cleveland @ Washington,0,0,0,0,0,0.0
+2018-03-13 00:00:00 Dallas @ New York,0,0,0,0,1,0.0
+2020-12-23 00:00:00 Sacramento @ Denver,1,1,1,1,1,1.0
+2012-03-31 00:00:00 New Orleans @ Lakers,0,0,0,0,1,0.0
+2015-11-07 00:00:00 Minnesota @ Chicago,1,1,1,1,1,1.0
+2012-01-31 00:00:00 Detroit @ New York,0,1,1,0,0,1.0
+2019-12-13 00:00:00 Clippers @ Minnesota,1,1,1,1,1,1.0
+2016-01-30 00:00:00 Denver @ Indiana,1,1,1,1,1,1.0
+2017-12-27 00:00:00 Utah @ Golden State,0,0,0,0,0,0.0
+2012-02-20 00:00:00 Atlanta @ Chicago,1,1,1,1,0,1.0
+2013-12-31 00:00:00 Brooklyn @ San Antonio,1,1,1,0,0,1.0
+2012-12-18 00:00:00 New Orleans @ Golden State,1,0,1,1,1,1.0
+2014-03-10 00:00:00 Denver @ Charlotte,1,1,0,0,0,0.0
+2015-04-03 00:00:00 Oklahoma City @ Memphis,1,1,0,0,0,0.0
+2015-03-03 00:00:00 Washington @ Chicago,0,0,0,0,0,0.0
+2012-01-23 00:00:00 Phoenix @ Dallas,0,0,0,0,0,0.0
+2012-10-31 00:00:00 Dallas @ Utah,0,0,0,0,0,0.0
+2012-03-27 00:00:00 Cleveland @ Philadelphia,0,1,1,0,0,1.0
+2013-11-25 00:00:00 Denver @ Dallas,1,0,0,1,1,0.0
+2019-10-23 00:00:00 Denver @ Portland Trail,1,1,1,1,1,1.0
+2014-01-29 00:00:00 Philadelphia @ Boston,1,1,1,0,1,1.0
+2016-01-19 00:00:00 Milwaukee @ Miami,0,0,0,0,1,0.0
+2021-04-07 00:00:00 San Antonio @ Denver,0,0,0,0,0,0.0
+2012-03-06 00:00:00 Houston @ Boston,0,0,0,0,0,0.0
+2015-12-12 00:00:00 Indiana @ Detroit,0,0,0,0,0,0.0
+2014-01-01 00:00:00 New Orleans @ Minnesota,0,0,0,0,0,0.0
+2013-02-10 00:00:00 Lakers @ Miami,0,0,0,0,0,0.0
+2015-11-21 00:00:00 Philadelphia @ Miami,1,0,0,0,1,0.0
+2014-03-14 00:00:00 Phoenix @ Boston,0,1,1,0,1,1.0
+2013-12-17 00:00:00 New Orleans @ Golden State,1,0,0,0,0,0.0
+2018-01-15 00:00:00 Lakers @ Memphis,1,1,1,1,0,1.0
+2015-12-06 00:00:00 Dallas @ Washington,1,1,1,0,1,1.0
+2019-01-16 00:00:00 San Antonio @ Dallas,0,0,0,0,1,0.0
+2021-01-07 00:00:00 Philadelphia @ Brooklyn,0,0,0,0,0,0.0
+2012-01-03 00:00:00 Portland Trail @ Oklahoma City,1,1,1,1,1,1.0
+2019-11-19 00:00:00 Portland Trail @ New Orleans,1,1,1,0,0,1.0
+2012-04-03 00:00:00 Phoenix @ Sacramento,0,0,0,0,1,0.0
+2018-03-13 00:00:00 Clippers @ Chicago,0,0,0,0,0,0.0
+2014-12-19 00:00:00 Clippers @ Denver,1,1,1,0,0,1.0
+2016-01-23 00:00:00 Milwaukee @ New Orleans,0,0,0,0,0,0.0
+2018-12-20 00:00:00 Dallas @ Clippers,0,0,0,0,0,0.0
+2020-02-22 00:00:00 Dallas @ Atlanta,1,1,1,1,0,1.0
+2021-02-02 00:00:00 Detroit @ Utah,0,0,0,0,1,0.0
+2016-02-18 00:00:00 Chicago @ Cleveland,1,1,1,1,1,1.0
+2019-01-10 00:00:00 Boston @ Miami,1,1,0,0,0,0.0
+2017-11-17 00:00:00 Oklahoma City @ San Antonio,0,0,0,0,0,0.0
+2017-11-20 00:00:00 Atlanta @ San Antonio,0,0,0,0,0,0.0
+2020-01-12 00:00:00 San Antonio @ Toronto,0,0,0,0,1,0.0
+2016-03-25 00:00:00 Charlotte @ Detroit,0,0,0,0,0,0.0
+2012-02-03 00:00:00 Lakers @ Denver,0,0,0,0,1,0.0
+2013-12-17 00:00:00 Sacramento @ Charlotte,1,1,1,0,0,1.0
+2017-12-27 00:00:00 Cleveland @ Sacramento,1,0,1,0,0,1.0
+2019-11-23 00:00:00 Toronto @ Atlanta,1,1,1,1,0,1.0
+2012-11-12 00:00:00 Boston @ Chicago,1,1,1,1,1,1.0
+2012-02-17 00:00:00 Minnesota @ Houston,1,1,1,1,1,1.0
+2017-02-11 00:00:00 Clippers @ Charlotte,0,1,1,0,1,1.0
+2020-01-04 00:00:00 Utah @ Orlando,0,0,0,0,1,0.0
+2015-02-20 00:00:00 Houston @ Dallas,1,1,1,0,0,1.0
+2012-01-29 00:00:00 Clippers @ Denver,0,0,0,0,1,0.0
+2012-12-05 00:00:00 Lakers @ New Orleans,1,1,1,1,1,1.0
+2012-11-21 00:00:00 Brooklyn @ Golden State,1,1,1,1,0,1.0
+2021-04-11 00:00:00 New Orleans @ Cleveland,0,0,0,0,0,0.0
+2018-04-03 00:00:00 Indiana @ Denver,1,1,1,0,1,1.0
+2016-01-08 00:00:00 Oklahoma City @ Lakers,0,0,0,0,0,0.0
+2013-11-01 00:00:00 Clippers @ Sacramento,1,1,0,0,1,0.0
+2013-11-29 00:00:00 Cleveland @ Boston,0,0,0,0,0,0.0
+2021-01-23 00:00:00 Philadelphia @ Detroit,0,1,1,0,0,1.0
+2016-11-14 00:00:00 Miami @ San Antonio,1,1,1,1,1,1.0
+2018-12-23 00:00:00 Clippers @ Golden State,1,1,1,1,1,1.0
+2012-04-10 00:00:00 Charlotte @ Cleveland,1,1,0,0,0,0.0
+2013-01-07 00:00:00 Dallas @ Utah,0,0,0,0,0,0.0
+2018-01-03 00:00:00 Phoenix @ Denver,1,1,1,0,0,1.0
+2015-01-16 00:00:00 New Orleans @ Philadelphia,0,0,0,0,0,0.0
+2015-01-23 00:00:00 Orlando @ New York,1,1,1,0,0,1.0
+2016-01-01 00:00:00 New York @ Chicago,1,0,0,0,0,0.0
+2014-04-04 00:00:00 New Orleans @ Utah,1,0,0,0,0,0.0
+2013-11-23 00:00:00 Cleveland @ San Antonio,0,0,0,0,0,0.0
+2015-03-17 00:00:00 Orlando @ Houston,1,1,0,0,0,0.0
+2012-01-16 00:00:00 New Jersey @ Clippers,0,0,0,0,0,0.0
+2012-11-17 00:00:00 Miami @ Phoenix,0,0,0,0,1,0.0
+2013-03-22 00:00:00 Washington @ Lakers,1,1,0,0,1,0.0
+2016-12-09 00:00:00 Atlanta @ Milwaukee,0,0,1,0,1,1.0
+2014-12-08 00:00:00 Golden State @ Minnesota,1,1,0,1,1,0.0
+2020-02-23 00:00:00 Minnesota @ Denver,1,1,1,1,1,1.0
+2018-11-12 00:00:00 San Antonio @ Sacramento,1,0,0,0,0,0.0
+2016-02-09 00:00:00 Utah @ Dallas,0,0,0,0,1,0.0
+2019-03-26 00:00:00 Atlanta @ New Orleans,0,0,0,0,1,0.0
+2012-02-23 00:00:00 Orlando @ Atlanta,0,0,0,0,0,0.0
+2012-01-29 00:00:00 Atlanta @ New Orleans,1,1,1,1,1,1.0
+2014-12-02 00:00:00 Lakers @ Detroit,1,1,1,1,1,1.0
+2013-11-23 00:00:00 Philadelphia @ Indiana,0,0,0,0,1,0.0
+2013-12-23 00:00:00 Detroit @ Cleveland,1,1,1,1,1,1.0
+2017-11-24 00:00:00 Orlando @ Boston,0,0,0,0,0,0.0
+2018-02-26 00:00:00 Chicago @ Brooklyn,1,1,1,0,0,1.0
+2018-04-03 00:00:00 Atlanta @ Miami,1,1,1,1,1,1.0
+2014-03-03 00:00:00 Chicago @ Brooklyn,1,1,1,1,0,1.0
+2013-03-27 00:00:00 Atlanta @ Toronto,0,1,1,0,1,1.0
+2017-01-25 00:00:00 Toronto @ Memphis,1,1,1,1,1,1.0
+2013-03-22 00:00:00 Cleveland @ Houston,1,0,1,0,0,1.0
+2016-02-23 00:00:00 Orlando @ Philadelphia,1,1,1,1,1,1.0
+2013-12-03 00:00:00 Oklahoma City @ Sacramento,0,1,0,0,0,0.0
+2018-01-23 00:00:00 Cleveland @ San Antonio,0,0,0,0,0,0.0
+2014-02-01 00:00:00 Brooklyn @ Indiana,0,0,1,0,1,1.0
+2018-01-20 00:00:00 Dallas @ Portland Trail,1,1,0,0,0,0.0
+2016-12-21 00:00:00 Milwaukee @ Cleveland,0,0,0,0,0,0.0
+2012-04-01 00:00:00 Denver @ Orlando,1,1,1,1,1,1.0
+2021-03-12 00:00:00 Philadelphia @ Washington,1,1,1,1,1,1.0
+2012-01-30 00:00:00 Dallas @ Phoenix,0,1,1,0,1,1.0
+2012-11-12 00:00:00 Utah @ Toronto,0,0,0,0,1,0.0
+2012-11-27 00:00:00 Indiana @ Lakers,1,1,0,1,1,0.0
+2018-01-12 00:00:00 Cleveland @ Indiana,0,0,0,0,0,0.0
+2020-01-12 00:00:00 Clippers @ Denver,0,0,0,0,0,0.0
+2021-02-22 00:00:00 Miami @ Oklahoma City,1,1,1,1,1,1.0
+2019-01-01 00:00:00 Philadelphia @ Clippers,0,0,0,0,1,0.0
+2013-02-19 00:00:00 Milwaukee @ Brooklyn,1,1,1,1,1,1.0
+2012-04-25 00:00:00 Chicago @ Indiana,1,1,1,0,1,1.0
+2019-03-30 00:00:00 Cleveland @ Clippers,0,0,0,0,0,0.0
+2016-11-26 00:00:00 Detroit @ Oklahoma City,0,0,0,0,0,0.0
+2018-11-07 00:00:00 Chicago @ New Orleans,1,1,1,0,1,1.0
+2014-02-12 00:00:00 Atlanta @ Toronto,1,1,1,0,0,1.0
+2013-01-20 00:00:00 Oklahoma City @ Denver,0,0,0,0,0,0.0
+2015-11-16 00:00:00 Lakers @ Phoenix,0,0,0,0,0,0.0
+2016-03-06 00:00:00 Phoenix @ Memphis,1,0,0,0,1,0.0
+2019-03-24 00:00:00 San Antonio @ Boston,0,0,0,0,1,0.0
+2017-10-18 00:00:00 Charlotte @ Detroit,0,0,0,0,0,0.0
+2012-11-11 00:00:00 Sacramento @ Lakers,0,0,0,0,0,0.0
+2019-01-15 00:00:00 Oklahoma City @ Atlanta,0,0,0,0,0,0.0
+2017-11-03 00:00:00 Charlotte @ San Antonio,1,0,0,1,0,0.0
+2014-12-02 00:00:00 Milwaukee @ Cleveland,1,1,1,0,1,1.0
+2021-04-29 00:00:00 Milwaukee @ Houston,0,0,1,1,0,1.0
+2018-01-26 00:00:00 Indiana @ Cleveland,1,1,1,1,0,1.0
+2015-11-28 00:00:00 New Orleans @ Utah,0,0,0,0,0,0.0
+2021-04-04 00:00:00 New Orleans @ Houston,1,1,1,1,1,1.0
+2021-04-10 00:00:00 Detroit @ Portland Trail,1,1,1,1,0,1.0
+2014-02-19 00:00:00 Boston @ Phoenix,0,0,0,0,0,0.0
+2016-12-23 00:00:00 Oklahoma City @ Boston,1,1,1,1,1,1.0
+2013-12-27 00:00:00 Toronto @ New York,1,1,1,1,1,1.0
+2018-03-01 00:00:00 Lakers @ Miami,1,1,1,1,1,1.0
+2014-03-29 00:00:00 Detroit @ Philadelphia,1,0,1,1,0,1.0
+2019-01-17 00:00:00 Philadelphia @ Indiana,1,1,0,0,1,0.0
+2018-01-17 00:00:00 New Orleans @ Atlanta,1,1,1,0,0,1.0
+2013-02-08 00:00:00 Phoenix @ Oklahoma City,0,0,0,0,0,0.0
+2018-11-14 00:00:00 Chicago @ Boston,0,0,1,0,0,1.0
+2016-04-03 00:00:00 Boston @ Lakers,0,1,0,0,0,0.0
+2012-11-21 00:00:00 Detroit @ Orlando,0,0,0,0,0,0.0
+2018-01-30 00:00:00 Golden State @ Utah,0,0,0,0,0,0.0
+2012-04-15 00:00:00 Houston @ Denver,0,0,1,0,0,1.0
+2016-04-06 00:00:00 Houston @ Dallas,0,0,0,0,0,0.0
+2019-11-02 00:00:00 Toronto @ Milwaukee,1,1,1,1,0,1.0
+2012-03-30 00:00:00 Philadelphia @ Washington,0,1,0,0,0,0.0
+2016-10-29 00:00:00 Boston @ Charlotte,1,1,1,0,1,1.0
+2019-10-28 00:00:00 Golden State @ New Orleans,1,1,1,1,1,1.0
+2014-02-28 00:00:00 Sacramento @ Lakers,1,1,1,1,0,1.0
+2015-03-09 00:00:00 Washington @ Charlotte,1,1,1,1,1,1.0
+2015-12-05 00:00:00 Indiana @ Utah,1,1,1,1,0,1.0
+2013-12-21 00:00:00 Memphis @ New York,1,1,1,1,1,1.0
+2021-03-31 00:00:00 New York @ Minnesota,1,1,1,1,0,1.0
+2017-03-13 00:00:00 Milwaukee @ Memphis,1,1,1,0,0,1.0
+2013-03-18 00:00:00 Dallas @ Atlanta,1,1,1,0,1,1.0
+2015-03-07 00:00:00 Phoenix @ Cleveland,1,1,1,1,1,1.0
+2017-03-01 00:00:00 Dallas @ Atlanta,1,1,0,0,1,0.0
+2014-12-22 00:00:00 Portland Trail @ Houston,1,1,1,1,0,1.0
+2012-03-06 00:00:00 New Jersey @ Miami,0,0,0,0,0,0.0
+2019-01-21 00:00:00 Portland Trail @ Utah,0,0,0,0,1,0.0
+2020-02-24 00:00:00 Orlando @ Brooklyn,1,0,1,0,1,1.0
+2019-12-12 00:00:00 Philadelphia @ Boston,0,0,0,0,1,0.0
+2014-12-19 00:00:00 Portland Trail @ San Antonio,1,1,1,1,1,1.0
+2020-12-27 00:00:00 Milwaukee @ New York,0,0,0,0,0,0.0
+2012-11-02 00:00:00 Milwaukee @ Boston,1,1,1,1,1,1.0
+2018-01-31 00:00:00 New York @ Boston,0,0,0,0,0,0.0
+2017-01-10 00:00:00 Charlotte @ Houston,0,0,0,0,1,0.0
+2017-03-08 00:00:00 Boston @ Golden State,0,0,0,0,1,0.0
+2014-02-25 00:00:00 Houston @ Sacramento,0,1,1,0,1,1.0
+2013-03-21 00:00:00 Philadelphia @ Denver,1,0,0,0,1,0.0
+2013-12-09 00:00:00 Dallas @ Sacramento,0,1,0,0,0,0.0
+2013-01-31 00:00:00 Dallas @ Golden State,0,0,0,0,1,0.0
+2013-04-07 00:00:00 Orlando @ Cleveland,1,1,1,0,0,1.0
+2015-11-20 00:00:00 San Antonio @ New Orleans,0,1,0,0,0,0.0
+2015-11-21 00:00:00 Sacramento @ Orlando,0,0,0,0,1,0.0
+2018-01-30 00:00:00 Denver @ San Antonio,0,0,0,0,1,0.0
+2014-03-07 00:00:00 Atlanta @ Golden State,1,1,0,0,0,0.0
+2018-02-11 00:00:00 New York @ Indiana,1,0,1,0,0,1.0
+2013-04-09 00:00:00 Cleveland @ Indiana,1,1,1,1,1,1.0
+2013-03-16 00:00:00 Indiana @ Philadelphia,0,0,0,0,0,0.0
+2018-04-03 00:00:00 Sacramento @ Phoenix,1,1,1,0,0,1.0
+2013-02-22 00:00:00 Houston @ Brooklyn,0,1,0,0,1,0.0
+2016-11-27 00:00:00 Atlanta @ Lakers,0,0,0,0,0,0.0
+2021-03-14 00:00:00 Miami @ Orlando,0,0,1,0,0,1.0
+2012-12-18 00:00:00 Atlanta @ Washington,1,1,1,1,0,1.0
+2012-12-31 00:00:00 Miami @ Orlando,0,0,0,0,0,0.0
+2019-03-27 00:00:00 Golden State @ Memphis,0,0,1,0,1,1.0
+2016-12-17 00:00:00 Charlotte @ Atlanta,1,1,1,1,1,1.0
+2016-02-28 00:00:00 Toronto @ Detroit,1,0,1,0,0,1.0
+2018-11-11 00:00:00 Orlando @ New York,1,1,1,1,1,1.0
+2013-11-15 00:00:00 Philadelphia @ Atlanta,1,1,1,1,0,1.0
+2018-01-03 00:00:00 San Antonio @ Philadelphia,1,1,1,1,0,1.0
+2013-01-21 00:00:00 Brooklyn @ New York,0,1,0,0,1,0.0
+2017-04-12 00:00:00 Dallas @ Memphis,1,1,1,0,1,1.0
+2013-10-31 00:00:00 Golden State @ Clippers,0,0,0,0,0,0.0
+2016-03-01 00:00:00 Orlando @ Dallas,0,1,1,0,0,1.0
+2012-01-03 00:00:00 Sacramento @ Memphis,0,0,0,0,0,0.0
+2016-04-13 00:00:00 Orlando @ Charlotte,0,0,0,0,0,0.0
+2018-03-15 00:00:00 Charlotte @ Atlanta,0,0,0,0,1,0.0
+2012-04-18 00:00:00 Lakers @ Golden State,0,0,0,0,1,0.0
+2012-02-03 00:00:00 Miami @ Philadelphia,0,0,0,0,1,0.0
+2020-02-08 00:00:00 Brooklyn @ Toronto,0,0,0,0,1,0.0
+2016-04-05 00:00:00 Lakers @ Clippers,1,1,0,0,0,0.0
+2013-01-17 00:00:00 Milwaukee @ Phoenix,1,1,1,1,1,1.0
+2013-03-08 00:00:00 Atlanta @ Boston,1,1,0,0,0,0.0
+2015-01-07 00:00:00 Indiana @ Golden State,0,0,0,0,0,0.0
+2013-01-18 00:00:00 Atlanta @ Brooklyn,1,1,1,1,1,1.0
+2016-02-19 00:00:00 Minnesota @ Memphis,1,0,1,1,0,1.0
+2020-03-07 00:00:00 Houston @ Charlotte,0,1,1,0,0,1.0
+2018-12-28 00:00:00 Clippers @ Lakers,0,0,0,0,1,0.0
+2018-11-01 00:00:00 New Orleans @ Portland Trail,1,0,0,0,0,0.0
+2019-01-13 00:00:00 Houston @ Orlando,0,0,0,0,0,0.0
+2013-01-09 00:00:00 Milwaukee @ Chicago,1,1,1,1,1,1.0
+2013-11-02 00:00:00 Houston @ Utah,1,1,1,1,1,1.0
+2016-01-08 00:00:00 Denver @ Memphis,1,1,1,1,0,1.0
+2015-03-04 00:00:00 Cleveland @ Toronto,0,0,0,0,1,0.0
+2019-02-23 00:00:00 Portland Trail @ Philadelphia,0,0,0,0,1,0.0
+2017-11-20 00:00:00 Washington @ Milwaukee,1,1,1,1,1,1.0
+2016-03-22 00:00:00 Houston @ Oklahoma City,1,1,0,0,1,0.0
+2018-10-17 00:00:00 Denver @ Clippers,1,1,1,1,1,1.0
+2018-11-05 00:00:00 Miami @ Detroit,1,1,1,1,1,1.0
+2021-01-29 00:00:00 Cleveland @ New York,0,0,0,0,0,0.0
+2012-02-20 00:00:00 Memphis @ Houston,0,0,0,0,0,0.0
+2012-04-06 00:00:00 Memphis @ Miami,0,0,0,0,1,0.0
+2014-10-30 00:00:00 New York @ Cleveland,1,1,1,1,1,1.0
+2019-02-27 00:00:00 Milwaukee @ Sacramento,0,0,0,0,0,0.0
+2018-01-29 00:00:00 Boston @ Denver,1,0,1,0,1,1.0
+2017-01-02 00:00:00 New Orleans @ Cleveland,0,0,0,0,1,0.0
+2021-01-08 00:00:00 Chicago @ Lakers,1,1,1,0,1,1.0
+2015-03-25 00:00:00 Chicago @ Toronto,0,0,0,0,1,0.0
+2015-04-15 00:00:00 Miami @ Philadelphia,1,1,1,1,1,1.0
+2014-04-12 00:00:00 Sacramento @ Clippers,0,0,0,0,0,0.0
+2019-11-06 00:00:00 Orlando @ Dallas,1,1,0,1,1,0.0
+2012-11-25 00:00:00 Portland Trail @ Brooklyn,0,0,0,0,0,0.0
+2011-12-28 00:00:00 Washington @ Atlanta,0,0,0,0,0,0.0
+2014-02-19 00:00:00 Orlando @ Cleveland,0,0,0,0,0,0.0
+2015-03-09 00:00:00 Memphis @ Chicago,0,0,0,0,1,0.0
+2016-11-25 00:00:00 New Orleans @ Portland Trail,1,1,1,1,0,1.0
+2017-11-28 00:00:00 Phoenix @ Chicago,1,1,1,0,1,1.0
+2013-01-16 00:00:00 New Orleans @ Boston,1,1,1,1,1,1.0
+2014-10-30 00:00:00 Utah @ Dallas,0,0,0,0,0,0.0
+2018-11-23 00:00:00 New Orleans @ New York,0,0,0,0,0,0.0
+2012-01-02 00:00:00 Toronto @ New York,1,1,1,1,1,1.0
+2014-11-05 00:00:00 Denver @ Sacramento,0,0,0,0,0,0.0
+2021-01-15 00:00:00 Chicago @ Oklahoma City,1,1,1,1,0,1.0
+2018-11-29 00:00:00 Indiana @ Lakers,1,1,1,1,0,1.0
+2018-03-04 00:00:00 Philadelphia @ Milwaukee,0,0,0,0,0,0.0
+2016-11-01 00:00:00 Orlando @ Philadelphia,1,1,0,0,0,0.0
+2021-01-25 00:00:00 Toronto @ Indiana,1,0,0,0,0,0.0
+2017-12-29 00:00:00 Houston @ Washington,1,1,1,0,0,1.0
+2019-10-30 00:00:00 Chicago @ Cleveland,0,0,0,0,0,0.0
+2015-10-31 00:00:00 Brooklyn @ Memphis,1,1,1,1,1,1.0
+2012-11-16 00:00:00 Dallas @ Indiana,0,0,0,0,0,0.0
+2020-02-05 00:00:00 Denver @ Utah,1,1,1,1,1,1.0
+2013-03-01 00:00:00 Sacramento @ San Antonio,0,0,0,0,0,0.0
+2017-11-24 00:00:00 New York @ Atlanta,0,0,0,0,0,0.0
+2014-01-31 00:00:00 Oklahoma City @ Brooklyn,1,1,1,1,1,1.0
+2018-04-05 00:00:00 Washington @ Cleveland,1,1,1,0,1,1.0
+2012-02-08 00:00:00 Clippers @ Cleveland,0,0,0,0,0,0.0
+2020-12-30 00:00:00 Portland Trail @ Clippers,1,1,1,1,0,1.0
+2015-01-31 00:00:00 Oklahoma City @ Memphis,0,0,0,0,0,0.0
+2019-12-16 00:00:00 Miami @ Memphis,1,1,1,0,0,1.0
+2017-12-11 00:00:00 New Orleans @ Houston,1,1,1,1,1,1.0
+2019-01-28 00:00:00 Atlanta @ Clippers,1,0,0,0,1,0.0
+2019-02-27 00:00:00 Indiana @ Dallas,0,1,0,0,0,0.0
+2013-02-27 00:00:00 Golden State @ New York,0,0,0,0,1,0.0
+2019-02-25 00:00:00 San Antonio @ Brooklyn,0,0,0,0,0,0.0
+2016-11-25 00:00:00 Clippers @ Detroit,0,0,0,0,0,0.0
+2018-01-13 00:00:00 Sacramento @ Clippers,0,0,0,0,0,0.0
+2012-11-27 00:00:00 Dallas @ Philadelphia,1,1,0,0,1,0.0
+2011-12-30 00:00:00 Philadelphia @ Utah,0,0,0,0,0,0.0
+2017-11-05 00:00:00 Indiana @ New York,0,0,0,0,0,0.0
+2012-11-28 00:00:00 Houston @ Oklahoma City,0,0,0,0,0,0.0
+2020-12-25 00:00:00 Brooklyn @ Boston,1,1,1,1,1,1.0
+2019-03-24 00:00:00 Sacramento @ Lakers,0,0,0,0,0,0.0
+2015-04-08 00:00:00 Boston @ Detroit,0,0,0,0,1,0.0
+2016-12-28 00:00:00 Sacramento @ Portland Trail,0,0,0,0,0,0.0
+2018-11-30 00:00:00 New Orleans @ Miami,0,0,0,0,0,0.0
+2017-01-25 00:00:00 Lakers @ Portland Trail,0,0,0,0,1,0.0
+2021-03-24 00:00:00 Memphis @ Oklahoma City,1,1,1,1,1,1.0
+2017-11-11 00:00:00 Philadelphia @ Golden State,1,1,1,1,0,1.0
+2015-11-15 00:00:00 New Orleans @ New York,0,0,0,0,0,0.0
+2014-02-19 00:00:00 San Antonio @ Portland Trail,1,1,1,1,1,1.0
+2013-01-19 00:00:00 Memphis @ Chicago,1,1,0,0,1,0.0
+2017-01-13 00:00:00 Boston @ Atlanta,1,1,1,1,1,1.0
+2017-10-25 00:00:00 Toronto @ Golden State,1,1,1,1,1,1.0
+2019-12-10 00:00:00 Washington @ Charlotte,0,0,0,0,0,0.0
+2014-02-03 00:00:00 Orlando @ Indiana,0,0,0,0,0,0.0
+2018-12-01 00:00:00 Golden State @ Detroit,0,0,0,0,0,0.0
+2016-01-23 00:00:00 Memphis @ Minnesota,0,1,1,0,0,1.0
+2015-10-31 00:00:00 Phoenix @ Portland Trail,1,1,1,1,1,1.0
+2012-02-01 00:00:00 Chicago @ Philadelphia,0,0,0,0,0,0.0
+2019-12-17 00:00:00 Phoenix @ Clippers,1,1,1,1,0,1.0
+2013-04-17 00:00:00 Washington @ Chicago,1,1,0,0,1,0.0
+2019-11-18 00:00:00 Milwaukee @ Chicago,1,1,1,1,1,1.0
+2019-12-23 00:00:00 New Orleans @ Portland Trail,0,0,0,0,1,0.0
+2016-12-02 00:00:00 Minnesota @ New York,0,0,0,0,0,0.0
+2019-02-22 00:00:00 Detroit @ Atlanta,0,0,1,0,0,1.0
+2019-02-23 00:00:00 Brooklyn @ Charlotte,0,0,0,0,1,0.0
+2013-11-23 00:00:00 Charlotte @ Milwaukee,1,1,1,1,1,1.0
+2013-01-04 00:00:00 Lakers @ Clippers,0,0,0,0,0,0.0
+2016-03-14 00:00:00 Chicago @ Toronto,1,1,1,0,1,1.0
+2015-12-21 00:00:00 Oklahoma City @ Clippers,1,1,0,0,0,0.0
+2015-11-28 00:00:00 Toronto @ Washington,0,1,0,0,0,0.0
+2019-12-16 00:00:00 Cleveland @ Toronto,0,0,0,0,0,0.0
+2013-04-12 00:00:00 Minnesota @ Utah,1,1,1,0,1,1.0
+2021-02-14 00:00:00 Portland Trail @ Dallas,1,1,1,1,1,1.0
+2018-02-02 00:00:00 Portland Trail @ Toronto,0,0,0,0,0,0.0
+2019-01-10 00:00:00 Clippers @ Denver,0,0,0,0,0,0.0
+2013-03-17 00:00:00 Sacramento @ Lakers,0,0,0,0,0,0.0
+2012-12-18 00:00:00 Philadelphia @ Dallas,1,1,1,0,0,1.0
+2012-11-10 00:00:00 Denver @ Golden State,1,1,1,0,1,1.0
+2017-01-23 00:00:00 Houston @ Milwaukee,0,0,0,0,0,0.0
+2015-12-03 00:00:00 San Antonio @ Memphis,1,1,1,1,1,1.0
+2015-01-25 00:00:00 Minnesota @ Atlanta,1,1,1,0,1,1.0
+2021-03-25 00:00:00 Washington @ New York,0,0,0,0,0,0.0
+2014-01-21 00:00:00 Portland Trail @ Oklahoma City,1,1,1,1,0,1.0
+2019-11-04 00:00:00 Detroit @ Washington,1,1,1,0,0,1.0
+2013-11-07 00:00:00 Atlanta @ Denver,1,1,1,1,1,1.0
+2013-01-21 00:00:00 Clippers @ Golden State,0,0,1,0,0,1.0
+2019-01-19 00:00:00 Milwaukee @ Orlando,0,0,0,0,0,0.0
+2012-02-12 00:00:00 Lakers @ Toronto,0,0,0,0,0,0.0
+2015-11-10 00:00:00 Oklahoma City @ Washington,1,1,1,1,1,1.0
+2021-05-02 00:00:00 Brooklyn @ Milwaukee,0,0,0,0,0,0.0
+2017-10-18 00:00:00 Minnesota @ San Antonio,0,0,0,0,0,0.0
+2012-03-07 00:00:00 New Orleans @ Sacramento,1,1,1,1,1,1.0
+2016-11-01 00:00:00 Memphis @ Minnesota,0,0,0,0,0,0.0
+2015-11-02 00:00:00 Cleveland @ Philadelphia,1,1,1,1,0,1.0
+2017-03-30 00:00:00 Brooklyn @ Detroit,0,0,0,0,1,0.0
+2018-11-14 00:00:00 Detroit @ Toronto,1,1,1,1,1,1.0
+2015-12-16 00:00:00 Phoenix @ Golden State,0,0,0,0,0,0.0
+2017-03-03 00:00:00 Miami @ Orlando,0,0,0,0,0,0.0
+2012-03-24 00:00:00 Indiana @ Milwaukee,1,1,1,1,1,1.0
+2016-03-05 00:00:00 Detroit @ New York,0,0,0,0,0,0.0
+2012-04-20 00:00:00 Golden State @ Dallas,1,1,1,1,1,1.0
+2015-01-11 00:00:00 Miami @ Clippers,1,1,1,0,1,1.0
+2012-11-12 00:00:00 Milwaukee @ Philadelphia,1,1,1,1,1,1.0
+2017-10-29 00:00:00 San Antonio @ Indiana,0,0,0,0,0,0.0
+2016-11-30 00:00:00 Washington @ Oklahoma City,0,0,0,0,0,0.0
+2019-12-20 00:00:00 Minnesota @ Denver,1,1,1,1,1,1.0
+2018-11-28 00:00:00 Utah @ Brooklyn,0,1,1,0,1,1.0
+2018-11-07 00:00:00 Minnesota @ Lakers,0,0,0,0,1,0.0
+2013-01-02 00:00:00 Clippers @ Golden State,0,0,0,0,0,0.0
+2015-03-03 00:00:00 Milwaukee @ Denver,0,0,0,0,0,0.0
+2016-12-28 00:00:00 Milwaukee @ Detroit,1,1,1,0,1,1.0
+2012-04-13 00:00:00 Phoenix @ Houston,1,1,1,0,1,1.0
+2017-12-05 00:00:00 Phoenix @ Toronto,1,1,1,0,1,1.0
+2013-02-06 00:00:00 Brooklyn @ Detroit,1,1,1,0,1,1.0
+2016-02-27 00:00:00 Memphis @ Phoenix,0,0,0,0,0,0.0
+2016-11-28 00:00:00 Boston @ Miami,0,1,1,0,1,1.0
+2014-12-27 00:00:00 Atlanta @ Milwaukee,1,1,1,0,1,1.0
+2021-02-03 00:00:00 Boston @ Sacramento,1,1,1,1,0,1.0
+2015-03-19 00:00:00 Denver @ Houston,0,0,0,0,0,0.0
+2021-02-28 00:00:00 Charlotte @ Sacramento,1,1,1,1,1,1.0
+2018-02-11 00:00:00 Sacramento @ Minnesota,0,0,1,0,1,1.0
+2013-04-10 00:00:00 Brooklyn @ Boston,1,1,1,1,1,1.0
+2019-11-02 00:00:00 Brooklyn @ Detroit,0,0,0,0,0,0.0
+2015-11-12 00:00:00 Clippers @ Phoenix,0,0,0,0,0,0.0
+2019-12-03 00:00:00 Houston @ San Antonio,0,0,0,0,0,0.0
+2014-01-08 00:00:00 Lakers @ Houston,1,1,1,0,0,1.0
+2017-02-26 00:00:00 Phoenix @ Milwaukee,0,1,1,0,1,1.0
+2016-12-14 00:00:00 Charlotte @ Washington,0,0,0,0,0,0.0
+2012-03-02 00:00:00 Golden State @ Philadelphia,0,0,1,0,0,1.0
+2021-04-17 00:00:00 Memphis @ Milwaukee,1,1,1,1,1,1.0
+2015-01-02 00:00:00 Toronto @ Golden State,0,0,0,0,0,0.0
+2020-01-30 00:00:00 Philadelphia @ Atlanta,0,0,0,0,0,0.0
+2017-02-23 00:00:00 Charlotte @ Detroit,0,0,0,0,0,0.0
+2018-12-28 00:00:00 San Antonio @ Denver,0,0,0,0,1,0.0
+2017-12-22 00:00:00 Dallas @ Miami,0,0,0,0,0,0.0
+2013-01-21 00:00:00 Lakers @ Chicago,0,0,0,0,0,0.0
+2021-01-04 00:00:00 Indiana @ New Orleans,1,1,1,1,1,1.0
+2015-11-02 00:00:00 San Antonio @ New York,1,1,1,1,1,1.0
+2016-01-08 00:00:00 Toronto @ Washington,1,1,1,0,1,1.0
+2016-03-14 00:00:00 Cleveland @ Utah,0,0,0,0,0,0.0
+2016-03-26 00:00:00 Toronto @ New Orleans,0,0,0,0,1,0.0
+2020-03-05 00:00:00 Philadelphia @ Sacramento,1,1,1,1,1,1.0
+2013-10-30 00:00:00 Oklahoma City @ Utah,0,1,0,0,0,0.0
+2012-11-25 00:00:00 Detroit @ New York,0,0,0,0,0,0.0
+2019-10-26 00:00:00 Orlando @ Atlanta,0,0,0,0,0,0.0
+2014-02-13 00:00:00 Brooklyn @ Chicago,0,0,0,0,0,0.0
+2014-03-18 00:00:00 Miami @ Cleveland,0,0,0,0,0,0.0
+2021-04-19 00:00:00 Chicago @ Boston,1,1,1,1,1,1.0
+2012-04-22 00:00:00 Toronto @ Detroit,1,0,0,0,1,0.0
+2018-01-09 00:00:00 Sacramento @ Lakers,1,1,1,1,0,1.0
+2021-04-15 00:00:00 Boston @ Lakers,0,0,0,0,1,0.0
+2012-03-26 00:00:00 Sacramento @ Houston,0,0,0,0,0,0.0
+2018-03-16 00:00:00 Miami @ Lakers,1,0,1,0,1,1.0
+2012-11-26 00:00:00 Milwaukee @ Chicago,1,1,1,1,1,1.0
+2021-04-25 00:00:00 Sacramento @ Golden State,1,0,1,0,1,1.0
+2017-11-28 00:00:00 Washington @ Minnesota,1,1,1,1,1,1.0
+2016-11-15 00:00:00 Atlanta @ Miami,1,1,1,1,0,1.0
+2013-04-14 00:00:00 Chicago @ Miami,1,0,0,0,0,0.0
+2016-11-30 00:00:00 Indiana @ Portland Trail,0,0,0,0,0,0.0
+2015-10-28 00:00:00 San Antonio @ Oklahoma City,0,0,0,0,0,0.0
+2017-01-27 00:00:00 Brooklyn @ Cleveland,1,1,1,0,1,1.0
+2016-11-10 00:00:00 Chicago @ Miami,1,1,1,1,1,1.0
+2015-01-30 00:00:00 Sacramento @ Cleveland,1,1,1,1,0,1.0
+2021-03-24 00:00:00 Detroit @ Indiana,1,1,1,1,1,1.0
+2020-01-27 00:00:00 Sacramento @ Minnesota,1,1,1,1,1,1.0
+2019-03-24 00:00:00 Denver @ Indiana,0,0,0,0,0,0.0
+2019-01-20 00:00:00 Clippers @ San Antonio,1,1,1,1,1,1.0
+2015-02-02 00:00:00 Charlotte @ Washington,1,1,1,0,1,1.0
+2017-02-15 00:00:00 Miami @ Houston,0,0,1,0,1,1.0
+2016-03-06 00:00:00 Oklahoma City @ Milwaukee,0,0,0,0,0,0.0
+2014-11-04 00:00:00 Oklahoma City @ Toronto,0,0,0,0,0,0.0
+2013-02-02 00:00:00 Utah @ Portland Trail,1,0,1,0,0,1.0
+2012-03-03 00:00:00 Minnesota @ Portland Trail,1,1,1,0,1,1.0
+2012-11-29 00:00:00 San Antonio @ Miami,1,1,1,1,1,1.0
+2019-02-02 00:00:00 Houston @ Utah,1,1,1,0,1,1.0
+2017-03-26 00:00:00 Phoenix @ Charlotte,1,1,1,1,0,1.0
+2017-11-27 00:00:00 Sacramento @ Golden State,0,0,0,0,1,0.0
+2015-12-10 00:00:00 Clippers @ Chicago,0,0,0,0,0,0.0
+2013-01-18 00:00:00 Sacramento @ Memphis,0,0,0,0,0,0.0
+2016-02-10 00:00:00 Golden State @ Phoenix,0,0,0,0,0,0.0
+2018-10-29 00:00:00 Dallas @ San Antonio,1,0,0,1,1,0.0
+2017-03-31 00:00:00 San Antonio @ Oklahoma City,0,0,0,0,1,0.0
+2017-02-28 00:00:00 Utah @ Oklahoma City,0,0,0,0,0,0.0
+2013-02-20 00:00:00 Orlando @ Dallas,1,1,1,1,0,1.0
+2017-11-27 00:00:00 Brooklyn @ Houston,1,1,1,1,1,1.0
+2016-02-04 00:00:00 Toronto @ Portland Trail,1,1,1,0,1,1.0
+2013-04-07 00:00:00 Washington @ Boston,0,0,0,0,0,0.0
+2018-10-20 00:00:00 Detroit @ Chicago,0,1,1,0,0,1.0
+2013-03-04 00:00:00 Toronto @ Golden State,1,0,0,0,0,0.0
+2021-02-22 00:00:00 Washington @ Lakers,0,0,1,0,1,1.0
+2017-03-17 00:00:00 Dallas @ Philadelphia,0,0,0,0,0,0.0
+2013-03-27 00:00:00 Milwaukee @ Philadelphia,1,1,1,0,0,1.0
+2017-01-07 00:00:00 New York @ Indiana,0,0,0,0,0,0.0
+2016-12-28 00:00:00 Phoenix @ San Antonio,1,1,1,0,0,1.0
+2015-03-04 00:00:00 Lakers @ Miami,1,1,1,1,1,1.0
+2014-01-02 00:00:00 Brooklyn @ Oklahoma City,0,1,1,0,1,1.0
+2013-01-23 00:00:00 Phoenix @ Sacramento,1,0,1,0,1,1.0
+2021-01-22 00:00:00 Houston @ Detroit,1,1,1,1,1,1.0
+2013-11-08 00:00:00 Toronto @ Indiana,1,0,0,1,1,0.0
+2019-11-10 00:00:00 Cleveland @ New York,1,1,1,1,1,1.0
+2017-03-10 00:00:00 Orlando @ Charlotte,1,1,1,0,0,1.0
+2013-03-25 00:00:00 Lakers @ Golden State,0,0,0,0,0,0.0
+2021-04-08 00:00:00 Lakers @ Miami,1,1,1,1,1,1.0
+2016-03-24 00:00:00 Portland Trail @ Clippers,1,1,1,0,1,1.0
+2018-01-19 00:00:00 Phoenix @ Denver,1,1,1,0,1,1.0
+2015-02-01 00:00:00 Lakers @ New York,1,1,1,0,0,1.0
+2013-04-17 00:00:00 Orlando @ Miami,0,0,0,0,0,0.0
+2013-03-06 00:00:00 Houston @ Dallas,1,1,1,0,0,1.0
+2021-03-26 00:00:00 Brooklyn @ Detroit,0,1,1,0,0,1.0
+2016-12-20 00:00:00 Portland Trail @ Sacramento,0,0,0,0,0,0.0
+2021-01-08 00:00:00 Clippers @ Golden State,0,0,0,0,0,0.0
+2012-01-29 00:00:00 Lakers @ Minnesota,0,0,0,0,1,0.0
+2017-03-11 00:00:00 New Orleans @ Charlotte,0,0,0,0,1,0.0
+2021-05-13 00:00:00 Orlando @ Atlanta,1,0,0,0,0,0.0
+2014-12-12 00:00:00 Orlando @ Atlanta,0,0,0,0,1,0.0
+2015-01-26 00:00:00 Orlando @ Memphis,1,1,1,1,1,1.0
+2021-04-24 00:00:00 Detroit @ Indiana,1,1,0,0,0,0.0
+2013-04-03 00:00:00 Philadelphia @ Charlotte,0,0,0,0,0,0.0
+2013-02-19 00:00:00 San Antonio @ Sacramento,0,1,1,0,0,1.0
+2019-01-08 00:00:00 Denver @ Miami,1,1,1,1,1,1.0
+2012-01-28 00:00:00 Memphis @ Phoenix,0,0,0,0,0,0.0
+2012-01-18 00:00:00 San Antonio @ Orlando,0,0,0,0,1,0.0
+2021-04-28 00:00:00 Lakers @ Washington,1,1,1,1,0,1.0
+2013-02-12 00:00:00 Denver @ Toronto,0,1,1,0,1,1.0
+2015-03-03 00:00:00 Houston @ Atlanta,1,1,0,1,1,0.0
+2012-12-09 00:00:00 Orlando @ Phoenix,1,1,1,1,1,1.0
+2017-11-24 00:00:00 Toronto @ Indiana,1,0,0,0,0,0.0
+2014-02-01 00:00:00 Minnesota @ Atlanta,1,1,1,1,0,1.0
+2016-04-07 00:00:00 Minnesota @ Sacramento,0,0,1,0,1,1.0
+2019-11-27 00:00:00 Clippers @ Memphis,0,0,1,0,0,1.0
+2017-03-17 00:00:00 Minnesota @ Miami,0,1,0,0,0,0.0
+2016-03-15 00:00:00 Toronto @ Milwaukee,1,1,1,1,1,1.0
+2017-12-16 00:00:00 Oklahoma City @ New York,0,0,0,0,0,0.0
+2018-12-12 00:00:00 Milwaukee @ Indiana,0,0,0,0,0,0.0
+2017-01-13 00:00:00 Charlotte @ Philadelphia,1,1,1,0,0,1.0
+2014-03-12 00:00:00 New York @ Boston,0,0,0,0,1,0.0
+2016-02-24 00:00:00 Washington @ Chicago,0,0,0,0,0,0.0
+2018-11-14 00:00:00 New Orleans @ Minnesota,0,0,0,0,0,0.0
+2012-03-04 00:00:00 Miami @ Lakers,0,0,0,0,0,0.0
+2018-01-03 00:00:00 Indiana @ Milwaukee,1,1,1,1,0,1.0
+2017-01-16 00:00:00 Philadelphia @ Milwaukee,1,0,1,0,1,1.0
+2018-01-30 00:00:00 Oklahoma City @ Washington,0,0,0,0,0,0.0
+2012-03-20 00:00:00 Lakers @ Houston,0,0,0,0,0,0.0
+2014-12-29 00:00:00 Sacramento @ Brooklyn,1,1,1,0,0,1.0
+2014-12-17 00:00:00 Memphis @ San Antonio,1,1,1,0,1,1.0
+2018-10-29 00:00:00 Lakers @ Minnesota,1,0,0,0,0,0.0
+2014-11-17 00:00:00 Phoenix @ Boston,0,0,1,0,1,1.0
+2015-03-24 00:00:00 Philadelphia @ Sacramento,0,1,1,0,1,1.0
+2018-03-25 00:00:00 Utah @ Golden State,0,0,0,0,1,0.0
+2013-04-09 00:00:00 Phoenix @ Houston,1,1,1,0,1,1.0
+2021-02-08 00:00:00 Golden State @ San Antonio,0,0,0,0,0,0.0
+2019-02-08 00:00:00 Miami @ Sacramento,1,1,1,1,0,1.0
+2021-04-10 00:00:00 Sacramento @ Utah,0,0,0,0,0,0.0
+2015-11-21 00:00:00 Atlanta @ Cleveland,0,0,0,0,0,0.0
+2014-12-08 00:00:00 Utah @ Sacramento,0,0,0,0,0,0.0
+2014-03-05 00:00:00 Indiana @ Charlotte,0,0,0,0,0,0.0
+2020-03-09 00:00:00 Toronto @ Utah,1,1,1,1,1,1.0
+2015-03-12 00:00:00 Milwaukee @ Indiana,1,1,1,1,1,1.0
+2018-01-05 00:00:00 Chicago @ Dallas,0,1,1,0,1,1.0
+2013-04-12 00:00:00 Charlotte @ Detroit,0,0,0,0,0,0.0
+2016-03-18 00:00:00 Golden State @ Dallas,0,0,0,0,1,0.0
+2017-03-05 00:00:00 Oklahoma City @ Dallas,0,0,0,0,0,0.0
+2015-11-21 00:00:00 Memphis @ San Antonio,0,0,0,0,0,0.0
+2014-04-11 00:00:00 Phoenix @ San Antonio,0,0,1,0,0,1.0
+2012-12-29 00:00:00 Philadelphia @ Portland Trail,1,0,0,0,0,0.0
+2013-11-13 00:00:00 Washington @ San Antonio,1,0,1,1,0,1.0
+2019-12-04 00:00:00 Indiana @ Oklahoma City,1,1,1,0,1,1.0
+2014-03-06 00:00:00 Miami @ San Antonio,1,1,1,0,0,1.0
+2018-02-05 00:00:00 Portland Trail @ Detroit,1,1,1,0,0,1.0
+2014-01-10 00:00:00 Cleveland @ Utah,0,0,0,0,1,0.0
+2014-03-31 00:00:00 Toronto @ Miami,1,1,1,0,0,1.0
+2014-12-23 00:00:00 New Orleans @ Indiana,0,0,0,0,0,0.0
+2015-01-27 00:00:00 Memphis @ Dallas,1,1,1,1,1,1.0
+2018-04-04 00:00:00 Boston @ Toronto,1,1,1,0,0,1.0
+2015-12-09 00:00:00 Clippers @ Milwaukee,0,0,0,0,1,0.0
+2014-12-26 00:00:00 Indiana @ Detroit,1,1,1,0,0,1.0
+2015-12-26 00:00:00 Indiana @ Minnesota,1,1,1,1,1,1.0
+2015-02-25 00:00:00 New York @ Boston,1,1,1,1,0,1.0
+2015-03-01 00:00:00 Philadelphia @ Indiana,1,1,1,0,0,1.0
+2012-12-07 00:00:00 Chicago @ Detroit,0,1,1,0,1,1.0
+2013-12-30 00:00:00 Portland Trail @ New Orleans,0,1,1,0,0,1.0
+2021-03-31 00:00:00 Chicago @ Phoenix,1,1,1,1,1,1.0
+2012-12-12 00:00:00 Dallas @ Boston,0,1,1,0,1,1.0
+2020-02-05 00:00:00 Orlando @ Boston,0,0,0,0,0,0.0
+2015-12-28 00:00:00 Toronto @ Chicago,1,0,0,0,0,0.0
+2016-10-29 00:00:00 Memphis @ New York,0,0,0,0,0,0.0
+2014-01-04 00:00:00 Clippers @ San Antonio,1,1,1,1,0,1.0
+2017-01-29 00:00:00 Houston @ Indiana,0,0,0,0,0,0.0
+2018-10-16 00:00:00 Philadelphia @ Boston,0,0,0,0,0,0.0
+2019-03-17 00:00:00 Lakers @ New York,0,1,1,0,0,1.0
+2018-01-22 00:00:00 Chicago @ New Orleans,0,0,0,0,1,0.0
+2016-03-10 00:00:00 Cleveland @ Lakers,1,1,1,1,1,1.0
+2021-01-20 00:00:00 Detroit @ Atlanta,0,0,0,0,0,0.0
+2019-11-27 00:00:00 Washington @ Phoenix,1,1,1,1,1,1.0
+2013-12-28 00:00:00 Cleveland @ Boston,0,0,0,0,1,0.0
+2018-01-17 00:00:00 Utah @ Sacramento,0,0,0,0,1,0.0
+2019-04-05 00:00:00 Boston @ Indiana,0,0,0,0,1,0.0
+2019-02-06 00:00:00 San Antonio @ Golden State,1,1,1,1,0,1.0
+2013-02-07 00:00:00 Chicago @ Denver,0,0,0,0,0,0.0
+2021-02-17 00:00:00 Houston @ Philadelphia,1,0,0,0,1,0.0
+2019-01-04 00:00:00 Atlanta @ Milwaukee,0,0,1,0,0,1.0
+2016-01-02 00:00:00 Orlando @ Cleveland,1,0,0,0,0,0.0
+2017-12-09 00:00:00 New York @ Chicago,0,0,0,0,0,0.0
+2019-01-16 00:00:00 Toronto @ Boston,0,0,1,0,0,1.0
+2018-11-17 00:00:00 Lakers @ Orlando,1,1,0,1,0,0.0
+2017-11-13 00:00:00 Memphis @ Milwaukee,1,1,1,1,0,1.0
+2014-03-25 00:00:00 Oklahoma City @ Dallas,0,0,0,0,0,0.0
+2013-12-21 00:00:00 Denver @ Clippers,1,1,1,1,0,1.0
+2021-01-10 00:00:00 San Antonio @ Minnesota,1,1,1,1,0,1.0
+2016-12-20 00:00:00 Boston @ Memphis,1,0,1,0,1,1.0
+2019-11-03 00:00:00 Dallas @ Cleveland,1,1,1,1,1,1.0
+2021-01-14 00:00:00 Golden State @ Denver,0,0,1,0,0,1.0
+2012-02-19 00:00:00 Sacramento @ Cleveland,0,0,0,0,1,0.0
+2012-04-12 00:00:00 Clippers @ Minnesota,0,0,0,0,1,0.0
+2015-01-21 00:00:00 Oklahoma City @ Washington,0,0,0,0,1,0.0
+2016-04-08 00:00:00 Lakers @ New Orleans,0,0,0,0,0,0.0
+2018-02-24 00:00:00 Memphis @ Miami,1,1,1,1,0,1.0
+2018-01-28 00:00:00 Phoenix @ Houston,1,1,1,1,1,1.0
+2013-11-13 00:00:00 Oklahoma City @ Clippers,0,0,0,0,0,0.0
+2012-01-06 00:00:00 New Jersey @ Toronto,0,0,0,0,1,0.0
+2018-04-08 00:00:00 Indiana @ Charlotte,1,1,1,0,1,1.0
+2017-01-16 00:00:00 Oklahoma City @ Clippers,0,0,0,0,0,0.0
+2012-03-09 00:00:00 New York @ Milwaukee,0,0,0,0,0,0.0
+2019-02-22 00:00:00 Washington @ Charlotte,0,0,0,0,0,0.0
+2020-01-28 00:00:00 Phoenix @ Dallas,1,1,1,1,1,1.0
+2014-02-21 00:00:00 Atlanta @ Detroit,1,1,1,1,0,1.0
+2015-12-07 00:00:00 Detroit @ Charlotte,0,0,0,0,0,0.0
+2012-02-12 00:00:00 Utah @ Memphis,0,0,0,0,1,0.0
+2017-01-18 00:00:00 Indiana @ Sacramento,0,1,1,0,1,1.0
+2019-02-09 00:00:00 Orlando @ Milwaukee,0,0,0,0,1,0.0
+2019-11-29 00:00:00 Boston @ Brooklyn,1,0,0,0,0,0.0
+2013-03-29 00:00:00 Oklahoma City @ Minnesota,0,0,0,0,0,0.0
+2014-03-03 00:00:00 New Orleans @ Sacramento,1,1,1,0,0,1.0
+2018-03-19 00:00:00 Charlotte @ Philadelphia,1,0,0,0,0,0.0
+2020-01-13 00:00:00 Philadelphia @ Indiana,0,0,0,0,0,0.0
+2017-02-10 00:00:00 San Antonio @ Detroit,0,0,1,0,1,1.0
+2014-02-07 00:00:00 Brooklyn @ Detroit,1,1,1,1,0,1.0
+2015-11-10 00:00:00 Dallas @ New Orleans,1,1,1,1,0,1.0
+2014-11-28 00:00:00 New York @ Oklahoma City,1,1,0,0,0,0.0
+2016-02-03 00:00:00 Indiana @ Brooklyn,1,0,0,0,1,0.0
+2019-02-13 00:00:00 Houston @ Minnesota,0,0,0,0,0,0.0
+2013-12-10 00:00:00 New York @ Cleveland,1,0,0,1,0,0.0
+2013-03-01 00:00:00 New York @ Washington,0,1,1,0,1,1.0
+2017-01-22 00:00:00 Golden State @ Orlando,1,0,0,0,1,0.0
+2021-04-14 00:00:00 Milwaukee @ Minnesota,1,1,1,1,1,1.0
+2017-04-05 00:00:00 Miami @ Charlotte,0,0,1,0,1,1.0
+2014-11-07 00:00:00 Washington @ Toronto,0,0,0,0,0,0.0
+2011-12-28 00:00:00 Philadelphia @ Phoenix,1,1,1,1,1,1.0
+2015-02-09 00:00:00 Atlanta @ Minnesota,1,1,1,1,1,1.0
+2016-01-14 00:00:00 Toronto @ Orlando,1,1,1,1,1,1.0
+2020-02-12 00:00:00 Portland Trail @ Memphis,1,0,0,0,0,0.0
+2012-03-07 00:00:00 Atlanta @ Miami,1,1,1,1,1,1.0
+2017-04-02 00:00:00 Philadelphia @ Toronto,0,0,1,0,1,1.0
+2021-03-26 00:00:00 Portland Trail @ Orlando,0,0,1,0,0,1.0
+2018-01-29 00:00:00 Charlotte @ Indiana,0,0,0,0,0,0.0
+2013-01-02 00:00:00 New Orleans @ Houston,1,1,1,1,0,1.0
+2020-03-02 00:00:00 Dallas @ Chicago,1,1,1,0,0,1.0
+2013-02-26 00:00:00 Golden State @ Indiana,0,0,1,0,0,1.0
+2012-02-01 00:00:00 Clippers @ Utah,0,0,0,0,0,0.0
+2012-01-06 00:00:00 Portland Trail @ Phoenix,0,0,0,0,0,0.0
+2018-10-17 00:00:00 Dallas @ Phoenix,0,0,0,0,0,0.0
+2016-11-17 00:00:00 Philadelphia @ Minnesota,0,0,0,0,0,0.0
+2021-04-25 00:00:00 Milwaukee @ Atlanta,0,0,0,0,0,0.0
+2018-12-12 00:00:00 Atlanta @ Dallas,0,0,0,0,1,0.0
+2017-01-02 00:00:00 Denver @ Golden State,0,1,0,0,1,0.0
+2021-04-16 00:00:00 Oklahoma City @ Detroit,1,1,1,0,0,1.0
+2017-02-23 00:00:00 New York @ Cleveland,0,0,0,0,0,0.0
+2019-03-16 00:00:00 Atlanta @ Boston,0,0,1,0,1,1.0
+2014-12-02 00:00:00 Toronto @ Sacramento,1,1,1,0,1,1.0
+2021-02-20 00:00:00 Miami @ Lakers,0,0,0,0,1,0.0
+2015-02-06 00:00:00 New York @ Brooklyn,1,1,0,1,1,0.0
+2016-03-20 00:00:00 Sacramento @ New York,0,0,0,0,1,0.0
+2020-01-24 00:00:00 Milwaukee @ Charlotte,0,1,1,0,0,1.0
+2019-12-31 00:00:00 Cleveland @ Toronto,0,0,0,0,0,0.0
+2017-11-11 00:00:00 Orlando @ Denver,1,1,1,1,0,1.0
+2017-01-24 00:00:00 Minnesota @ Phoenix,0,1,1,0,0,1.0
+2021-04-16 00:00:00 Memphis @ Chicago,1,1,1,1,1,1.0
+2018-11-02 00:00:00 New York @ Dallas,1,1,1,1,1,1.0
+2014-02-12 00:00:00 Dallas @ Indiana,0,1,1,0,1,1.0
+2012-04-25 00:00:00 Denver @ Oklahoma City,0,0,0,0,1,0.0
+2020-03-11 00:00:00 Denver @ Dallas,0,0,0,0,0,0.0
+2021-05-01 00:00:00 Chicago @ Atlanta,1,1,1,1,0,1.0
+2017-02-08 00:00:00 Clippers @ New York,1,1,0,0,1,0.0
+2019-10-28 00:00:00 Orlando @ Toronto,0,0,0,0,0,0.0
+2017-12-01 00:00:00 Charlotte @ Miami,1,0,0,0,0,0.0
+2018-02-23 00:00:00 San Antonio @ Denver,0,0,0,0,1,0.0
+2012-12-21 00:00:00 Milwaukee @ Boston,1,1,1,1,1,1.0
+2014-01-26 00:00:00 Lakers @ New York,1,1,1,1,0,1.0
+2015-12-22 00:00:00 Lakers @ Denver,1,0,0,0,1,0.0
+2016-01-21 00:00:00 Memphis @ Denver,0,1,1,0,0,1.0
+2011-12-26 00:00:00 Memphis @ San Antonio,0,0,0,0,0,0.0
+2014-01-18 00:00:00 Miami @ Charlotte,1,1,0,0,1,0.0
+2019-01-18 00:00:00 Miami @ Detroit,1,1,1,1,0,1.0
+2019-03-10 00:00:00 New York @ Minnesota,0,0,0,0,0,0.0
+2019-03-19 00:00:00 Philadelphia @ Charlotte,0,0,1,0,1,1.0
+2016-03-02 00:00:00 Chicago @ Orlando,1,1,1,0,0,1.0
+2016-02-21 00:00:00 Indiana @ Orlando,0,1,0,0,1,0.0
+2012-03-25 00:00:00 Denver @ Minnesota,1,1,1,1,0,1.0
+2018-10-31 00:00:00 Denver @ Chicago,0,1,1,0,0,1.0
+2019-03-01 00:00:00 Portland Trail @ Toronto,0,0,0,0,1,0.0
+2018-03-27 00:00:00 Chicago @ Houston,0,0,0,0,0,0.0
+2012-03-27 00:00:00 Atlanta @ Milwaukee,1,1,1,1,0,1.0
+2021-04-27 00:00:00 Dallas @ Golden State,1,1,1,1,1,1.0
+2017-03-28 00:00:00 Miami @ Detroit,0,0,0,0,0,0.0
+2013-04-17 00:00:00 Phoenix @ Denver,0,0,0,0,0,0.0
+2017-12-02 00:00:00 Detroit @ Philadelphia,0,1,1,0,0,1.0
+2016-01-18 00:00:00 Utah @ Charlotte,0,0,0,0,0,0.0
+2012-04-16 00:00:00 Portland Trail @ Phoenix,1,1,1,1,0,1.0
+2018-01-03 00:00:00 New York @ Washington,0,0,0,0,0,0.0
+2012-02-22 00:00:00 Sacramento @ Washington,1,1,1,1,1,1.0
+2018-12-31 00:00:00 Atlanta @ Indiana,1,0,1,0,1,1.0
+2021-02-17 00:00:00 Atlanta @ Boston,1,0,0,0,1,0.0
+2019-12-04 00:00:00 Golden State @ Charlotte,0,0,0,0,0,0.0
+2017-01-15 00:00:00 New York @ Toronto,0,0,0,0,0,0.0
+2012-11-28 00:00:00 San Antonio @ Orlando,1,1,1,1,1,1.0
+2016-12-31 00:00:00 Phoenix @ Utah,1,1,1,0,1,1.0
+2015-04-07 00:00:00 San Antonio @ Oklahoma City,0,0,0,0,1,0.0
+2016-01-22 00:00:00 Clippers @ New York,1,1,1,0,1,1.0
+2012-11-27 00:00:00 Minnesota @ Sacramento,1,1,1,1,1,1.0
+2016-10-31 00:00:00 Chicago @ Brooklyn,1,1,1,1,1,1.0
+2015-12-28 00:00:00 Lakers @ Charlotte,0,0,0,0,1,0.0
+2017-12-14 00:00:00 Lakers @ Cleveland,1,1,1,1,1,1.0
+2014-01-10 00:00:00 Houston @ Atlanta,0,0,0,0,0,0.0
+2019-12-12 00:00:00 Dallas @ Detroit,0,0,0,0,1,0.0
+2018-03-21 00:00:00 Washington @ San Antonio,1,1,0,0,0,0.0
+2016-11-19 00:00:00 Boston @ Detroit,0,0,0,0,1,0.0
+2012-01-28 00:00:00 Sacramento @ Utah,0,0,0,0,1,0.0
+2014-02-21 00:00:00 New York @ Orlando,0,0,0,0,0,0.0
+2018-02-28 00:00:00 Golden State @ Washington,0,0,0,0,0,0.0
+2017-12-26 00:00:00 Chicago @ Milwaukee,1,0,0,0,1,0.0
+2021-05-08 00:00:00 Washington @ Indiana,0,0,0,0,0,0.0
+2012-02-10 00:00:00 Boston @ Toronto,0,0,1,0,0,1.0
+2012-04-08 00:00:00 Detroit @ Miami,0,0,0,0,0,0.0
+2021-02-02 00:00:00 Memphis @ Indiana,1,1,1,1,0,1.0
+2018-01-29 00:00:00 Minnesota @ Atlanta,0,0,0,0,0,0.0
+2014-12-19 00:00:00 Toronto @ Detroit,1,1,1,1,1,1.0
+2013-11-20 00:00:00 Toronto @ Philadelphia,1,1,0,1,1,0.0
+2015-11-25 00:00:00 Dallas @ San Antonio,0,1,1,0,1,1.0
+2014-04-11 00:00:00 Houston @ Minnesota,0,0,0,0,0,0.0
+2017-12-03 00:00:00 Houston @ Lakers,1,0,1,0,1,1.0
+2012-11-16 00:00:00 Golden State @ Minnesota,0,0,0,0,1,0.0
+2019-10-25 00:00:00 Toronto @ Boston,0,0,0,0,0,0.0
+2019-11-14 00:00:00 Miami @ Cleveland,0,1,1,0,1,1.0
+2021-03-13 00:00:00 Dallas @ Denver,0,0,1,0,1,1.0
+2015-02-21 00:00:00 New Orleans @ Miami,1,1,1,1,1,1.0
+2015-12-14 00:00:00 New Orleans @ Portland Trail,0,0,0,0,0,0.0
+2014-11-24 00:00:00 Chicago @ Utah,1,1,1,1,0,1.0
+2012-01-25 00:00:00 Portland Trail @ Golden State,1,1,1,1,0,1.0
+2014-12-02 00:00:00 Brooklyn @ New York,1,1,1,1,1,1.0
+2017-01-19 00:00:00 Minnesota @ Clippers,0,0,0,0,1,0.0
+2016-03-09 00:00:00 New York @ Phoenix,1,1,1,1,1,1.0
+2016-01-29 00:00:00 Lakers @ Clippers,1,1,0,0,1,0.0
+2021-02-11 00:00:00 Indiana @ Detroit,0,1,1,0,1,1.0
+2018-01-12 00:00:00 Orlando @ Washington,1,1,1,0,1,1.0
+2017-11-19 00:00:00 Golden State @ Brooklyn,0,0,0,0,0,0.0
+2017-03-22 00:00:00 Charlotte @ Orlando,0,0,0,0,1,0.0
+2016-12-05 00:00:00 Memphis @ New Orleans,1,1,1,1,1,1.0
+2021-01-17 00:00:00 Chicago @ Dallas,1,1,1,1,1,1.0
+2019-02-13 00:00:00 Sacramento @ Denver,0,0,0,0,1,0.0
+2019-02-09 00:00:00 Oklahoma City @ Houston,1,1,1,1,1,1.0
+2012-02-13 00:00:00 Philadelphia @ Charlotte,1,1,1,1,0,1.0
+2014-12-28 00:00:00 Houston @ San Antonio,1,1,1,0,0,1.0
+2013-03-15 00:00:00 Memphis @ Denver,1,1,0,0,0,0.0
+2012-03-13 00:00:00 Lakers @ Memphis,0,0,0,0,1,0.0
+2013-02-04 00:00:00 Sacramento @ Utah,0,0,0,0,1,0.0
+2016-11-02 00:00:00 Chicago @ Boston,1,1,0,1,0,0.0
+2016-01-21 00:00:00 San Antonio @ Phoenix,0,0,0,0,1,0.0
+2014-03-16 00:00:00 Golden State @ Portland Trail,0,0,0,0,0,0.0
+2017-12-04 00:00:00 Cleveland @ Chicago,1,1,1,1,1,1.0
+2016-10-30 00:00:00 Lakers @ Oklahoma City,0,0,0,0,0,0.0
+2016-03-02 00:00:00 Sacramento @ Memphis,1,0,0,0,0,0.0
+2012-11-26 00:00:00 New York @ Brooklyn,0,0,0,0,0,0.0
+2018-12-28 00:00:00 Cleveland @ Miami,1,1,1,0,0,1.0
+2016-03-17 00:00:00 Washington @ Philadelphia,0,1,1,0,0,1.0
+2016-03-31 00:00:00 Orlando @ Indiana,1,0,1,0,1,1.0
+2014-12-27 00:00:00 Orlando @ Charlotte,1,1,1,1,1,1.0
+2015-12-26 00:00:00 Philadelphia @ Phoenix,1,1,1,0,1,1.0
+2018-12-15 00:00:00 Chicago @ San Antonio,0,0,0,0,1,0.0
+2016-11-01 00:00:00 Milwaukee @ New Orleans,1,1,1,1,1,1.0
+2013-01-09 00:00:00 Houston @ New Orleans,1,1,1,1,0,1.0
+2013-12-21 00:00:00 Washington @ Boston,1,1,1,0,1,1.0
+2017-12-15 00:00:00 New Orleans @ Denver,0,0,0,0,0,0.0
+2014-11-02 00:00:00 Charlotte @ New York,1,1,1,1,1,1.0
+2021-05-06 00:00:00 Oklahoma City @ Golden State,1,1,0,1,0,0.0
+2021-04-25 00:00:00 Phoenix @ Brooklyn,0,0,0,0,0,0.0
+2021-04-12 00:00:00 Sacramento @ New Orleans,0,0,0,0,0,0.0
+2012-04-03 00:00:00 Orlando @ Detroit,1,1,0,0,0,0.0
+2012-03-26 00:00:00 Milwaukee @ New York,0,1,1,0,0,1.0
+2017-04-04 00:00:00 Orlando @ Cleveland,0,0,0,0,0,0.0
+2019-01-12 00:00:00 Boston @ Orlando,0,0,0,0,0,0.0
+2017-10-18 00:00:00 Denver @ Utah,0,0,0,0,0,0.0
+2019-10-25 00:00:00 Utah @ Lakers,0,0,0,0,0,0.0
+2021-01-29 00:00:00 Sacramento @ Toronto,0,1,1,0,1,1.0
+2020-02-24 00:00:00 Milwaukee @ Washington,0,0,0,0,0,0.0
+2020-01-11 00:00:00 Lakers @ Oklahoma City,1,1,1,1,1,1.0
+2015-11-03 00:00:00 Atlanta @ Miami,1,1,1,1,1,1.0
+2019-01-27 00:00:00 Miami @ New York,1,1,1,1,1,1.0
+2021-04-13 00:00:00 Brooklyn @ Minnesota,1,1,1,1,1,1.0
+2018-03-15 00:00:00 Clippers @ Houston,1,1,1,0,1,1.0
+2012-11-28 00:00:00 Charlotte @ Atlanta,0,0,0,0,1,0.0
+2021-02-12 00:00:00 Clippers @ Chicago,1,1,1,1,1,1.0
+2013-11-30 00:00:00 Minnesota @ Dallas,0,0,0,0,1,0.0
+2021-01-23 00:00:00 New Orleans @ Minnesota,0,0,0,0,0,0.0
+2020-02-24 00:00:00 Atlanta @ Philadelphia,0,0,0,0,0,0.0
+2013-03-06 00:00:00 Brooklyn @ Charlotte,0,1,1,0,1,1.0
+2015-12-07 00:00:00 San Antonio @ Philadelphia,1,1,1,1,1,1.0
+2021-04-02 00:00:00 Minnesota @ Memphis,1,0,1,0,0,1.0
+2011-12-29 00:00:00 Chicago @ Sacramento,0,0,0,0,1,0.0
+2018-03-28 00:00:00 Portland Trail @ Memphis,0,1,0,0,0,0.0
+2021-01-11 00:00:00 Phoenix @ Washington,0,1,1,0,0,1.0
+2019-01-11 00:00:00 Dallas @ Minnesota,0,0,0,0,1,0.0
+2013-12-23 00:00:00 New Orleans @ Sacramento,1,1,1,0,1,1.0
+2019-12-15 00:00:00 Lakers @ Atlanta,0,1,1,1,0,1.0
+2016-03-26 00:00:00 San Antonio @ Oklahoma City,1,1,1,1,0,1.0
+2018-10-22 00:00:00 Phoenix @ Golden State,0,0,0,0,0,0.0
+2017-04-09 00:00:00 Houston @ Sacramento,0,1,1,0,0,1.0
+2018-12-25 00:00:00 Portland Trail @ Utah,0,1,1,0,0,1.0
+2015-11-13 00:00:00 Lakers @ Dallas,1,0,1,1,0,1.0
+2016-02-06 00:00:00 Detroit @ Indiana,0,0,1,0,0,1.0
+2014-11-28 00:00:00 Chicago @ Boston,1,1,1,1,1,1.0
+2021-01-04 00:00:00 Boston @ Toronto,1,1,1,1,1,1.0
+2015-11-20 00:00:00 Houston @ Memphis,1,1,0,0,0,0.0
+2015-01-28 00:00:00 Boston @ Minnesota,1,1,1,0,0,1.0
+2013-01-05 00:00:00 Utah @ Denver,0,0,0,0,0,0.0
+2012-03-11 00:00:00 Houston @ Cleveland,1,1,1,1,0,1.0
+2015-04-07 00:00:00 Minnesota @ Sacramento,1,1,1,0,1,1.0
+2019-03-16 00:00:00 Golden State @ Oklahoma City,1,1,1,1,1,1.0
+2013-01-12 00:00:00 Miami @ Sacramento,0,0,0,0,1,0.0
+2015-03-16 00:00:00 Denver @ Memphis,1,1,1,0,1,1.0
+2015-01-09 00:00:00 Cleveland @ Golden State,0,1,1,0,0,1.0
+2021-01-09 00:00:00 Miami @ Washington,0,0,0,0,0,0.0
+2014-03-08 00:00:00 New York @ Cleveland,1,1,1,0,1,1.0
+2020-03-04 00:00:00 Oklahoma City @ Detroit,0,0,0,0,0,0.0
+2012-12-15 00:00:00 Golden State @ Atlanta,1,1,1,1,1,1.0
+2014-03-26 00:00:00 New York @ Sacramento,0,0,0,0,1,0.0
+2012-04-22 00:00:00 Sacramento @ Charlotte,1,1,1,1,1,1.0
+2017-04-08 00:00:00 Utah @ Portland Trail,1,1,1,0,0,1.0
+2017-01-29 00:00:00 New York @ Atlanta,1,1,1,1,1,1.0
+2019-11-29 00:00:00 Clippers @ San Antonio,0,0,0,0,0,0.0
+2015-02-03 00:00:00 Utah @ Portland Trail,1,0,1,0,1,1.0
+2021-04-23 00:00:00 Clippers @ Houston,1,1,1,1,0,1.0
+2013-01-30 00:00:00 Clippers @ Minnesota,0,1,1,0,1,1.0
+2012-11-04 00:00:00 Detroit @ Lakers,0,0,0,0,0,0.0
+2017-01-08 00:00:00 Cleveland @ Phoenix,0,0,0,0,0,0.0
+2012-12-05 00:00:00 Dallas @ Clippers,0,0,0,0,0,0.0
+2012-03-17 00:00:00 Houston @ Clippers,1,1,1,1,1,1.0
+2012-03-13 00:00:00 Toronto @ Cleveland,1,1,1,1,1,1.0
+2017-04-01 00:00:00 Orlando @ Brooklyn,1,1,1,0,0,1.0
+2014-11-07 00:00:00 Atlanta @ Charlotte,0,0,0,0,0,0.0
+2013-04-15 00:00:00 San Antonio @ Golden State,1,1,1,1,0,1.0
+2013-11-27 00:00:00 Memphis @ Boston,1,1,1,1,1,1.0
+2017-04-01 00:00:00 Atlanta @ Chicago,1,1,1,0,1,1.0
+2020-01-05 00:00:00 New York @ Clippers,0,0,0,0,1,0.0
+2019-01-01 00:00:00 Utah @ Toronto,0,0,0,0,0,0.0
+2018-03-04 00:00:00 Charlotte @ Toronto,0,0,0,0,1,0.0
+2019-02-02 00:00:00 Denver @ Minnesota,0,0,1,0,1,1.0
+2014-02-05 00:00:00 Dallas @ Memphis,1,1,1,1,1,1.0
+2019-03-11 00:00:00 Sacramento @ Washington,0,0,0,0,0,0.0
+2014-12-12 00:00:00 Lakers @ San Antonio,0,0,1,0,1,1.0
+2013-02-10 00:00:00 New Orleans @ Toronto,0,1,1,0,0,1.0
+2015-11-07 00:00:00 Washington @ Atlanta,0,1,0,0,0,0.0
+2015-12-21 00:00:00 Portland Trail @ Atlanta,1,1,1,1,1,1.0
+2020-01-13 00:00:00 New Orleans @ Detroit,1,1,1,0,1,1.0
+2020-02-26 00:00:00 Brooklyn @ Washington,0,0,0,0,0,0.0
+2012-01-03 00:00:00 Charlotte @ Cleveland,0,0,0,0,0,0.0
+2015-12-11 00:00:00 Oklahoma City @ Utah,1,1,1,1,1,1.0
+2017-12-10 00:00:00 Dallas @ Minnesota,1,0,0,0,1,0.0
+2016-11-04 00:00:00 Clippers @ Memphis,0,0,1,0,1,1.0
+2015-11-07 00:00:00 Houston @ Clippers,0,1,1,0,1,1.0
+2013-11-03 00:00:00 Boston @ Detroit,0,0,0,0,0,0.0
+2013-02-13 00:00:00 Washington @ Detroit,0,0,0,0,0,0.0
+2017-04-02 00:00:00 Atlanta @ Brooklyn,1,1,1,0,0,1.0
+2012-01-05 00:00:00 Dallas @ San Antonio,0,0,0,0,0,0.0
+2021-02-13 00:00:00 Brooklyn @ Golden State,0,0,0,0,1,0.0
+2018-01-10 00:00:00 Detroit @ Brooklyn,0,1,0,0,1,0.0
+2014-12-22 00:00:00 Denver @ Charlotte,0,0,1,0,0,1.0
+2012-03-24 00:00:00 Memphis @ Clippers,0,0,1,0,0,1.0
+2012-11-10 00:00:00 San Antonio @ Portland Trail,0,1,1,0,1,1.0
+2020-02-20 00:00:00 Memphis @ Sacramento,1,1,1,0,0,1.0
+2021-03-20 00:00:00 Charlotte @ Clippers,1,0,0,0,0,0.0
+2013-03-22 00:00:00 Milwaukee @ Indiana,0,0,1,0,0,1.0
+2013-03-05 00:00:00 Boston @ Philadelphia,0,0,0,0,1,0.0
+2016-01-04 00:00:00 Sacramento @ Oklahoma City,1,0,0,0,1,0.0
+2021-02-12 00:00:00 San Antonio @ Atlanta,1,1,1,1,1,1.0
+2021-05-12 00:00:00 Boston @ Cleveland,1,1,1,0,0,1.0
+2013-01-06 00:00:00 Denver @ Lakers,1,1,1,1,1,1.0
+2015-11-14 00:00:00 Denver @ Phoenix,0,0,1,0,0,1.0
+2019-02-06 00:00:00 Washington @ Milwaukee,0,0,0,0,0,0.0
+2019-12-17 00:00:00 Lakers @ Indiana,1,1,1,0,0,1.0
+2014-02-10 00:00:00 Philadelphia @ Golden State,1,1,1,0,0,1.0
+2016-01-23 00:00:00 Atlanta @ Phoenix,0,0,0,0,0,0.0
+2021-02-03 00:00:00 Houston @ Oklahoma City,1,1,1,1,0,1.0
+2019-01-29 00:00:00 Philadelphia @ Lakers,0,0,0,0,1,0.0
+2012-12-30 00:00:00 Milwaukee @ Detroit,1,1,1,0,1,1.0
+2012-12-02 00:00:00 Phoenix @ New York,0,0,0,0,1,0.0
+2012-01-16 00:00:00 Dallas @ Lakers,0,0,0,0,1,0.0
+2016-01-29 00:00:00 Miami @ Milwaukee,1,0,1,0,1,1.0
+2014-12-14 00:00:00 San Antonio @ Denver,0,0,0,0,1,0.0
+2016-04-08 00:00:00 Memphis @ Dallas,1,1,1,0,0,1.0
+2016-03-04 00:00:00 Portland Trail @ Toronto,0,1,1,0,1,1.0
+2012-12-11 00:00:00 Washington @ New Orleans,1,1,1,1,1,1.0
+2019-12-21 00:00:00 Sacramento @ Memphis,1,1,1,0,0,1.0
+2018-03-05 00:00:00 Milwaukee @ Indiana,0,0,0,0,0,0.0
+2015-03-12 00:00:00 Houston @ Utah,0,1,1,0,0,1.0
+2018-12-10 00:00:00 New Orleans @ Boston,0,0,0,0,0,0.0
+2016-01-29 00:00:00 Houston @ Oklahoma City,1,1,1,0,1,1.0
+2020-12-27 00:00:00 Minnesota @ Lakers,0,0,0,0,0,0.0
+2021-04-16 00:00:00 Charlotte @ Brooklyn,1,1,1,1,0,1.0
+2017-01-27 00:00:00 Miami @ Chicago,1,0,1,1,1,1.0
+2012-02-08 00:00:00 New York @ Washington,1,1,1,1,1,1.0
+2014-11-24 00:00:00 Orlando @ Cleveland,1,1,1,0,0,1.0
+2012-11-21 00:00:00 Portland Trail @ Phoenix,0,0,0,0,0,0.0
+2017-12-27 00:00:00 Washington @ Atlanta,0,0,0,0,0,0.0
+2014-11-28 00:00:00 Minnesota @ Lakers,1,1,1,1,1,1.0
+2013-02-08 00:00:00 Lakers @ Charlotte,0,1,1,0,1,1.0
+2013-12-18 00:00:00 Charlotte @ Toronto,1,1,1,1,1,1.0
+2012-12-05 00:00:00 New York @ Charlotte,0,1,1,0,0,1.0
+2019-12-20 00:00:00 Memphis @ Cleveland,0,1,1,0,0,1.0
+2017-11-20 00:00:00 Portland Trail @ Memphis,1,1,1,1,1,1.0
+2014-04-03 00:00:00 San Antonio @ Oklahoma City,1,1,1,1,0,1.0
+2016-01-27 00:00:00 Houston @ San Antonio,0,0,0,0,0,0.0
+2013-11-16 00:00:00 Cleveland @ Washington,1,1,1,1,1,1.0
+2014-11-07 00:00:00 Dallas @ Utah,1,1,0,0,1,0.0
+2019-11-18 00:00:00 Oklahoma City @ Clippers,0,0,0,0,1,0.0
+2013-04-15 00:00:00 Chicago @ Orlando,1,1,1,1,1,1.0
+2015-02-05 00:00:00 Phoenix @ Portland Trail,0,0,0,0,0,0.0
+2021-03-02 00:00:00 Memphis @ Washington,1,1,1,1,1,1.0
+2017-11-01 00:00:00 Chicago @ Miami,1,1,1,1,1,1.0
+2018-01-17 00:00:00 Golden State @ Chicago,1,1,1,0,0,1.0
+2020-02-10 00:00:00 San Antonio @ Denver,0,0,0,0,0,0.0
+2019-04-01 00:00:00 Portland Trail @ Minnesota,0,0,0,0,1,0.0
+2017-01-04 00:00:00 Chicago @ Cleveland,0,0,0,0,1,0.0
+2012-03-02 00:00:00 Dallas @ New Orleans,1,1,1,0,0,1.0
+2015-11-14 00:00:00 Philadelphia @ San Antonio,0,0,0,0,1,0.0
+2018-01-06 00:00:00 Boston @ Brooklyn,1,1,1,0,0,1.0
+2021-04-16 00:00:00 Orlando @ Toronto,0,0,1,0,0,1.0
+2018-02-06 00:00:00 Washington @ Philadelphia,1,1,1,1,0,1.0
+2017-02-03 00:00:00 Lakers @ Boston,0,0,0,0,1,0.0
+2014-01-12 00:00:00 Minnesota @ San Antonio,1,0,0,0,0,0.0
+2016-03-07 00:00:00 Memphis @ Cleveland,1,1,1,1,1,1.0
+2015-12-22 00:00:00 Memphis @ Philadelphia,1,1,1,1,1,1.0
+2020-12-26 00:00:00 Minnesota @ Utah,1,1,1,1,1,1.0
+2019-04-09 00:00:00 Charlotte @ Cleveland,0,0,1,0,1,1.0
+2012-01-11 00:00:00 Houston @ San Antonio,0,0,0,0,1,0.0
+2014-01-13 00:00:00 San Antonio @ New Orleans,0,1,1,0,0,1.0
+2015-10-28 00:00:00 Washington @ Orlando,1,1,1,0,0,1.0
+2014-12-30 00:00:00 Phoenix @ New Orleans,0,0,0,0,0,0.0
+2016-01-28 00:00:00 Atlanta @ Indiana,0,0,1,0,0,1.0
+2018-02-22 00:00:00 Philadelphia @ Chicago,0,0,0,0,0,0.0
+2021-04-17 00:00:00 Utah @ Lakers,1,1,1,0,0,1.0
+2019-12-07 00:00:00 Indiana @ New York,1,1,1,1,0,1.0
+2016-03-24 00:00:00 New Orleans @ Indiana,1,1,1,1,1,1.0
+2020-01-18 00:00:00 Orlando @ Golden State,0,0,0,0,0,0.0
+2015-01-25 00:00:00 Washington @ Denver,0,0,0,0,0,0.0
+2013-11-29 00:00:00 Miami @ Toronto,1,1,1,1,1,1.0
+2012-04-02 00:00:00 Minnesota @ Sacramento,1,1,1,1,0,1.0
+2013-11-27 00:00:00 San Antonio @ Oklahoma City,1,1,0,1,0,0.0
+2016-12-02 00:00:00 Lakers @ Toronto,0,0,0,0,0,0.0
+2017-12-26 00:00:00 Toronto @ Dallas,0,0,0,0,0,0.0
+2018-10-24 00:00:00 Washington @ Golden State,0,0,0,0,0,0.0
+2013-03-24 00:00:00 Brooklyn @ Phoenix,1,0,0,0,0,0.0
+2021-04-14 00:00:00 Dallas @ Memphis,1,1,0,0,0,0.0
+2021-03-27 00:00:00 New York @ Milwaukee,0,0,0,0,1,0.0
+2016-12-03 00:00:00 Lakers @ Memphis,0,0,0,0,0,0.0
+2015-02-25 00:00:00 Brooklyn @ New Orleans,0,0,0,0,0,0.0
+2012-02-15 00:00:00 Detroit @ Boston,0,0,0,0,1,0.0
+2021-04-10 00:00:00 Houston @ Golden State,1,0,0,0,0,0.0
+2013-02-19 00:00:00 Chicago @ New Orleans,1,1,1,1,1,1.0
+2018-11-25 00:00:00 Clippers @ Portland Trail,0,0,0,0,1,0.0
+2018-01-31 00:00:00 Memphis @ Indiana,1,1,1,1,1,1.0
+2017-12-08 00:00:00 Chicago @ Charlotte,1,0,1,0,1,1.0
+2012-02-04 00:00:00 New Jersey @ New York,0,0,0,0,0,0.0
+2019-12-13 00:00:00 Milwaukee @ Memphis,1,1,0,1,1,0.0
+2016-12-21 00:00:00 Oklahoma City @ New Orleans,0,1,1,0,1,1.0
+2021-04-09 00:00:00 Chicago @ Atlanta,1,1,0,0,0,0.0
+2016-12-30 00:00:00 Portland Trail @ San Antonio,0,0,0,0,0,0.0
+2012-04-26 00:00:00 Miami @ Washington,1,1,1,1,0,1.0
+2013-11-10 00:00:00 Minnesota @ Lakers,1,1,1,1,1,1.0
+2015-12-16 00:00:00 Charlotte @ Orlando,0,0,0,0,0,0.0
+2014-11-17 00:00:00 Dallas @ Charlotte,1,1,0,1,1,0.0
+2015-12-26 00:00:00 Denver @ San Antonio,1,1,1,0,0,1.0
+2017-03-17 00:00:00 Milwaukee @ Lakers,0,0,0,0,0,0.0
+2019-12-18 00:00:00 Charlotte @ Cleveland,1,1,1,1,1,1.0
+2018-03-04 00:00:00 New Orleans @ Dallas,0,1,1,0,1,1.0
+2014-10-31 00:00:00 Portland Trail @ Sacramento,0,0,0,0,0,0.0
+2019-03-23 00:00:00 Miami @ Washington,1,0,1,0,1,1.0
+2012-04-17 00:00:00 San Antonio @ Lakers,0,0,0,0,1,0.0
+2019-03-18 00:00:00 New York @ Toronto,0,0,0,0,0,0.0
+2021-05-07 00:00:00 Cleveland @ Dallas,1,0,0,0,0,0.0
+2013-01-23 00:00:00 Washington @ Utah,0,0,0,0,1,0.0
+2015-02-20 00:00:00 Miami @ New York,0,1,1,0,1,1.0
+2015-03-16 00:00:00 Charlotte @ Utah,1,1,1,0,0,1.0
+2016-12-20 00:00:00 Brooklyn @ Toronto,0,1,0,0,1,0.0
+2021-05-02 00:00:00 Toronto @ Lakers,1,1,1,1,1,1.0
+2013-02-26 00:00:00 Charlotte @ Clippers,0,1,0,0,0,0.0
+2016-02-05 00:00:00 Boston @ Cleveland,1,1,1,1,1,1.0
+2019-03-11 00:00:00 Charlotte @ Houston,1,0,0,0,0,0.0
+2014-01-15 00:00:00 Houston @ New Orleans,0,0,0,0,0,0.0
+2018-10-22 00:00:00 Indiana @ Minnesota,0,0,0,0,0,0.0
+2012-04-01 00:00:00 New Orleans @ Phoenix,1,1,1,1,0,1.0
+2014-04-16 00:00:00 Washington @ Boston,0,1,1,0,1,1.0
+2012-11-21 00:00:00 San Antonio @ Boston,1,1,1,0,1,1.0
+2013-01-12 00:00:00 Utah @ Detroit,0,0,1,0,1,1.0
+2014-12-01 00:00:00 Miami @ Washington,1,1,1,0,0,1.0
+2017-02-15 00:00:00 Indiana @ Cleveland,0,0,0,0,0,0.0
+2019-11-08 00:00:00 Milwaukee @ Utah,0,0,0,0,0,0.0
+2019-12-27 00:00:00 Phoenix @ Golden State,0,1,0,0,0,0.0
+2017-10-21 00:00:00 Philadelphia @ Toronto,0,0,0,0,0,0.0
+2019-10-23 00:00:00 Oklahoma City @ Utah,1,0,1,1,1,1.0
+2013-11-22 00:00:00 Phoenix @ Charlotte,1,1,1,1,1,1.0
+2020-02-11 00:00:00 Chicago @ Washington,1,1,1,0,0,1.0
+2013-12-11 00:00:00 Orlando @ Charlotte,1,1,0,1,1,0.0
+2015-12-12 00:00:00 Golden State @ Milwaukee,1,1,1,0,0,1.0
+2016-02-19 00:00:00 Philadelphia @ New Orleans,1,0,0,0,1,0.0
+2013-04-09 00:00:00 Washington @ New York,0,0,0,0,0,0.0
+2018-02-27 00:00:00 Clippers @ Denver,1,0,0,0,1,0.0
+2021-02-23 00:00:00 Golden State @ New York,0,0,0,0,1,0.0
+2017-02-26 00:00:00 Memphis @ Denver,1,0,1,0,1,1.0
+2019-03-08 00:00:00 Cleveland @ Miami,1,1,1,0,0,1.0
+2014-03-16 00:00:00 Charlotte @ Milwaukee,0,1,1,0,1,1.0
+2014-02-05 00:00:00 Toronto @ Sacramento,1,1,1,1,0,1.0
+2016-11-16 00:00:00 San Antonio @ Sacramento,1,1,1,1,0,1.0
+2015-03-18 00:00:00 Indiana @ Chicago,0,0,1,0,0,1.0
+2019-02-04 00:00:00 Atlanta @ Washington,1,0,0,0,1,0.0
+2017-04-07 00:00:00 Minnesota @ Utah,1,1,1,0,1,1.0
+2017-03-11 00:00:00 Golden State @ San Antonio,1,1,1,1,0,1.0
+2015-11-27 00:00:00 Cleveland @ Charlotte,0,0,0,0,1,0.0
+2018-11-23 00:00:00 Cleveland @ Philadelphia,1,0,0,0,1,0.0
+2017-11-20 00:00:00 Indiana @ Orlando,1,1,1,1,1,1.0
+2015-02-23 00:00:00 Philadelphia @ Miami,1,1,1,1,1,1.0
+2015-10-28 00:00:00 Denver @ Houston,1,1,1,1,1,1.0
+2013-02-08 00:00:00 Orlando @ Cleveland,1,1,1,1,0,1.0
+2017-02-13 00:00:00 Boston @ Dallas,0,1,1,0,1,1.0
+2017-12-26 00:00:00 Brooklyn @ San Antonio,1,0,0,0,0,0.0
+2016-03-13 00:00:00 New York @ Lakers,1,1,1,1,1,1.0
+2014-11-25 00:00:00 Golden State @ Miami,1,1,0,1,1,0.0
+2013-03-03 00:00:00 Charlotte @ Sacramento,0,0,0,0,0,0.0
+2018-12-18 00:00:00 Washington @ Atlanta,0,0,0,0,0,0.0
+2013-04-17 00:00:00 Milwaukee @ Oklahoma City,0,0,0,0,1,0.0
+2019-11-23 00:00:00 Portland Trail @ Cleveland,0,0,0,0,0,0.0
+2019-02-11 00:00:00 Dallas @ Houston,1,1,1,1,0,1.0
+2016-03-30 00:00:00 Clippers @ Minnesota,0,1,1,0,1,1.0
+2016-11-01 00:00:00 Houston @ Cleveland,0,0,0,0,1,0.0
+2018-12-10 00:00:00 Detroit @ Philadelphia,1,1,1,0,0,1.0
+2015-01-16 00:00:00 Memphis @ Orlando,1,1,1,0,1,1.0
+2018-02-03 00:00:00 Golden State @ Denver,0,0,0,0,0,0.0
+2013-04-03 00:00:00 New York @ Atlanta,1,1,1,1,1,1.0
+2015-11-23 00:00:00 Detroit @ Milwaukee,0,0,0,0,0,0.0
+2018-12-21 00:00:00 Utah @ Portland Trail,0,0,0,0,1,0.0
+2014-03-22 00:00:00 Portland Trail @ Charlotte,1,1,0,1,0,0.0
+2014-01-31 00:00:00 Milwaukee @ Orlando,1,1,0,0,0,0.0
+2012-03-06 00:00:00 Orlando @ Charlotte,1,1,1,0,0,1.0
+2017-11-29 00:00:00 Brooklyn @ Dallas,1,1,1,1,1,1.0
+2013-11-17 00:00:00 Portland Trail @ Toronto,1,1,1,1,1,1.0
+2019-01-11 00:00:00 Brooklyn @ Toronto,1,1,1,1,0,1.0
+2020-01-04 00:00:00 Toronto @ Brooklyn,1,1,1,1,1,1.0
+2015-03-21 00:00:00 Chicago @ Detroit,0,1,0,0,0,0.0
+2012-02-15 00:00:00 Washington @ Clippers,1,0,0,0,0,0.0
+2013-03-22 00:00:00 Oklahoma City @ Orlando,0,0,0,0,0,0.0
+2020-03-08 00:00:00 New Orleans @ Minnesota,0,1,1,0,1,1.0
+2018-03-23 00:00:00 Milwaukee @ Chicago,0,1,1,0,1,1.0
+2016-04-10 00:00:00 Brooklyn @ Indiana,1,1,1,0,0,1.0
+2019-12-18 00:00:00 Miami @ Philadelphia,0,1,0,0,1,0.0
+2014-11-24 00:00:00 Clippers @ Charlotte,1,1,1,1,1,1.0
+2015-10-30 00:00:00 Washington @ Milwaukee,1,1,1,1,1,1.0
+2015-03-13 00:00:00 Atlanta @ Phoenix,0,0,1,0,1,1.0
+2012-12-01 00:00:00 Detroit @ Dallas,0,0,0,0,0,0.0
+2019-12-16 00:00:00 Dallas @ Milwaukee,1,1,1,1,1,1.0
+2018-03-29 00:00:00 Chicago @ Miami,1,1,0,1,1,0.0
+2019-12-17 00:00:00 Sacramento @ Charlotte,0,0,0,0,0,0.0
+2011-12-29 00:00:00 New York @ Lakers,0,0,0,0,0,0.0
+2020-02-13 00:00:00 Oklahoma City @ New Orleans,1,1,1,1,1,1.0
+2017-03-04 00:00:00 Memphis @ Houston,1,1,1,0,0,1.0
+2013-11-01 00:00:00 Toronto @ Atlanta,0,0,0,0,0,0.0
+2016-02-24 00:00:00 Lakers @ Memphis,0,0,0,0,0,0.0
+2017-11-03 00:00:00 Toronto @ Utah,0,0,0,0,1,0.0
+2016-12-16 00:00:00 Charlotte @ Boston,1,1,1,1,0,1.0
+2017-12-17 00:00:00 Sacramento @ Toronto,0,0,0,0,0,0.0
+2019-11-20 00:00:00 San Antonio @ Washington,0,0,0,0,0,0.0
+2017-11-01 00:00:00 Phoenix @ Washington,1,1,1,1,1,1.0
+2020-02-11 00:00:00 Clippers @ Philadelphia,0,0,0,0,0,0.0
+2015-02-27 00:00:00 San Antonio @ Sacramento,0,0,0,0,1,0.0
+2021-01-14 00:00:00 Miami @ Philadelphia,0,0,0,0,0,0.0
+2012-12-19 00:00:00 Milwaukee @ Memphis,1,1,1,1,0,1.0
+2017-04-04 00:00:00 Charlotte @ Washington,0,0,0,0,0,0.0
+2021-05-07 00:00:00 Boston @ Chicago,0,0,0,0,0,0.0
+2012-02-22 00:00:00 Boston @ Oklahoma City,0,0,0,0,0,0.0
+2019-10-27 00:00:00 Portland Trail @ Dallas,1,1,1,1,1,1.0
+2018-11-15 00:00:00 Golden State @ Houston,1,1,1,1,0,1.0
+2014-03-02 00:00:00 Utah @ Indiana,0,0,0,0,1,0.0
+2020-03-05 00:00:00 Denver @ Charlotte,0,1,1,0,0,1.0
+2015-12-02 00:00:00 Toronto @ Atlanta,1,1,1,1,1,1.0
+2015-02-09 00:00:00 New York @ Miami,1,1,0,0,0,0.0
+2012-03-15 00:00:00 Charlotte @ Dallas,0,0,0,0,1,0.0
+2017-12-18 00:00:00 Phoenix @ Dallas,1,1,1,1,1,1.0
+2016-02-18 00:00:00 San Antonio @ Clippers,1,1,1,1,0,1.0
+2016-02-09 00:00:00 Washington @ New York,0,1,1,0,1,1.0
+2020-02-11 00:00:00 San Antonio @ Oklahoma City,1,1,0,0,1,0.0
+2021-03-19 00:00:00 San Antonio @ Cleveland,0,1,0,0,1,0.0
+2015-03-16 00:00:00 Brooklyn @ Minnesota,0,1,1,0,1,1.0
+2021-05-14 00:00:00 New Orleans @ Golden State,0,0,0,0,0,0.0
+2016-03-31 00:00:00 Clippers @ Oklahoma City,1,1,1,1,1,1.0
+2016-02-08 00:00:00 Denver @ Brooklyn,1,1,1,0,0,1.0
+2019-02-27 00:00:00 Golden State @ Miami,0,1,1,0,0,1.0
+2012-01-13 00:00:00 Sacramento @ Houston,0,0,0,0,0,0.0
+2013-03-08 00:00:00 Washington @ Brooklyn,0,0,1,0,0,1.0
+2017-01-22 00:00:00 Phoenix @ Toronto,0,0,1,0,1,1.0
+2020-12-29 00:00:00 New Orleans @ Phoenix,0,0,0,0,0,0.0
+2017-11-11 00:00:00 Clippers @ New Orleans,1,1,1,1,0,1.0
+2015-03-04 00:00:00 Phoenix @ Orlando,1,1,1,0,1,1.0
+2016-04-07 00:00:00 Chicago @ Miami,0,0,1,0,0,1.0
+2015-11-11 00:00:00 Clippers @ Dallas,0,0,0,0,0,0.0
+2012-04-04 00:00:00 Golden State @ Minnesota,1,1,1,1,1,1.0
+2013-04-07 00:00:00 New Orleans @ Phoenix,0,0,1,0,1,1.0
+2019-10-26 00:00:00 New Orleans @ Houston,1,1,1,1,1,1.0
+2014-11-09 00:00:00 Charlotte @ Lakers,0,0,0,0,0,0.0
+2012-03-28 00:00:00 Chicago @ Atlanta,1,1,1,1,1,1.0
+2016-10-26 00:00:00 Dallas @ Indiana,0,0,0,0,0,0.0
+2021-03-15 00:00:00 Clippers @ Dallas,1,1,0,1,1,0.0
+2016-01-15 00:00:00 Atlanta @ Milwaukee,0,0,0,0,0,0.0
+2016-01-15 00:00:00 Charlotte @ New Orleans,1,1,1,0,1,1.0
+2020-03-06 00:00:00 Oklahoma City @ New York,1,1,1,0,1,1.0
+2017-03-20 00:00:00 Denver @ Houston,0,0,0,0,1,0.0
+2013-12-02 00:00:00 Orlando @ Washington,1,0,0,0,0,0.0
+2012-03-24 00:00:00 Sacramento @ Golden State,0,0,0,0,0,0.0
+2021-01-13 00:00:00 Portland Trail @ Sacramento,1,1,1,1,1,1.0
+2018-03-07 00:00:00 Orlando @ Lakers,1,1,0,0,1,0.0
+2018-03-08 00:00:00 Boston @ Minnesota,0,0,0,0,1,0.0
+2015-02-09 00:00:00 Utah @ New Orleans,0,0,0,0,1,0.0
+2016-10-29 00:00:00 Indiana @ Chicago,0,0,0,0,0,0.0
+2015-03-20 00:00:00 Atlanta @ Oklahoma City,0,1,1,0,0,1.0
+2013-04-01 00:00:00 Boston @ Minnesota,1,1,1,0,0,1.0
+2015-03-06 00:00:00 Miami @ Washington,1,0,1,0,1,1.0
+2018-11-03 00:00:00 Boston @ Indiana,0,0,0,0,0,0.0
+2018-01-27 00:00:00 Boston @ Golden State,1,1,1,1,1,1.0
+2014-11-03 00:00:00 Sacramento @ Denver,1,1,1,1,1,1.0
+2013-02-26 00:00:00 Cleveland @ Chicago,1,1,1,1,1,1.0
+2017-02-04 00:00:00 Cleveland @ New York,0,1,0,0,1,0.0
+2016-04-08 00:00:00 New York @ Philadelphia,1,1,1,1,1,1.0
+2018-11-04 00:00:00 Toronto @ Lakers,1,1,1,1,1,1.0
+2018-02-07 00:00:00 San Antonio @ Phoenix,1,1,1,1,1,1.0
+2014-02-07 00:00:00 Cleveland @ Washington,1,1,1,0,1,1.0
+2016-12-28 00:00:00 Indiana @ Washington,0,0,0,0,0,0.0
+2017-12-06 00:00:00 Detroit @ Milwaukee,1,1,1,1,1,1.0
+2013-12-03 00:00:00 Phoenix @ Memphis,1,1,1,1,0,1.0
+2014-11-09 00:00:00 Golden State @ Phoenix,1,1,1,1,0,1.0
+2021-04-30 00:00:00 Orlando @ Memphis,1,1,1,1,0,1.0
+2016-12-29 00:00:00 Toronto @ Phoenix,1,1,0,0,0,0.0
+2013-03-05 00:00:00 Denver @ Sacramento,0,0,0,0,1,0.0
+2011-12-28 00:00:00 Cleveland @ Detroit,1,1,1,1,1,1.0
+2015-01-07 00:00:00 Oklahoma City @ Sacramento,0,0,0,0,0,0.0
+2016-11-09 00:00:00 Portland Trail @ Clippers,0,0,1,0,0,1.0
+2012-12-12 00:00:00 San Antonio @ Utah,0,0,0,0,0,0.0
+2016-02-19 00:00:00 Charlotte @ Milwaukee,0,0,0,0,1,0.0
+2012-04-02 00:00:00 Utah @ Portland Trail,0,0,0,0,1,0.0
+2021-02-01 00:00:00 New York @ Chicago,1,1,1,1,0,1.0
+2018-10-24 00:00:00 Indiana @ San Antonio,1,1,1,1,1,1.0
+2019-02-28 00:00:00 Cleveland @ New York,0,0,1,0,1,1.0
+2017-03-19 00:00:00 Minnesota @ New Orleans,1,1,1,0,0,1.0
+2013-12-07 00:00:00 Miami @ Minnesota,0,0,1,0,1,1.0
+2018-11-14 00:00:00 Memphis @ Milwaukee,0,0,0,0,1,0.0
+2016-03-04 00:00:00 New York @ Boston,1,1,1,0,1,1.0
+2018-03-21 00:00:00 Memphis @ Philadelphia,1,0,1,0,0,1.0
+2021-02-26 00:00:00 Portland Trail @ Lakers,1,1,1,0,0,1.0
+2015-02-27 00:00:00 Charlotte @ Boston,0,1,1,0,0,1.0
+2015-02-20 00:00:00 Brooklyn @ Lakers,0,1,1,0,1,1.0
+2013-03-14 00:00:00 New York @ Portland Trail,1,1,1,1,0,1.0
+2021-03-14 00:00:00 Clippers @ New Orleans,0,0,0,0,0,0.0
+2021-01-29 00:00:00 Atlanta @ Washington,1,1,1,0,1,1.0
+2017-12-12 00:00:00 Washington @ Brooklyn,0,1,0,0,0,0.0
+2019-04-07 00:00:00 Brooklyn @ Indiana,0,0,0,0,1,0.0
+2016-04-13 00:00:00 New Orleans @ Minnesota,1,1,1,1,0,1.0
+2019-11-25 00:00:00 Philadelphia @ Toronto,0,0,0,0,0,0.0
+2018-12-12 00:00:00 Boston @ Washington,1,1,1,0,1,1.0
+2017-03-06 00:00:00 New York @ Orlando,1,1,1,1,1,1.0
+2016-01-04 00:00:00 Charlotte @ Golden State,0,0,0,0,1,0.0
+2021-05-09 00:00:00 New York @ Clippers,1,0,0,0,1,0.0
+2019-02-11 00:00:00 Miami @ Denver,1,1,0,0,0,0.0
+2016-01-10 00:00:00 Boston @ Memphis,1,1,0,0,0,0.0
+2016-11-30 00:00:00 Memphis @ Toronto,1,1,1,1,0,1.0
+2018-11-23 00:00:00 Memphis @ Clippers,0,0,0,0,0,0.0
+2020-01-16 00:00:00 Utah @ New Orleans,0,0,0,0,0,0.0
+2016-01-23 00:00:00 New York @ Charlotte,0,0,0,0,0,0.0
+2012-12-01 00:00:00 Memphis @ San Antonio,1,1,1,1,1,1.0
+2020-01-02 00:00:00 Denver @ Indiana,0,0,0,0,1,0.0
+2015-01-28 00:00:00 Charlotte @ San Antonio,1,1,1,1,1,1.0
+2019-11-03 00:00:00 Lakers @ San Antonio,0,0,1,0,1,1.0
+2017-04-12 00:00:00 Sacramento @ Clippers,1,1,1,1,0,1.0
+2016-11-02 00:00:00 Oklahoma City @ Clippers,1,1,1,1,1,1.0
+2020-01-25 00:00:00 Oklahoma City @ Minnesota,1,1,1,1,1,1.0
+2017-11-14 00:00:00 Toronto @ Houston,1,1,1,1,1,1.0
+2012-12-12 00:00:00 Washington @ Houston,1,1,1,0,1,1.0
+2015-02-23 00:00:00 Milwaukee @ Chicago,1,1,1,1,0,1.0
+2014-03-06 00:00:00 Oklahoma City @ Phoenix,0,0,0,0,0,0.0
+2020-01-31 00:00:00 Oklahoma City @ Phoenix,1,1,1,0,1,1.0
+2017-02-06 00:00:00 Utah @ Atlanta,1,1,1,1,1,1.0
+2016-11-19 00:00:00 Minnesota @ Memphis,0,0,0,0,0,0.0
+2014-02-25 00:00:00 Minnesota @ Phoenix,1,1,1,0,1,1.0
+2020-12-26 00:00:00 Indiana @ Chicago,1,1,1,1,1,1.0
+2017-01-20 00:00:00 Utah @ Dallas,0,1,1,0,0,1.0
+2012-12-14 00:00:00 Dallas @ Toronto,0,0,0,0,0,0.0
+2016-12-17 00:00:00 Portland Trail @ Golden State,0,0,0,0,0,0.0
+2015-04-01 00:00:00 Sacramento @ Houston,1,0,0,0,1,0.0
+2013-11-10 00:00:00 Washington @ Oklahoma City,1,0,0,1,1,0.0
+2015-12-31 00:00:00 Minnesota @ Detroit,1,1,1,1,0,1.0
+2013-12-18 00:00:00 San Antonio @ Phoenix,1,1,1,1,1,1.0
+2019-02-27 00:00:00 Portland Trail @ Boston,0,0,0,0,1,0.0
+2012-12-17 00:00:00 Chicago @ Memphis,1,1,1,1,0,1.0
+2016-03-16 00:00:00 Dallas @ Cleveland,0,0,0,0,1,0.0
+2012-03-27 00:00:00 Lakers @ Golden State,0,0,0,0,0,0.0
+2012-04-24 00:00:00 Clippers @ Atlanta,0,0,0,0,0,0.0
+2012-01-24 00:00:00 Memphis @ Portland Trail,0,0,0,0,0,0.0
+2015-12-12 00:00:00 Lakers @ Houston,1,1,1,0,0,1.0
+2013-04-02 00:00:00 Dallas @ Lakers,0,0,0,0,0,0.0
+2012-04-12 00:00:00 Miami @ Chicago,0,0,1,0,0,1.0
+2017-01-23 00:00:00 Oklahoma City @ Utah,0,0,0,0,1,0.0
+2017-12-01 00:00:00 Minnesota @ Oklahoma City,0,0,0,0,1,0.0
+2018-10-17 00:00:00 Atlanta @ New York,0,0,0,0,0,0.0
+2017-03-03 00:00:00 Brooklyn @ Utah,1,0,0,0,0,0.0
+2021-02-16 00:00:00 Toronto @ Milwaukee,0,0,1,0,1,1.0
+2015-01-30 00:00:00 Minnesota @ Philadelphia,0,0,0,0,0,0.0
+2016-11-14 00:00:00 Philadelphia @ Houston,0,0,0,0,0,0.0
+2016-02-22 00:00:00 Indiana @ Miami,1,0,1,0,0,1.0
+2016-03-13 00:00:00 Indiana @ Atlanta,1,1,1,0,0,1.0
+2014-03-04 00:00:00 Miami @ Houston,1,1,1,0,0,1.0
+2019-02-25 00:00:00 Dallas @ Clippers,0,0,0,0,0,0.0
+2017-11-10 00:00:00 Milwaukee @ San Antonio,1,1,0,1,1,0.0
+2016-01-09 00:00:00 Brooklyn @ Detroit,0,0,0,0,0,0.0
+2019-12-28 00:00:00 Atlanta @ Chicago,1,0,1,0,0,1.0
+2016-12-26 00:00:00 Milwaukee @ Washington,1,0,0,0,0,0.0
+2015-02-05 00:00:00 Washington @ Charlotte,0,1,0,0,0,0.0
+2016-01-02 00:00:00 Phoenix @ Sacramento,1,1,1,0,0,1.0
+2019-03-11 00:00:00 Boston @ Clippers,0,0,0,0,0,0.0
+2018-11-19 00:00:00 Dallas @ Memphis,0,0,0,0,0,0.0
+2014-03-05 00:00:00 Sacramento @ Milwaukee,1,1,1,1,1,1.0
+2014-11-14 00:00:00 San Antonio @ Lakers,0,1,1,0,1,1.0
+2021-04-20 00:00:00 Brooklyn @ New Orleans,1,1,1,1,1,1.0
+2012-02-17 00:00:00 Golden State @ Oklahoma City,0,0,0,0,0,0.0
+2019-12-31 00:00:00 Boston @ Charlotte,1,1,1,1,1,1.0
+2012-01-01 00:00:00 Boston @ Washington,0,0,1,0,1,1.0
+2014-01-22 00:00:00 Sacramento @ Houston,0,0,0,0,0,0.0
+2018-03-04 00:00:00 New York @ Sacramento,0,0,1,0,0,1.0
+2012-02-20 00:00:00 Orlando @ Milwaukee,0,1,1,0,1,1.0
+2019-11-08 00:00:00 Philadelphia @ Denver,1,1,1,0,1,1.0
+2021-04-03 00:00:00 Orlando @ Utah,0,0,0,0,0,0.0
+2016-11-04 00:00:00 Golden State @ Lakers,0,0,0,0,0,0.0
+2015-12-03 00:00:00 Indiana @ Portland Trail,0,1,1,0,0,1.0
+2018-03-07 00:00:00 Utah @ Indiana,0,0,0,0,1,0.0
+2014-10-29 00:00:00 Washington @ Miami,0,0,0,0,0,0.0
+2019-03-09 00:00:00 Boston @ Lakers,0,0,0,0,1,0.0
+2016-02-28 00:00:00 Philadelphia @ Orlando,1,1,1,0,0,1.0
+2012-03-28 00:00:00 San Antonio @ Sacramento,0,0,1,0,1,1.0
+2019-03-23 00:00:00 Boston @ Charlotte,0,0,0,0,0,0.0
+2015-04-11 00:00:00 Philadelphia @ Chicago,1,1,1,0,1,1.0
+2012-02-08 00:00:00 Houston @ Portland Trail,0,0,0,0,1,0.0
+2013-11-29 00:00:00 Washington @ Indiana,0,0,1,0,0,1.0
+2016-03-18 00:00:00 Oklahoma City @ Philadelphia,1,1,0,1,0,0.0
+2016-04-05 00:00:00 Chicago @ Memphis,0,0,0,0,0,0.0
+2015-01-03 00:00:00 Utah @ Minnesota,1,1,1,1,1,1.0
+2017-02-08 00:00:00 Toronto @ Minnesota,0,0,0,0,0,0.0
+2016-02-01 00:00:00 Cleveland @ Indiana,0,0,0,0,0,0.0
+2021-05-16 00:00:00 Houston @ Atlanta,0,0,0,0,0,0.0
+2014-03-27 00:00:00 Lakers @ Milwaukee,1,1,1,1,0,1.0
+2017-11-11 00:00:00 Sacramento @ New York,0,0,0,0,0,0.0
+2013-11-22 00:00:00 Milwaukee @ Philadelphia,1,0,0,0,0,0.0
+2016-10-28 00:00:00 Orlando @ Detroit,0,0,0,0,0,0.0
+2018-01-03 00:00:00 Oklahoma City @ Lakers,1,1,1,0,1,1.0
+2014-03-24 00:00:00 Detroit @ Utah,0,0,0,0,1,0.0
+2019-11-17 00:00:00 Denver @ Memphis,1,1,0,1,1,0.0
+2018-02-05 00:00:00 Orlando @ Miami,1,1,1,1,1,1.0
+2021-03-11 00:00:00 Golden State @ Clippers,0,0,0,0,0,0.0
+2015-03-22 00:00:00 Miami @ Oklahoma City,0,0,0,0,0,0.0
+2016-01-29 00:00:00 Charlotte @ Portland Trail,0,0,0,0,0,0.0
+2015-12-03 00:00:00 Orlando @ Utah,1,1,1,1,1,1.0
+2015-02-07 00:00:00 Portland Trail @ Dallas,0,0,0,0,0,0.0
+2012-01-21 00:00:00 Cleveland @ Atlanta,0,0,0,0,0,0.0
+2016-01-06 00:00:00 Memphis @ Oklahoma City,1,1,1,0,0,1.0
+2013-11-11 00:00:00 Cleveland @ Chicago,0,0,0,0,0,0.0
+2014-01-25 00:00:00 Washington @ Utah,1,1,1,1,0,1.0
+2018-01-30 00:00:00 Cleveland @ Detroit,0,0,0,0,0,0.0
+2015-12-04 00:00:00 Houston @ Dallas,1,1,1,0,1,1.0
+2013-12-27 00:00:00 Milwaukee @ Brooklyn,1,1,1,1,0,1.0
+2013-01-09 00:00:00 Memphis @ Golden State,1,1,1,1,1,1.0
+2021-04-07 00:00:00 Memphis @ Atlanta,1,1,1,0,1,1.0
+2021-02-04 00:00:00 Utah @ Atlanta,0,0,1,0,1,1.0
+2013-02-02 00:00:00 Charlotte @ Houston,0,1,0,0,0,0.0
+2012-02-23 00:00:00 New York @ Miami,1,1,1,0,0,1.0
+2016-12-28 00:00:00 Toronto @ Golden State,0,1,0,0,0,0.0
+2015-01-21 00:00:00 Orlando @ Detroit,1,1,1,1,0,1.0
+2013-03-03 00:00:00 Philadelphia @ Washington,1,1,1,0,1,1.0
+2017-12-19 00:00:00 New Orleans @ Washington,0,0,0,0,0,0.0
+2012-02-29 00:00:00 Cleveland @ New York,1,1,1,1,0,1.0
+2019-12-02 00:00:00 Chicago @ Sacramento,1,1,0,1,1,0.0
+2017-02-25 00:00:00 Indiana @ Miami,0,1,1,0,0,1.0
+2018-01-20 00:00:00 Oklahoma City @ Cleveland,1,0,1,1,1,1.0
+2017-12-08 00:00:00 Boston @ San Antonio,1,1,0,0,0,0.0
+2019-02-28 00:00:00 Utah @ Denver,0,0,0,0,1,0.0
+2019-02-07 00:00:00 Minnesota @ Orlando,1,1,1,1,0,1.0
+2017-11-22 00:00:00 Chicago @ Utah,0,0,0,0,0,0.0
+2012-02-20 00:00:00 New Jersey @ New York,1,1,1,1,1,1.0
+2018-12-19 00:00:00 Phoenix @ Boston,0,0,0,0,1,0.0
+2014-03-20 00:00:00 Milwaukee @ Golden State,1,1,1,0,1,1.0
+2019-02-24 00:00:00 San Antonio @ New York,0,0,1,0,0,1.0
+2016-10-26 00:00:00 Oklahoma City @ Philadelphia,1,1,1,0,0,1.0
+2014-02-09 00:00:00 Dallas @ Boston,1,1,1,0,1,1.0
+2018-03-22 00:00:00 Detroit @ Houston,0,0,0,0,1,0.0
+2012-02-21 00:00:00 Detroit @ Cleveland,0,0,0,0,1,0.0
+2014-11-29 00:00:00 New Orleans @ Washington,0,0,0,0,1,0.0
+2015-03-28 00:00:00 New York @ Chicago,1,1,1,1,0,1.0
+2013-12-16 00:00:00 Philadelphia @ Brooklyn,1,1,1,0,0,1.0
+2020-03-10 00:00:00 Cleveland @ Chicago,0,1,1,0,0,1.0
+2016-01-03 00:00:00 Miami @ Washington,1,1,1,0,1,1.0
+2014-03-04 00:00:00 Philadelphia @ Oklahoma City,1,1,1,1,0,1.0
+2019-12-20 00:00:00 Phoenix @ Oklahoma City,0,0,0,0,0,0.0
+2018-01-17 00:00:00 Denver @ Clippers,0,0,0,0,0,0.0
+2016-02-24 00:00:00 Charlotte @ Cleveland,1,0,0,0,0,0.0
+2017-10-25 00:00:00 Utah @ Phoenix,0,0,0,0,0,0.0
+2017-01-05 00:00:00 Brooklyn @ Indiana,0,0,0,0,0,0.0
+2012-12-18 00:00:00 Minnesota @ Miami,1,0,0,0,0,0.0
+2014-02-24 00:00:00 Milwaukee @ Philadelphia,1,0,1,1,1,1.0
+2016-02-26 00:00:00 Orlando @ New York,1,1,1,0,0,1.0
+2021-01-31 00:00:00 Philadelphia @ Indiana,1,1,1,1,1,1.0
+2014-10-30 00:00:00 Detroit @ Minnesota,0,0,0,0,0,0.0
+2018-12-29 00:00:00 Charlotte @ Washington,0,0,0,0,0,0.0
+2013-01-23 00:00:00 Atlanta @ Charlotte,1,1,1,1,1,1.0
+2017-01-20 00:00:00 Indiana @ Lakers,0,0,0,0,0,0.0
+2014-01-11 00:00:00 Charlotte @ Chicago,1,0,1,0,0,1.0
+2015-02-28 00:00:00 Milwaukee @ Utah,1,1,1,1,0,1.0
+2017-02-06 00:00:00 Oklahoma City @ Indiana,0,0,0,0,1,0.0
+2013-01-30 00:00:00 Chicago @ Milwaukee,1,1,1,1,1,1.0
+2013-01-01 00:00:00 Atlanta @ New Orleans,1,1,1,1,1,1.0
+2021-04-05 00:00:00 Sacramento @ Minnesota,1,1,1,0,0,1.0
+2012-11-03 00:00:00 New Orleans @ Chicago,1,1,1,1,1,1.0
+2012-03-23 00:00:00 New Jersey @ Atlanta,0,0,0,0,0,0.0
+2014-11-29 00:00:00 Dallas @ Philadelphia,1,1,1,1,0,1.0
+2013-03-02 00:00:00 Golden State @ Philadelphia,0,0,0,0,0,0.0
+2015-03-22 00:00:00 Charlotte @ Minnesota,0,1,1,0,1,1.0
+2018-11-21 00:00:00 Detroit @ Houston,1,1,1,1,1,1.0
+2019-12-06 00:00:00 Brooklyn @ Charlotte,1,1,1,0,1,1.0
+2013-04-05 00:00:00 New Orleans @ Utah,1,0,1,0,0,1.0
+2013-12-16 00:00:00 Lakers @ Atlanta,0,0,0,0,0,0.0
+2019-03-20 00:00:00 Boston @ Philadelphia,0,0,0,0,1,0.0
+2013-03-09 00:00:00 New Orleans @ Memphis,1,0,0,0,0,0.0
+2017-01-07 00:00:00 New Orleans @ Boston,0,0,0,0,0,0.0
+2018-03-11 00:00:00 Houston @ Dallas,0,1,0,0,1,0.0
+2019-04-01 00:00:00 Detroit @ Indiana,0,0,0,0,0,0.0
+2012-12-28 00:00:00 New York @ Sacramento,1,1,1,0,0,1.0
+2014-02-19 00:00:00 Golden State @ Sacramento,0,1,1,0,1,1.0
+2018-11-23 00:00:00 San Antonio @ Indiana,0,0,0,0,1,0.0
+2021-01-23 00:00:00 Lakers @ Chicago,1,1,1,1,1,1.0
+2013-03-23 00:00:00 Indiana @ Chicago,1,1,1,1,0,1.0
+2012-03-10 00:00:00 Dallas @ Golden State,1,1,1,1,0,1.0
+2013-01-16 00:00:00 Brooklyn @ Atlanta,1,1,0,0,0,0.0
+2014-12-07 00:00:00 Oklahoma City @ Detroit,0,0,0,0,0,0.0
+2015-12-16 00:00:00 Miami @ Brooklyn,0,0,0,0,1,0.0
+2019-12-12 00:00:00 Portland Trail @ Denver,1,0,0,0,0,0.0
+2019-04-07 00:00:00 Charlotte @ Detroit,1,0,0,0,1,0.0
+2016-03-19 00:00:00 Cleveland @ Miami,0,0,0,0,0,0.0
+2013-03-27 00:00:00 Sacramento @ Golden State,0,0,0,0,1,0.0
+2014-11-02 00:00:00 Golden State @ Portland Trail,1,1,1,1,1,1.0
+2017-02-03 00:00:00 Chicago @ Houston,1,1,1,0,1,1.0
+2015-03-13 00:00:00 Golden State @ Denver,1,1,1,1,0,1.0
+2021-03-19 00:00:00 Detroit @ Houston,1,1,1,1,1,1.0
+2014-04-04 00:00:00 Indiana @ Toronto,0,0,0,0,0,0.0
+2021-02-26 00:00:00 Houston @ Toronto,1,1,1,0,0,1.0
+2018-02-10 00:00:00 Lakers @ Dallas,0,1,1,0,0,1.0
+2015-03-27 00:00:00 Dallas @ San Antonio,1,1,1,0,0,1.0
+2017-02-08 00:00:00 Lakers @ Detroit,0,0,0,0,0,0.0
+2017-02-06 00:00:00 Miami @ Minnesota,0,0,0,0,1,0.0
+2017-01-25 00:00:00 Philadelphia @ Milwaukee,1,1,1,1,1,1.0
+2012-03-02 00:00:00 Milwaukee @ Atlanta,0,0,0,0,0,0.0
+2019-02-08 00:00:00 Denver @ Philadelphia,0,0,0,0,0,0.0
+2012-01-29 00:00:00 Cleveland @ Boston,1,1,1,1,1,1.0
+2017-11-15 00:00:00 Detroit @ Milwaukee,1,1,1,1,1,1.0
+2015-10-27 00:00:00 New Orleans @ Golden State,0,0,0,0,0,0.0
+2015-12-19 00:00:00 Indiana @ Memphis,1,0,0,1,0,0.0
+2018-03-24 00:00:00 Minnesota @ Philadelphia,1,1,1,0,0,1.0
+2020-01-17 00:00:00 Atlanta @ San Antonio,1,0,0,0,1,0.0
+2014-02-22 00:00:00 Dallas @ Detroit,1,1,1,0,1,1.0
+2021-02-16 00:00:00 Brooklyn @ Phoenix,1,1,1,1,1,1.0
+2012-12-14 00:00:00 Lakers @ Washington,0,0,1,0,0,1.0
+2017-10-25 00:00:00 Memphis @ Dallas,1,1,1,1,0,1.0
+2020-03-07 00:00:00 Utah @ Detroit,0,1,1,0,0,1.0
+2021-04-21 00:00:00 Miami @ San Antonio,1,1,1,0,1,1.0
+2018-10-24 00:00:00 Memphis @ Sacramento,0,0,0,0,0,0.0
+2015-04-15 00:00:00 Charlotte @ Toronto,1,1,0,0,1,0.0
+2018-03-31 00:00:00 Charlotte @ Washington,1,1,1,0,0,1.0
+2015-03-29 00:00:00 Detroit @ Miami,1,1,1,1,0,1.0
+2017-12-25 00:00:00 Philadelphia @ New York,0,0,0,0,1,0.0
+2017-12-22 00:00:00 Lakers @ Golden State,0,1,1,0,1,1.0
+2017-12-04 00:00:00 Brooklyn @ Atlanta,1,1,1,1,1,1.0
+2015-12-18 00:00:00 Brooklyn @ Indiana,0,0,0,0,1,0.0
+2016-12-25 00:00:00 Clippers @ Lakers,1,1,1,0,0,1.0
+2021-04-14 00:00:00 New York @ New Orleans,1,0,1,0,1,1.0
+2019-12-04 00:00:00 Brooklyn @ Atlanta,0,1,1,0,1,1.0
+2015-03-03 00:00:00 Utah @ Memphis,1,0,1,0,1,1.0
+2014-10-30 00:00:00 Washington @ Orlando,1,1,1,0,1,1.0
+2014-03-14 00:00:00 Cleveland @ Golden State,0,0,0,0,1,0.0
+2012-02-06 00:00:00 Chicago @ New Jersey,1,1,1,1,1,1.0
+2021-05-07 00:00:00 Orlando @ Charlotte,1,0,1,0,0,1.0
+2017-02-15 00:00:00 Atlanta @ Clippers,0,0,1,0,0,1.0
+2018-02-22 00:00:00 Clippers @ Golden State,1,1,1,1,1,1.0
+2019-11-08 00:00:00 Brooklyn @ Portland Trail,1,1,1,1,1,1.0
+2012-04-08 00:00:00 Houston @ Sacramento,0,0,0,0,1,0.0
+2014-11-19 00:00:00 Phoenix @ Detroit,0,1,1,0,0,1.0
+2015-12-13 00:00:00 Minnesota @ Phoenix,1,1,1,1,0,1.0
+2013-03-20 00:00:00 Utah @ Houston,0,0,0,0,1,0.0
+2021-02-14 00:00:00 Minnesota @ Toronto,0,0,1,0,1,1.0
+2015-04-07 00:00:00 Lakers @ Clippers,1,1,1,1,1,1.0
+2018-11-21 00:00:00 Memphis @ San Antonio,1,1,1,0,1,1.0
+2013-11-16 00:00:00 Oklahoma City @ Milwaukee,0,1,1,0,1,1.0
+2015-11-24 00:00:00 Clippers @ Denver,0,0,0,0,1,0.0
+2017-01-25 00:00:00 New York @ Dallas,0,1,1,0,0,1.0
+2014-03-28 00:00:00 Lakers @ Minnesota,0,1,1,0,0,1.0
+2016-12-06 00:00:00 New York @ Miami,0,1,1,0,1,1.0
+2017-03-11 00:00:00 Atlanta @ Memphis,1,1,1,1,1,1.0
+2012-01-12 00:00:00 Orlando @ Golden State,1,1,1,1,1,1.0
+2018-02-07 00:00:00 Minnesota @ Cleveland,0,0,0,0,0,0.0
+2021-04-04 00:00:00 Golden State @ Atlanta,0,0,0,0,0,0.0
+2012-12-31 00:00:00 Brooklyn @ San Antonio,0,0,0,0,0,0.0
+2019-02-02 00:00:00 Brooklyn @ Orlando,1,1,1,1,0,1.0
+2014-01-10 00:00:00 Boston @ Golden State,1,0,0,0,1,0.0
+2018-12-04 00:00:00 Portland Trail @ Dallas,0,0,0,0,0,0.0
+2018-02-04 00:00:00 Lakers @ Oklahoma City,1,1,1,0,1,1.0
+2019-03-01 00:00:00 Chicago @ Atlanta,0,0,1,0,1,1.0
+2018-12-27 00:00:00 New York @ Milwaukee,0,0,0,0,0,0.0
+2018-10-19 00:00:00 Atlanta @ Memphis,0,0,0,0,0,0.0
+2019-11-15 00:00:00 Indiana @ Houston,1,0,0,0,0,0.0
+2016-01-11 00:00:00 San Antonio @ Brooklyn,1,1,0,0,1,0.0
+2013-03-15 00:00:00 Miami @ Milwaukee,1,1,1,0,1,1.0
+2021-05-09 00:00:00 Phoenix @ Lakers,0,0,0,0,0,0.0
+2015-01-25 00:00:00 Miami @ Chicago,1,1,1,1,1,1.0
+2017-03-23 00:00:00 Memphis @ San Antonio,1,0,0,0,1,0.0
+2016-12-06 00:00:00 San Antonio @ Minnesota,1,1,1,1,1,1.0
+2019-02-10 00:00:00 Lakers @ Philadelphia,0,0,0,0,0,0.0
+2014-11-07 00:00:00 Indiana @ Boston,1,0,0,1,1,0.0
+2020-02-11 00:00:00 Portland Trail @ New Orleans,0,1,0,0,0,0.0
+2019-02-28 00:00:00 Philadelphia @ Oklahoma City,0,1,1,0,1,1.0
+2015-11-04 00:00:00 Boston @ Indiana,1,1,0,1,0,0.0
+2016-03-11 00:00:00 Brooklyn @ Philadelphia,1,1,1,1,0,1.0
+2014-11-01 00:00:00 Memphis @ Charlotte,1,1,1,1,1,1.0
+2016-03-15 00:00:00 Denver @ Orlando,1,1,1,0,0,1.0
+2017-04-07 00:00:00 Miami @ Toronto,0,0,1,0,1,1.0
+2013-11-04 00:00:00 Minnesota @ Cleveland,1,0,0,1,1,0.0
+2015-01-03 00:00:00 Boston @ Chicago,1,1,1,1,1,1.0
+2014-12-13 00:00:00 Memphis @ Philadelphia,1,1,1,1,0,1.0
+2019-11-06 00:00:00 Golden State @ Houston,1,1,0,0,0,0.0
+2017-11-05 00:00:00 Charlotte @ Minnesota,0,0,0,0,0,0.0
+2015-03-13 00:00:00 Chicago @ Charlotte,1,1,1,1,0,1.0
+2019-01-30 00:00:00 Charlotte @ Boston,0,0,0,0,0,0.0
+2012-03-11 00:00:00 Boston @ Lakers,0,0,0,0,1,0.0
+2014-12-07 00:00:00 Denver @ Atlanta,0,0,0,0,0,0.0
+2019-03-29 00:00:00 Golden State @ Minnesota,0,0,0,0,0,0.0
+2018-04-03 00:00:00 Orlando @ New York,0,0,0,0,1,0.0
+2012-02-10 00:00:00 Lakers @ New York,0,0,0,0,0,0.0
+2021-01-04 00:00:00 Oklahoma City @ Miami,1,1,1,1,0,1.0
+2019-02-05 00:00:00 Orlando @ Oklahoma City,1,1,0,0,0,0.0
+2014-03-30 00:00:00 Utah @ Oklahoma City,1,0,0,0,0,0.0
+2015-10-28 00:00:00 Indiana @ Toronto,0,0,0,0,0,0.0
+2016-11-06 00:00:00 Portland Trail @ Memphis,1,1,1,1,1,1.0
+2016-01-30 00:00:00 San Antonio @ Cleveland,1,1,0,0,0,0.0
+2017-03-26 00:00:00 Miami @ Boston,1,1,1,0,1,1.0
+2017-10-28 00:00:00 Oklahoma City @ Chicago,1,1,0,1,1,0.0
+2018-10-20 00:00:00 Houston @ Lakers,1,1,1,1,1,1.0
+2015-12-11 00:00:00 Charlotte @ Memphis,1,1,1,1,1,1.0
+2012-01-15 00:00:00 Phoenix @ San Antonio,0,0,0,0,0,0.0
+2013-11-05 00:00:00 Utah @ Brooklyn,0,0,0,0,0,0.0
+2015-10-30 00:00:00 Portland Trail @ Phoenix,0,0,0,0,0,0.0
+2021-02-10 00:00:00 Milwaukee @ Phoenix,0,0,0,0,0,0.0
+2015-03-07 00:00:00 Portland Trail @ Minnesota,1,1,1,1,0,1.0
+2015-04-13 00:00:00 Detroit @ Cleveland,1,1,1,0,0,1.0
+2018-02-04 00:00:00 Milwaukee @ Brooklyn,0,1,1,0,1,1.0
+2015-02-22 00:00:00 Denver @ Oklahoma City,0,0,0,0,0,0.0
+2021-04-23 00:00:00 Washington @ Oklahoma City,0,1,1,1,1,1.0
